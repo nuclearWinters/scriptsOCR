@@ -1,4 +1,4 @@
-let json = require("./json8.json");
+let json = require("./json6.json");
 
 let res = json.responses[0].textAnnotations;
 
@@ -24,6 +24,7 @@ console.log(cifTerminaConLetra);*/
 
 let firstCIF = str.find(item => {
   item = item
+    .replace(/\d{9,}/g, " ")
     .replace(/-/g, " ")
     .replace(/\./g, "")
     .replace(/[a-zA-Z]{2,}/g, " ")
@@ -42,6 +43,7 @@ let firstCIF = str.find(item => {
 
 if (firstCIF) {
   firstCIF = firstCIF
+    .replace(/\d{9,}/g, " ")
     .replace(/-/g, " ")
     .replace(/\./g, "")
     .replace(/[a-zA-Z]{2,}/g, " ")
@@ -172,10 +174,12 @@ console.log(string);
 
 let esFactura = str.filter(item => {
   item = item
+    .replace(/\d{9,}/g, " ")
     .replace(/-/g, " ")
+    .replace(/\./g, "")
     .replace(/[a-zA-Z]{2,}/g, " ")
     .replace(/\s+/g, "");
-  /*if (
+  if (
     (item.match(regexEmpiezaLetra) !== null
       ? item.match(regexEmpiezaLetra)[0]
       : false) ||
@@ -184,7 +188,7 @@ let esFactura = str.filter(item => {
       : false)
   ) {
     console.log(item);
-  }*/
+  }
   return (
     (item.match(regexEmpiezaLetra) !== null
       ? item.match(regexEmpiezaLetra)[0]
