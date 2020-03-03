@@ -1,4 +1,4 @@
-let json = require("./json6.json");
+let json = require("./json11.json");
 
 let res = json.responses[0].textAnnotations;
 
@@ -179,7 +179,7 @@ let esFactura = str.filter(item => {
     .replace(/\./g, "")
     .replace(/[a-zA-Z]{2,}/g, " ")
     .replace(/\s+/g, "");
-  if (
+  /*if (
     (item.match(regexEmpiezaLetra) !== null
       ? item.match(regexEmpiezaLetra)[0]
       : false) ||
@@ -188,7 +188,7 @@ let esFactura = str.filter(item => {
       : false)
   ) {
     console.log(item);
-  }
+  }*/
   return (
     (item.match(regexEmpiezaLetra) !== null
       ? item.match(regexEmpiezaLetra)[0]
@@ -341,9 +341,12 @@ let totales = str.filter(
         .replace(",", ".")
         .replace("€", "")
         .replace("*", "")
+        .replace(/[a-zA-Z]/g, "")
         .replace(/\s+/g, "")
     )
 );
+
+//console.log(str);
 
 //console.log(totales);
 
@@ -356,6 +359,7 @@ console.log(
             .replace(",", ".")
             .replace("€", "")
             .replace("*", "")
+            .replace(/[a-zA-Z]/g, "")
             .replace(/\s+/g, "")
         )
       )
@@ -366,16 +370,19 @@ console.log(
 
 let noFacturaIndex = str.findIndex(
   item =>
-    item.toLowerCase().includes("n°") ||
-    item.toLowerCase().includes("nº") ||
-    item.toLowerCase().includes("número") ||
-    item.toLowerCase().includes("numero") ||
-    item.toLowerCase().includes("#")
+    (item.toLowerCase().includes("n°") ||
+      item.toLowerCase().includes("nº") ||
+      item.toLowerCase().includes("no") ||
+      item.toLowerCase().includes("número") ||
+      item.toLowerCase().includes("numero") ||
+      item.toLowerCase().includes("#")) &&
+    !item.toLowerCase().includes(".")
 );
 
 //console.log(noFacturaIndex);
 
 //console.log(str[noFacturaIndex]);
+
 if (noFacturaIndex === -1) {
   console.log("Invoice Num: NaN");
 } else {
