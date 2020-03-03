@@ -55,6 +55,8 @@ if (firstCIF) {
         ? firstCIF.match(regexEmpiezaLetra)[0]
         : firstCIF.match(regexTerminaLetra)[0])
   );
+} else {
+  console.log("CIF: NaN");
 }
 
 //console.log(indexTextoConPalabraCIF);
