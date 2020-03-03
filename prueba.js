@@ -1,4 +1,4 @@
-let json = require("./json.json");
+let json = require("./json8.json");
 
 let res = json.responses[0].textAnnotations;
 
@@ -17,14 +17,47 @@ let cifTerminaConLetra = res[0].description.match(regexTerminaLetra);
 console.log(cifEmpiezaConLetra);
 console.log(cifTerminaConLetra);*/
 
-let indexTextoConPalabraCIF = str.findIndex(
+/*let indexTextoConPalabraCIF = str.findIndex(
   item =>
     item.toLowerCase().includes("cif") || item.toLowerCase().includes("c.i.f.")
-);
+);*/
+
+let firstCIF = str.find(item => {
+  item = item
+    .replace(/-/g, " ")
+    .replace(/\./g, "")
+    .replace(/[a-zA-Z]{2,}/g, " ")
+    .replace(/\s+/g, "");
+  return (
+    (item.match(regexEmpiezaLetra) !== null
+      ? item.match(regexEmpiezaLetra)[0]
+      : false) ||
+    (item.match(regexTerminaLetra) !== null
+      ? item.match(regexTerminaLetra)[0]
+      : false)
+  );
+});
+
+//console.log(firstCIF);
+
+if (firstCIF) {
+  firstCIF = firstCIF
+    .replace(/-/g, " ")
+    .replace(/\./g, "")
+    .replace(/[a-zA-Z]{2,}/g, " ")
+    .replace(/\s+/g, "");
+
+  console.log(
+    "CIF: " +
+      (firstCIF.match(regexEmpiezaLetra) !== null
+        ? firstCIF.match(regexEmpiezaLetra)[0]
+        : firstCIF.match(regexTerminaLetra)[0])
+  );
+}
 
 //console.log(indexTextoConPalabraCIF);
 
-if (indexTextoConPalabraCIF === -1) {
+/*if (indexTextoConPalabraCIF === -1) {
   let firstCIF = str.find(item => {
     item = item
       .replace("CIF", "")
@@ -89,7 +122,7 @@ if (indexTextoConPalabraCIF === -1) {
           : firstCIF.match(regexTerminaLetra)[0])
     );
   }
-}
+}*/
 
 //CIF
 /*let firstCIF = str.find(
@@ -142,7 +175,7 @@ let esFactura = str.filter(item => {
     .replace(/-/g, " ")
     .replace(/[a-zA-Z]{2,}/g, " ")
     .replace(/\s+/g, "");
-  if (
+  /*if (
     (item.match(regexEmpiezaLetra) !== null
       ? item.match(regexEmpiezaLetra)[0]
       : false) ||
@@ -151,7 +184,7 @@ let esFactura = str.filter(item => {
       : false)
   ) {
     console.log(item);
-  }
+  }*/
   return (
     (item.match(regexEmpiezaLetra) !== null
       ? item.match(regexEmpiezaLetra)[0]
@@ -162,7 +195,7 @@ let esFactura = str.filter(item => {
   );
 });
 
-console.log("Facturas", esFactura);
+//console.log("Facturas", esFactura);
 
 if (esFactura.length > 1) {
   console.log("Es factura: true");
@@ -418,7 +451,7 @@ if (fechaIndex === -1) {
 
 let firstIVA = str.findIndex(item => item.includes("%"));
 
-console.log(str[firstIVA]);
+//console.log(str[firstIVA]);
 
 if (!str[firstIVA].match(/\d+/g)) {
   firstIVA = firstIVA + 1;
