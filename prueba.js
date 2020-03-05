@@ -332,7 +332,7 @@ console.log(distanceFirst[2]);*/
 
 //let str = res[0].description.split("\n");
 
-let totales = str.filter(
+/*let totales = str.filter(
   item =>
     (item.includes(".") ||
       item.includes(",") ||
@@ -345,28 +345,54 @@ let totales = str.filter(
         .replace("*", "")
         .replace(/[a-zA-Z]/g, "")
         .replace(/\s+/g, "")
-    )
+    ) &&
+    !item.includes("IVA") &&
+    item.length < 12
+);*/
+
+let totales = str.filter(
+  item =>
+    item.match(/\d*([\.,])\d{2,}/) &&
+    item.split(" ").length - 1 < 3 &&
+    item.length < 15 &&
+    !item.includes("/")
 );
 
-//console.log(str);
-
-//console.log(totales);
+console.log(totales);
 
 console.log(
+  "Total: " +
+    totales
+      .map(item => Number(item.replace(",", ".").match(/\d*\.\d{2,}/)[0]))
+      .sort((a, b) => b - a)[
+      str.filter(item => item.toLowerCase().includes("cambio")).length > 0
+        ? 1
+        : 0
+    ]
+);
+
+/*console.log(
   "Total: " +
     totales
       .map(item =>
         Number(
           item
             .replace(",", ".")
-            .replace("€", "")
-            .replace("*", "")
-            .replace(/[a-zA-Z]/g, "")
             .replace(/\s+/g, "")
+            .match(/\d+\.\d{0,2}/)
+            ? item
+                .replace(",", ".")
+                .replace(/\s+/g, "")
+                .match(/\d+\.\d{0,2}/)[0]
+            : 0
         )
       )
-      .sort((a, b) => b - a)[0]
-);
+      .sort((a, b) => b - a)[
+      str.filter(item => item.toLowerCase().includes("cambio")).length > 0
+        ? 1
+        : 0
+    ]
+);*/
 
 //console.log(str);
 
