@@ -1,4 +1,4 @@
-let json = require("./json11.json");
+let json = require("./json.json");
 
 let res = json.responses[0].textAnnotations;
 
@@ -355,7 +355,14 @@ let totales = str.filter(
     item.match(/\d*([\.,])\d{2,}/) &&
     item.split(" ").length - 1 < 3 &&
     item.length < 15 &&
-    !item.includes("/")
+    !isNaN(
+      item
+        .replace(",", ".")
+        .replace("€", "")
+        .replace("*", "")
+        .replace(/[a-zA-Z]/g, "")
+        .replace(/\s+/g, "")
+    )
 );
 
 console.log(totales);
