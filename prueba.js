@@ -1,4 +1,4 @@
-let json = require("./json.json");
+let json = require("./json12.json");
 
 let res = json.responses[0].textAnnotations;
 

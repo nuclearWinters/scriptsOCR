@@ -1,0 +1,23 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "otraPrueba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuclearWinters/scriptsOCR.git"
+  },
+  "author": "Armando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuclearWinters/scriptsOCR/issues"
+  },
+  "homepage": "https://github.com/nuclearWinters/scriptsOCR#readme",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "moment": "^2.24.0"
+  }
+}

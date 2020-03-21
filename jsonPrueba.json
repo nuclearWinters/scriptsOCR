@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "data": {
+    "message": "OK",
+    "elements": [
+      {
+        "employeeInfo": {
+          "employee": {
+            "employeeId": 142,
+            "employeeName": "Jose Manue",
+            "employeeLastname": "Android 7.1.1",
+            "employeeFirstLastName": "Android",
+            "employeeSecondLastName": "7.1.1",
+            "userId": 142,
+            "employeeActive": 1,
+            "tourSeen": 1,
+            "disabilityPercentage": 0,
+            "employeeCreated": "2019-03-12 08:36:45",
+            "modifiedAt": "2020-03-17 20:11:20",
+            "employeeImage": "https://bewor.s3.eu-west-1.amazonaws.com/simeom/6nfPbIJTmrWjr63N7o9bVTfL1A97xkYDHdtSWcMiEIC5PFSW328ZVnKXYU5v_bewor_2019_03_13_12_24_46.jpg",
+            "imported": 1,
+            "activity": 1,
+            "registrationAgent": null,
+            "companyId": "1",
+            "nationalityId": null,
+            "ssNumber": null,
+            "locality": null,
+            "countryId": null,
+            "personalMail": "android711@bewor.com",
+            "personalPhonePrefix": "34",
+            "personalPhone": "666556655",
+            "finishedOnBoarding": "1",
+            "imageMedium": "https://bewor.s3.eu-west-1.amazonaws.com/simeom/6nfPbIJTmrWjr63N7o9bVTfL1A97xkYDHdtSWcMiEIC5PFSW328ZVnKXYU5v_bewor_2019_03_13_12_24_46.jpg",
+            "imageMiniature": "https://bewor.s3.eu-west-1.amazonaws.com/simeom/4sjGq5H4IBBgY9pDBhX6K5vOttB8RsXVVhCmnkq6V2mUbMyN3vTNBpC5SddJ_1552494153.jpeg",
+            "selfieDNI": "https://bewor.s3.eu-west-1.amazonaws.com/simeom/6nfPbIJTmrWjr63N7o9bVTfL1A97xkYDHdtSWcMiEIC5PFSW328ZVnKXYU5v_bewor_2019_03_13_12_24_46.jpg",
+            "nationalDocumentationTypeId": 3,
+            "nationalDocumentationNumber": "74140834w",
+            "expirationDate": {
+              "date": "2020-03-18 00:00:00.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Madrid"
+            },
+            "frontDocument": "https://bewor.s3.eu-west-1.amazonaws.com/simeom/6nfPbIJTmrWjr63N7o9bVTfL1A97xkYDHdtSWcMiEIC5PFSW328ZVnKXYU5v_bewor_2019_03_13_12_24_46.jpg",
+            "backDocument": "https://bewor.s3.eu-west-1.amazonaws.com/simeom/6nfPbIJTmrWjr63N7o9bVTfL1A97xkYDHdtSWcMiEIC5PFSW328ZVnKXYU5v_bewor_2019_03_13_12_24_46.jpg"
+          },
+          "job": {
+            "jobId": "58",
+            "jobActive": "1",
+            "jobCreated": "-0001-11-30 00:00:00",
+            "jobName": "Técnico TEST"
+          }
+        },
+        "notifications": "3"
+      }
+    ]
+  }
+}
