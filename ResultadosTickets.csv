@@ -1,86 +1,86 @@
 Nombre,CIF,Es Factura,Total,Invoice Num,Fecha,IVA 1,IVA 2
 ticket10.json,NaN,No,0,NaN,26/12/2019,10,NaN
 ticket100.json,NaN,No,0,colocarestebievisibletrasel,16/12/2019,0,NaN
-ticket1000.json,NaN,No,4.65,plazovoluc15diascoserve,Invalid date,0,NaN
-ticket1003.json,NaN,No,4,NaN,Invalid date,4,NaN
-ticket1004.json,NaN,No,4,NaN,Invalid date,4,NaN
-ticket1005.json,NaN,No,4,NaN,Invalid date,4,NaN
+ticket1000.json,NaN,No,4.65,plazovoluc15diascoserve,27/07/2019,0,NaN
+ticket1003.json,NaN,No,4,NaN,21/03/2020,4,NaN
+ticket1004.json,NaN,No,4,NaN,21/03/2020,4,NaN
+ticket1005.json,NaN,No,4,NaN,21/03/2020,4,NaN
 ticket1006.json,NaN,No,15.54,aaportaciolpresenteen,22/08/2019,21,NaN
-ticket1007.json,NaN,No,16.5,NaN,Invalid date,0,NaN
+ticket1007.json,NaN,No,16.5,NaN,03/07/2019,0,NaN
 ticket1008.json,NaN,No,8224,comesales3,07/08/2019,10,NaN
-ticket1009.json,NaN,No,3.55,NaN,Invalid date,10,NaN
+ticket1009.json,NaN,No,3.55,NaN,13/08/2019,10,NaN
 ticket101.json,A82492729,No,0,NaN,16/12/2019,21,NaN
 ticket1010.json,NaN,Si,4.5,NaN,15/08/2019,4,NaN
 ticket1011.json,NaN,Si,4,NaN,13/08/2019,4,NaN
 ticket1013.json,NaN,No,29.6,MESA M08,05/07/2019,0,NaN
 ticket1014.json,NaN,No,8.85,seq2684,14/08/2019,21,NaN
-ticket1015.json,NaN,No,8.1,seq2808,14/01/0191,0,NaN
-ticket1016.json,NaN,No,4.2,NaN,Invalid date,0,NaN
-ticket1017.json,NaN,No,3.01,46179,05/08/2020,21,NaN
+ticket1015.json,NaN,No,8.1,seq2808,14/01/2019,0,NaN
+ticket1016.json,NaN,No,4.2,NaN,13/08/2019,0,NaN
+ticket1017.json,NaN,No,3.01,46179,13/08/2019,21,NaN
 ticket1018.json,NaN,No,0,empleado00000055pe:080133,10/08/2019,0,NaN
 ticket1019.json,NaN,No,12,sim3042019/1152034,15/08/2019,0,NaN
-ticket102.json,NaN,No,7.5,0000009873cajero01,Invalid date,0,NaN
-ticket1020.json,NaN,No,0,NaN,20/03/2020,4,NaN
-ticket1022.json,NaN,No,6.3,NaN,30/08/2020,0,NaN
-ticket1023.json,NaN,No,20,presetarencasoreclamacion,Invalid date,21,NaN
+ticket102.json,NaN,No,7.5,0000009873cajero01,16/12/2019,0,NaN
+ticket1020.json,NaN,No,0,NaN,21/03/2020,4,NaN
+ticket1022.json,NaN,No,6.3,NaN,08/08/2019,0,NaN
+ticket1023.json,NaN,No,20,presetarencasoreclamacion,25/07/2019,21,NaN
 ticket1026.json,NaN,No,9.5,NaN,05/08/2019,10,NaN
-ticket1027.json,NaN,No,40.12,NaN,20/03/2020,10,NaN
+ticket1027.json,NaN,No,40.12,NaN,21/03/2020,10,NaN
 ticket1028.json,NaN,No,2,fecha:129057,01/08/2019,0,NaN
-ticket1029.json,B18905182,Si,220.7,comesales10,Invalid date,10,NaN
+ticket1029.json,B18905182,Si,220.7,comesales10,02/08/2019,10,NaN
 ticket103.json,NaN,No,21.05,rotaciol,16/12/2019,4,NaN
-ticket1030.json,B18905182,Si,220.7,comesales10,Invalid date,10,NaN
+ticket1030.json,B18905182,Si,220.7,comesales10,02/08/2019,10,NaN
 ticket1031.json,B90212473,No,21,1473818,01/08/2019,21,NaN
 ticket1032.json,NaN,No,0,billete7905401015052,31/07/2019,0,NaN
 ticket1033.json,NaN,No,14,NaN,16/05/2019,10,NaN
-ticket1034.json,B18905182,No,121,comesales2,10/01/2008,0,NaN
-ticket1035.json,B18905182,No,121,comesales2,10/01/2008,0,NaN
-ticket1036.json,B18905182,No,121,comesales2,10/01/2008,0,NaN
-ticket1038.json,NaN,No,0,garajequecoelizseencuentraenelgarajedelafincasitaen,20/03/2020,0,NaN
-ticket1039.json,NaN,No,0,garajequecoelizseencuentraenelgarajedelafincasitaen,20/03/2020,0,NaN
+ticket1034.json,B18905182,No,121,comesales2,01/08/2019,0,NaN
+ticket1035.json,B18905182,No,121,comesales2,01/08/2019,0,NaN
+ticket1036.json,B18905182,No,121,comesales2,01/08/2019,0,NaN
+ticket1038.json,NaN,No,0,garajequecoelizseencuentraenelgarajedelafincasitaen,21/03/2020,0,NaN
+ticket1039.json,NaN,No,0,garajequecoelizseencuentraenelgarajedelafincasitaen,21/03/2020,0,NaN
 ticket104.json,NaN,No,5.7,total,13/12/2019,0,NaN
-ticket1040.json,NaN,No,0,garajequecoel12seencuentraenelgarajedelafincasitaen,20/03/2020,0,NaN
-ticket1042.json,NaN,No,0,garajequecoel12seencuentraenelgarajedelafincasitaen,20/03/2020,0,NaN
-ticket1043.json,NaN,No,0,garajequecoel12seencuentraenelgarajedelafincasitaen,20/03/2020,0,NaN
-ticket1044.json,NaN,No,0,garajequecoel12seencuentraenelgarajedelafincasitaen,20/03/2020,0,NaN
+ticket1040.json,NaN,No,0,garajequecoel12seencuentraenelgarajedelafincasitaen,21/03/2020,0,NaN
+ticket1042.json,NaN,No,0,garajequecoel12seencuentraenelgarajedelafincasitaen,21/03/2020,0,NaN
+ticket1043.json,NaN,No,0,garajequecoel12seencuentraenelgarajedelafincasitaen,21/03/2020,0,NaN
+ticket1044.json,NaN,No,0,garajequecoel12seencuentraenelgarajedelafincasitaen,21/03/2020,0,NaN
 ticket1047.json,NaN,No,0,NaN,24/07/2019,21,NaN
 ticket1048.json,NaN,No,6.2,NaN,25/07/2019,21,NaN
-ticket1049.json,NaN,No,17.6,NaN,Invalid date,10,NaN
+ticket1049.json,NaN,No,17.6,NaN,25/07/2019,10,NaN
 ticket105.json,NaN,No,7,NaN,17/12/2013,10,NaN
-ticket1050.json,NaN,No,8331,NaN,20/03/2020,0,NaN
+ticket1050.json,NaN,No,8331,NaN,21/03/2020,0,NaN
 ticket1051.json,NaN,No,31.7,t001/390261fecha,23/07/2019,10,NaN
 ticket1053.json,NaN,No,4603320505,operació,17/06/2019,21,NaN
 ticket1054.json,NaN,No,1.3,259275,20/07/2019,0,NaN
 ticket1055.json,NaN,Si,3,simplitb00001tb349604fecha,21/06/2019,10,NaN
 ticket1056.json,NaN,No,766.64,NaN,13/07/2019,0,NaN
 ticket1057.json,NaN,No,16.25,NaN,19/07/2019,0,NaN
-ticket1058.json,B18905182,Si,37.3,NaN,Invalid date,10,NaN
+ticket1058.json,B18905182,Si,37.3,NaN,16/07/2019,10,NaN
 ticket106.json,NaN,No,10,NaN,17/12/2019,0,NaN
-ticket1060.json,NaN,No,2.5,NaN,Invalid date,0,NaN
-ticket1061.json,B86568947,No,2012,NaN,Invalid date,10,NaN
-ticket1062.json,NaN,No,10,NaN,Invalid date,10,NaN
-ticket1063.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket1060.json,NaN,No,2.5,NaN,13/07/2019,0,NaN
+ticket1061.json,B86568947,No,2012,NaN,01/07/2019,10,NaN
+ticket1062.json,NaN,No,10,NaN,19/07/2019,10,NaN
+ticket1063.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket1064.json,NaN,No,170,NaN,17/07/2019,4,NaN
-ticket1065.json,NaN,No,21.01,NaN,Invalid date,21,NaN
-ticket1066.json,NaN,No,7.99,esteesecesarioparacualquier,Invalid date,0,NaN
-ticket1067.json,NaN,No,10,esteesecesarioparacualquier,Invalid date,0,NaN
-ticket1068.json,NaN,No,16.5,NaN,Invalid date,0,NaN
+ticket1065.json,NaN,No,21.01,NaN,18/01/2019,21,NaN
+ticket1066.json,NaN,No,7.99,esteesecesarioparacualquier,29/06/2019,0,NaN
+ticket1067.json,NaN,No,10,esteesecesarioparacualquier,22/06/2019,0,NaN
+ticket1068.json,NaN,No,16.5,NaN,16/07/2019,0,NaN
 ticket1069.json,NaN,Si,0,NaN,16/07/2019,4,NaN
 ticket107.json,NaN,No,0,colocarelformavisible,17/12/2019,0,NaN
 ticket1070.json,B19589647,No,1,NaN,18/07/2019,21,NaN
-ticket1071.json,NaN,No,2.7,002-000017,Invalid date,4,NaN
-ticket1072.json,NaN,No,7,NaN,Invalid date,4,NaN
+ticket1071.json,NaN,No,2.7,002-000017,21/03/2020,4,NaN
+ticket1072.json,NaN,No,7,NaN,21/03/2020,4,NaN
 ticket1073.json,NaN,No,2.8,NaN,09/06/2019,0,NaN
 ticket1074.json,NaN,No,12.81,umlin4,18/07/2019,21,NaN
-ticket1075.json,NaN,No,0,NaN,Invalid date,21,NaN
-ticket1076.json,NaN,No,50,NaN,Invalid date,10,NaN
+ticket1075.json,NaN,No,0,NaN,03/07/2019,21,NaN
+ticket1076.json,NaN,No,50,NaN,17/07/2019,10,NaN
 ticket1077.json,NaN,No,466271769,NaN,20/06/2019,21,NaN
-ticket1078.json,NaN,No,15.99,NaN,Invalid date,0,NaN
-ticket1079.json,NaN,No,4.5,NaN,18/07/2020,21,NaN
+ticket1078.json,NaN,No,15.99,NaN,19/06/2019,0,NaN
+ticket1079.json,NaN,No,4.5,NaN,13/07/2019,21,NaN
 ticket108.json,A82492729,No,0,NaN,17/12/2019,21,NaN
-ticket1080.json,B18905182,No,7.5,comesales3,Invalid date,0,NaN
+ticket1080.json,B18905182,No,7.5,comesales3,13/07/2019,0,NaN
 ticket1081.json,NaN,No,12.96,simplificada,16/07/2019,0,NaN
-ticket1082.json,NaN,No,7.95,NaN,Invalid date,0,NaN
-ticket1083.json,A78492782,No,8.95,simpl0880/v11900042809,Invalid date,21,NaN
+ticket1082.json,NaN,No,7.95,NaN,16/07/2019,0,NaN
+ticket1083.json,A78492782,No,8.95,simpl0880/v11900042809,07/07/2019,21,NaN
 ticket1084.json,A28670396,No,0,NaN,28/06/2019,0,NaN
 ticket1085.json,A28670396,No,0,NaN,28/06/2019,21,NaN
 ticket1086.json,NaN,No,90,imptoesa78320736,28/06/2019,0,NaN
@@ -89,32 +89,32 @@ ticket1088.json,B18785501,Si,90,reimprimir1,28/06/2019,10,NaN
 ticket1089.json,NaN,No,10.4,NaN,25/06/2019,21,NaN
 ticket109.json,NaN,No,2,NaN,18/12/2016,21,NaN
 ticket1090.json,NaN,No,21,NaN,24/06/2019,21,NaN
-ticket1091.json,NaN,No,90,pedido45157311,Invalid date,0,NaN
-ticket1092.json,NaN,No,90,NaN,Invalid date,0,NaN
-ticket1093.json,NaN,No,90,pedido45076434,Invalid date,0,NaN
+ticket1091.json,NaN,No,90,pedido45157311,21/03/2020,0,NaN
+ticket1092.json,NaN,No,90,NaN,21/03/2020,0,NaN
+ticket1093.json,NaN,No,90,pedido45076434,21/03/2020,0,NaN
 ticket1094.json,NaN,No,10,NaN,17/06/2019,0,NaN
 ticket1095.json,A28354520,No,4003,NaN,14/06/2019,10,NaN
-ticket1096.json,NaN,No,11.99,44868065,20/03/2020,0,NaN
+ticket1096.json,NaN,No,11.99,44868065,21/03/2020,0,NaN
 ticket1097.json,A82492729,No,0,NaN,12/06/2019,21,NaN
-ticket1098.json,NaN,No,7.49,seadmitevolucionescon,Invalid date,4,NaN
-ticket1099.json,NaN,No,15.7,seadmitevolucionescon,Invalid date,4,NaN
+ticket1098.json,NaN,No,7.49,seadmitevolucionescon,11/06/2015,4,NaN
+ticket1099.json,NaN,No,15.7,seadmitevolucionescon,11/06/2019,4,NaN
 ticket11.json,A19025576,No,59.65,simplificadafecha1527,27/12/2019,10,NaN
 ticket110.json,B40245862,Si,70,c/colo5,23/11/2019,10,NaN
 ticket1100.json,A28670396,No,0,NaN,07/06/2019,21,NaN
 ticket1103.json,NaN,No,90,imptoesa78320736,07/06/2019,10,NaN
 ticket1104.json,NaN,No,11.95,NaN,04/06/2019,0,NaN
 ticket1105.json,A28670396,No,0,NaN,02/06/2019,21,NaN
-ticket1106.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket1107.json,NaN,No,90,NaN,Invalid date,0,NaN
-ticket1108.json,NaN,No,90,pedido44157213,Invalid date,0,NaN
-ticket111.json,B18905182,Si,130,NaN,Invalid date,10,NaN
+ticket1106.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket1107.json,NaN,No,90,NaN,29/05/2019,0,NaN
+ticket1108.json,NaN,No,90,pedido44157213,21/03/2020,0,NaN
+ticket111.json,B18905182,Si,130,NaN,28/11/2019,10,NaN
 ticket1110.json,NaN,No,10,NaN,27/05/2019,4,NaN
 ticket1111.json,NaN,No,1,bk19763cifb-49210743,27/05/2012,10,NaN
 ticket1112.json,B19554427,No,14.2,NaN,24/05/2019,0,NaN
 ticket1113.json,NaN,Si,2.35,Tarifa:,24/05/2019,21,NaN
-ticket1114.json,B91807164,No,3.73,NaN,11/11/2011,0,NaN
+ticket1114.json,B91807164,No,3.73,NaN,24/05/2019,0,NaN
 ticket1115.json,NaN,No,10,NaN,23/05/2019,10,NaN
-ticket1116.json,NaN,No,21.8,NaN,Invalid date,0,NaN
+ticket1116.json,NaN,No,21.8,NaN,21/03/2020,0,NaN
 ticket1117.json,NaN,No,1.229,NaN,21/05/2019,21,NaN
 ticket1118.json,NaN,No,90,arigofrecidoporvoccescom,21/05/2019,0,NaN
 ticket1119.json,B06473581,No,10,NaN,21/05/2019,10,NaN
@@ -123,30 +123,30 @@ ticket1120.json,NaN,No,18,NaN,21/05/2019,0,NaN
 ticket1121.json,NaN,No,0,imptoesa78320736,12/07/2019,0,NaN
 ticket1122.json,NaN,No,3.5,NaN,12/07/2019,0,NaN
 ticket1123.json,B18410209,No,11.7,serie/,12/07/2019,10,NaN
-ticket1124.json,NaN,No,7.99,esteesecesarioparacualquier,Invalid date,0,NaN
+ticket1124.json,NaN,No,7.99,esteesecesarioparacualquier,28/06/2019,0,NaN
 ticket1126.json,NaN,No,6,NaN,10/06/2019,0,NaN
 ticket1127.json,B19589647,No,6.3,NaN,11/07/2019,21,NaN
 ticket1128.json,NaN,No,2.05,NaN,10/07/2019,21,NaN
-ticket1129.json,NaN,No,8331,NaN,Invalid date,0,NaN
+ticket1129.json,NaN,No,8331,NaN,21/03/2020,0,NaN
 ticket113.json,NaN,Si,5.05,fecha,05/12/2019,0,NaN
 ticket1130.json,NaN,No,8331,NaN,10/07/2019,0,NaN
 ticket1138.json,B19530914,No,231.8,fhtd-d-08650,10/07/2019,0,NaN
-ticket1139.json,NaN,No,10,NaN,20/03/2020,4,NaN
+ticket1139.json,NaN,No,10,NaN,21/03/2020,4,NaN
 ticket114.json,NaN,No,12.5,NaN,06/12/2019,0,NaN
 ticket1142.json,NaN,No,14.99,NaN,06/07/2019,21,NaN
-ticket1143.json,NaN,No,21,esteesecesarioparacualquier,Invalid date,0,NaN
-ticket1144.json,NaN,No,0,NaN,21/06/2020,0,NaN
+ticket1143.json,NaN,No,21,esteesecesarioparacualquier,05/07/2019,0,NaN
+ticket1144.json,NaN,No,0,NaN,16/06/2019,0,NaN
 ticket1145.json,NaN,No,29.6,MESA MOB,05/07/2019,0,NaN
 ticket115.json,NaN,No,1492,imprescidiblecompra,06/12/2019,0,NaN
-ticket1150.json,NaN,Si,21,NaN,Invalid date,0,NaN
-ticket1151.json,NaN,No,7.99,esteesecesarioparacualquier,Invalid date,0,NaN
+ticket1150.json,NaN,Si,21,NaN,05/07/2019,0,NaN
+ticket1151.json,NaN,No,7.99,esteesecesarioparacualquier,21/03/2020,0,NaN
 ticket1152.json,NaN,No,4662037588,operació,20/06/2019,21,NaN
 ticket1153.json,NaN,No,7.45,NaN,27/05/2019,0,NaN
 ticket1154.json,A28670396,No,12.55,NaN,27/06/2019,21,NaN
 ticket1155.json,NaN,No,12.99,coservesuparacualquier,25/06/2019,21,NaN
 ticket1156.json,NaN,No,5351209010,operació,19/06/2019,21,NaN
-ticket1157.json,NaN,No,7.99,esteesecesarioparacualquier,Invalid date,0,NaN
-ticket1158.json,NaN,No,7.99,esteesecesarioparacualquier,Invalid date,0,NaN
+ticket1157.json,NaN,No,7.99,esteesecesarioparacualquier,19/06/2019,0,NaN
+ticket1158.json,NaN,No,7.99,esteesecesarioparacualquier,29/06/2019,0,NaN
 ticket116.json,NaN,No,11.4,11,05/12/2019,10,NaN
 ticket1160.json,A82492729,No,0,NaN,30/06/2019,21,NaN
 ticket1161.json,NaN,No,8984,NaN,30/06/2019,0,NaN
@@ -158,46 +158,46 @@ ticket1166.json,B18410209,No,39.9,serie/,27/05/2019,10,NaN
 ticket1167.json,NaN,No,57.1,NaN,07/05/2019,0,NaN
 ticket1168.json,A82492729,No,0,NaN,06/05/2019,21,NaN
 ticket117.json,NaN,No,9.15,imptoesb-41014028,13/12/2019,0,NaN
-ticket1170.json,B18905182,Si,2.5,NaN,Invalid date,10,NaN
-ticket1171.json,B18905182,Si,22.8,comesales2,Invalid date,10,NaN
-ticket1172.json,B18905182,No,42.2,comesales1,17/09/2005,10,NaN
+ticket1170.json,B18905182,Si,2.5,NaN,31/05/2019,10,NaN
+ticket1171.json,B18905182,Si,22.8,comesales2,08/05/2019,10,NaN
+ticket1172.json,B18905182,No,42.2,comesales1,09/05/2019,10,NaN
 ticket1173.json,NaN,No,0.8,a/95294,10/05/2019,0,NaN
 ticket1174.json,NaN,No,8984,NaN,06/05/2019,0,NaN
 ticket1175.json,NaN,No,8984,NaN,06/05/2019,0,NaN
-ticket1176.json,B18905182,Si,21.8,comesales1,02/12/2005,10,NaN
-ticket1177.json,A13048434,No,6.5,NaN,20/03/2020,10,NaN
+ticket1176.json,B18905182,Si,21.8,comesales1,12/05/2019,10,NaN
+ticket1177.json,A13048434,No,6.5,NaN,21/03/2020,10,NaN
 ticket1178.json,B19649144,No,23,NaN,03/05/2019,10,NaN
 ticket1179.json,A82492729,No,0,NaN,12/05/2019,21,NaN
-ticket118.json,NaN,No,12.4,NaN,Invalid date,10,NaN
+ticket118.json,NaN,No,12.4,NaN,04/12/2019,10,NaN
 ticket1180.json,B18410209,No,1.9,serie/,12/05/2019,10,NaN
 ticket1181.json,A13048434,No,6.6,NaN,15/05/2019,10,NaN
 ticket1182.json,A82492729,No,7,NaN,15/05/2019,21,NaN
 ticket1183.json,B18905182,No,66,comesales3,15/05/2019,0,NaN
 ticket1184.json,A82492729,No,0,NaN,20/05/2019,21,NaN
-ticket1185.json,NaN,No,44,NaN,20/03/2020,0,NaN
+ticket1185.json,NaN,No,44,NaN,21/03/2020,0,NaN
 ticket1186.json,NaN,No,7.35,NaN,17/05/2019,0,NaN
 ticket1187.json,NaN,No,0,NaN,19/05/2019,0,NaN
-ticket1188.json,NaN,No,89.9,comesales4,Invalid date,10,NaN
-ticket1189.json,NaN,No,7.15,NaN,Invalid date,0,NaN
-ticket119.json,NaN,No,3,NaN,Invalid date,10,NaN
-ticket1190.json,B18905182,No,9.9,comesales4,Invalid date,0,NaN
+ticket1188.json,NaN,No,89.9,comesales4,21/05/2019,10,NaN
+ticket1189.json,NaN,No,7.15,NaN,22/05/2019,0,NaN
+ticket119.json,NaN,No,3,NaN,19/12/2019,10,NaN
+ticket1190.json,B18905182,No,9.9,comesales4,22/05/2019,0,NaN
 ticket1191.json,A82492729,No,0,NaN,22/05/2019,21,NaN
-ticket1192.json,NaN,No,33,recibo2,20/03/2020,0,NaN
-ticket1193.json,NaN,No,33,NaN,20/03/2020,0,NaN
-ticket1195.json,NaN,No,8,227960,20/03/2020,4,NaN
+ticket1192.json,NaN,No,33,recibo2,21/03/2020,0,NaN
+ticket1193.json,NaN,No,33,NaN,21/03/2020,0,NaN
+ticket1195.json,NaN,No,8,227960,21/03/2020,4,NaN
 ticket1196.json,NaN,No,3.9,***previo-***,23/05/2019,0,NaN
-ticket1197.json,NaN,No,2.5,plazovoluc5diascoserve,Invalid date,0,NaN
-ticket1198.json,B18905182,No,3.8,comesales1,Invalid date,0,NaN
-ticket1199.json,A83052407,No,5,NaN,Invalid date,21,NaN
+ticket1197.json,NaN,No,2.5,plazovoluc5diascoserve,24/05/2019,0,NaN
+ticket1198.json,B18905182,No,3.8,comesales1,24/05/2019,0,NaN
+ticket1199.json,A83052407,No,5,NaN,30/04/2019,21,NaN
 ticket12.json,NaN,No,8331,NaN,30/12/2019,0,NaN
 ticket120.json,A60526928,No,8927,aparclimitado,19/12/2019,4,NaN
 ticket1200.json,A82492729,No,7,NaN,30/04/2019,21,NaN
-ticket1201.json,NaN,No,1.4,NaN,Invalid date,0,NaN
+ticket1201.json,NaN,No,1.4,NaN,21/03/2020,0,NaN
 ticket1202.json,NaN,No,0,"•direcciócallesanjoaquín,14b,3°c,",08/07/1990,0,NaN
-ticket1204.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket1205.json,NaN,No,21.8,NaN,20/03/2020,0,NaN
-ticket1206.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket1207.json,B18905182,No,111,comesales5,Invalid date,0,NaN
+ticket1204.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket1205.json,NaN,No,21.8,NaN,21/03/2020,0,NaN
+ticket1206.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket1207.json,B18905182,No,111,comesales5,26/06/2019,0,NaN
 ticket1208.json,NaN,No,0,colocarelformavisible,26/06/2019,0,NaN
 ticket1209.json,NaN,No,0,colocarelformavisible,26/06/2019,0,NaN
 ticket121.json,E40253932,No,1.3,fecha:tv-49977,19/12/2019,10,NaN
@@ -208,75 +208,75 @@ ticket1213.json,A82492729,No,0,NaN,26/06/2019,21,NaN
 ticket1214.json,A82492729,No,0,NaN,27/06/2019,21,NaN
 ticket1215.json,NaN,No,1.35,NaN,27/06/2019,0,NaN
 ticket1216.json,NaN,No,8422,NaN,27/06/2019,0,NaN
-ticket1217.json,NaN,No,24.7,773631,Invalid date,0,NaN
-ticket1218.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket1217.json,NaN,No,24.7,773631,21/03/2020,0,NaN
+ticket1218.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket1219.json,NaN,No,4.6,NaN,27/06/2019,0,NaN
 ticket122.json,NaN,Si,20.8,simplificada665837/001,04/12/2019,0,NaN
 ticket1220.json,A82492729,No,0,NaN,27/06/2019,21,NaN
-ticket1221.json,NaN,No,0.86,NaN,Invalid date,0,NaN
-ticket1222.json,NaN,No,0.5,NaN,Invalid date,10,NaN
+ticket1221.json,NaN,No,0.86,NaN,27/06/2019,0,NaN
+ticket1222.json,NaN,No,0.5,NaN,27/06/2019,10,NaN
 ticket1223.json,NaN,No,1.35,NaN,27/06/2019,0,NaN
-ticket1224.json,NaN,No,0.1,NaN,Invalid date,10,NaN
+ticket1224.json,NaN,No,0.1,NaN,27/06/2019,10,NaN
 ticket1225.json,B19589647,No,2.15,NaN,19/06/2019,21,NaN
 ticket1226.json,NaN,No,8331,comesales5,26/06/2019,0,NaN
 ticket1227.json,NaN,No,8331,NaN,26/06/2019,0,NaN
 ticket1228.json,NaN,No,40001,NaN,25/06/2018,0,NaN
 ticket1229.json,B18905182,No,29.6,comesales2,27/06/2019,0,NaN
 ticket123.json,E40253932,No,1.7,fecha:tv-49976,19/12/2019,10,NaN
-ticket1236.json,A86868189,No,8984,NaN,20/03/2020,10,NaN
-ticket1237.json,A86868189,No,8994,NaN,20/03/2020,10,NaN
-ticket1238.json,NaN,No,88.2,NaN,20/03/2020,10,NaN
-ticket1239.json,A86868189,No,0,NaN,Invalid date,10,NaN
-ticket124.json,NaN,No,8224,NaN,20/03/2020,10,NaN
+ticket1236.json,A86868189,No,8984,NaN,21/03/2020,10,NaN
+ticket1237.json,A86868189,No,8994,NaN,21/03/2020,10,NaN
+ticket1238.json,NaN,No,88.2,NaN,21/03/2020,10,NaN
+ticket1239.json,A86868189,No,0,NaN,09/06/2019,10,NaN
+ticket124.json,NaN,No,8224,NaN,21/03/2020,10,NaN
 ticket1240.json,NaN,No,1.35,NaN,17/06/2019,0,NaN
 ticket1241.json,NaN,No,4.6,NaN,17/06/2019,0,NaN
 ticket1242.json,A82492729,No,0,NaN,17/06/2019,21,NaN
-ticket1243.json,B18905182,Si,35.9,comesales2,Invalid date,10,NaN
-ticket1244.json,B18905182,No,54.3,NaN,Invalid date,10,NaN
+ticket1243.json,B18905182,Si,35.9,comesales2,19/06/2019,10,NaN
+ticket1244.json,B18905182,No,54.3,NaN,20/06/2019,10,NaN
 ticket1245.json,NaN,No,23,NaN,23/06/2018,0,NaN
-ticket1246.json,A13048434,No,3.3,NaN,Invalid date,10,NaN
+ticket1246.json,A13048434,No,3.3,NaN,17/06/2019,10,NaN
 ticket1247.json,NaN,No,10.3,NaN,07/06/2010,10,NaN
 ticket1248.json,NaN,No,8984,NaN,09/06/2019,0,NaN
-ticket1249.json,NaN,No,9984,NaN,Invalid date,0,NaN
-ticket125.json,NaN,No,8224,NaN,20/03/2020,10,NaN
-ticket1250.json,B18905182,No,49.3,comesales3,10/07/2006,0,NaN
+ticket1249.json,NaN,No,9984,NaN,19/06/2009,0,NaN
+ticket125.json,NaN,No,8224,NaN,21/03/2020,10,NaN
+ticket1250.json,B18905182,No,49.3,comesales3,07/06/2019,0,NaN
 ticket1251.json,NaN,No,0,coserveestecomoantia,05/06/2016,10,NaN
-ticket1252.json,NaN,No,8.2,rcajafecha/hora/turo,23/03/0620,10,NaN
+ticket1252.json,NaN,No,8.2,rcajafecha/hora/turo,21/03/2020,10,NaN
 ticket1253.json,NaN,No,7,NaN,11/06/2019,21,NaN
-ticket1255.json,B18905182,Si,66,comesales4,Invalid date,10,NaN
-ticket1256.json,A28425270,No,13.38,NaN,Invalid date,4,NaN
+ticket1255.json,B18905182,Si,66,comesales4,12/06/2019,10,NaN
+ticket1256.json,A28425270,No,13.38,NaN,12/06/2019,4,NaN
 ticket1257.json,A60526928,No,8984,simplificada6295/0613/00613,13/06/2019,21,NaN
 ticket1258.json,A82492729,No,0,NaN,14/06/2019,21,NaN
 ticket126.json,NaN,No,24.6,estacia,14/11/2019,21,NaN
-ticket1260.json,B18905182,No,45,comesales2,Invalid date,10,NaN
-ticket1261.json,NaN,Si,5,NaN,Invalid date,0,NaN
+ticket1260.json,B18905182,No,45,comesales2,21/08/2019,10,NaN
+ticket1261.json,NaN,Si,5,NaN,20/06/2019,0,NaN
 ticket1266.json,NaN,No,2.8,simpl00001tb007743,20/06/2019,10,NaN
-ticket1267.json,J27416544,No,2.65,compracoserveelenvoltoroylaea,Invalid date,0,NaN
+ticket1267.json,J27416544,No,2.65,compracoserveelenvoltoroylaea,20/06/2019,0,NaN
 ticket1268.json,NaN,No,2.8,simpl00001tb007555,19/06/2019,10,NaN
-ticket1269.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket127.json,NaN,No,10,coesteobtieneunscuento,Invalid date,0,NaN
-ticket1270.json,NaN,No,4,simplificada/,Invalid date,0,NaN
-ticket1271.json,NaN,No,0.79,NaN,Invalid date,0,NaN
-ticket1272.json,NaN,No,22,NaN,Invalid date,0,NaN
+ticket1269.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket127.json,NaN,No,10,coesteobtieneunscuento,14/11/2019,0,NaN
+ticket1270.json,NaN,No,4,simplificada/,21/03/2020,0,NaN
+ticket1271.json,NaN,No,0.79,NaN,18/05/2019,0,NaN
+ticket1272.json,NaN,No,22,NaN,18/05/2019,0,NaN
 ticket1273.json,B06473581,No,10,NaN,20/05/2019,10,NaN
-ticket1274.json,A78492782,No,8.95,e/salcalapueblo15698,Invalid date,21,NaN
+ticket1274.json,A78492782,No,8.95,e/salcalapueblo15698,17/05/2019,21,NaN
 ticket1275.json,NaN,No,3.25,NaN,15/05/2019,21,NaN
 ticket1276.json,NaN,No,12.1,Ticket Num:,16/05/2019,0,NaN
-ticket1277.json,NaN,No,7.15,NaN,Invalid date,4,NaN
-ticket1278.json,NaN,No,30.95,NaN,Invalid date,0,NaN
-ticket1279.json,NaN,No,0,316670,Invalid date,0,NaN
+ticket1277.json,NaN,No,7.15,NaN,21/03/2020,4,NaN
+ticket1278.json,NaN,No,30.95,NaN,15/05/2019,0,NaN
+ticket1279.json,NaN,No,0,316670,21/03/2020,0,NaN
 ticket128.json,NaN,No,0,NaN,14/11/2019,21,NaN
-ticket1280.json,NaN,No,28.94,seadmitevolucionescon,Invalid date,0,NaN
-ticket1281.json,NaN,No,4.25,NaN,Invalid date,0,NaN
+ticket1280.json,NaN,No,28.94,seadmitevolucionescon,13/05/2019,0,NaN
+ticket1281.json,NaN,No,4.25,NaN,21/03/2020,0,NaN
 ticket1282.json,NaN,No,27,NaN,09/05/2019,0,NaN
 ticket1283.json,A28670396,No,7.45,NaN,30/04/2019,21,NaN
-ticket1284.json,NaN,No,0,NaN,Invalid date,0,NaN
+ticket1284.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket1285.json,NaN,No,100,NaN,21/05/2019,0,NaN
 ticket1286.json,NaN,No,477.72,1mudial,09/05/2019,0,NaN
 ticket1287.json,NaN,No,443.13,NaN,21/05/2019,0,NaN
 ticket1288.json,NaN,No,150,NaN,17/06/2019,0,NaN
-ticket1289.json,NaN,No,9.95,NaN,20/03/2020,0,NaN
-ticket129.json,NaN,No,74.82,"rúatelleira,10",29/04/2008,10,NaN
+ticket1289.json,NaN,No,9.95,NaN,21/03/2020,0,NaN
+ticket129.json,NaN,No,74.82,"rúatelleira,10",14/11/2019,10,NaN
 ticket1298.json,31678000P,No,8.6,15125,03/05/2019,21,NaN
 ticket1299.json,B92385665,No,0,total(eur),24/04/2019,0,NaN
 ticket13.json,NaN,No,1.25,***********8331,30/12/2019,0,NaN
@@ -292,72 +292,72 @@ ticket1310.json,NaN,No,0,NaN,17/06/2019,0,NaN
 ticket1311.json,NaN,No,1.35,NaN,17/06/2019,0,NaN
 ticket1312.json,NaN,No,14.3,NaN,17/06/2019,0,NaN
 ticket1313.json,A08225013,No,27.9,NaN,18/06/2019,10,NaN
-ticket1314.json,NaN,No,2.4,NaN,20/03/2020,0,NaN
+ticket1314.json,NaN,No,2.4,NaN,21/03/2020,0,NaN
 ticket1315.json,NaN,No,0,"•direcciócallesanjoaquín,14b,3°c,",08/07/1990,0,NaN
 ticket1316.json,NaN,No,4603328480,operació,18/06/2019,21,NaN
-ticket1317.json,A83036137,No,7.99,esteesecesarioparacualquier,Invalid date,0,NaN
+ticket1317.json,A83036137,No,7.99,esteesecesarioparacualquier,19/06/2019,0,NaN
 ticket1318.json,NaN,No,22,NaN,29/05/2014,0,NaN
-ticket1319.json,NaN,No,5.9,NaN,Invalid date,0,NaN
+ticket1319.json,NaN,No,5.9,NaN,27/05/2019,0,NaN
 ticket132.json,NaN,No,0,NaN,14/11/2019,21,NaN
-ticket1321.json,B18905182,Si,46.6,comesales1,Invalid date,10,NaN
+ticket1321.json,B18905182,Si,46.6,comesales1,18/06/2019,10,NaN
 ticket1328.json,NaN,No,16.64,simplificada13465/t/001,10/04/2019,0,NaN
 ticket1329.json,NaN,No,4.6,NaN,16/04/2019,0,NaN
-ticket133.json,B18905182,No,374.3,comesales4,Invalid date,0,NaN
+ticket133.json,B18905182,No,374.3,comesales4,13/11/2019,0,NaN
 ticket1330.json,NaN,No,1.9,NaN,16/04/2019,0,NaN
 ticket1331.json,A82492729,No,0,NaN,16/04/2019,21,NaN
 ticket1332.json,A82492729,No,8.5,NaN,16/04/2019,21,NaN
 ticket1333.json,A82492729,No,0,NaN,13/04/2019,21,NaN
 ticket1334.json,A82492729,No,5.2,NaN,10/04/2019,21,NaN
-ticket1337.json,NaN,No,0,NaN,Invalid date,21,NaN
+ticket1337.json,NaN,No,0,NaN,06/06/2019,21,NaN
 ticket1338.json,NaN,Si,28.7,NaN,06/06/2019,0,NaN
 ticket1339.json,B93292001,No,207,NaN,07/06/2019,10,NaN
 ticket134.json,A82492729,No,7,NaN,13/11/2019,21,NaN
 ticket135.json,NaN,No,1.35,NaN,13/11/2019,0,NaN
-ticket1350.json,B18905182,No,3.3,NaN,Invalid date,0,NaN
+ticket1350.json,B18905182,No,3.3,NaN,15/06/2010,0,NaN
 ticket1351.json,NaN,No,12.06,NaN,14/06/2019,0,NaN
 ticket1352.json,NaN,No,14,267708fecha:e-ma,29/05/2019,21,NaN
-ticket1353.json,NaN,No,5.16,NaN,Invalid date,10,NaN
+ticket1353.json,NaN,No,5.16,NaN,01/06/2019,10,NaN
 ticket1354.json,NaN,No,8224,NaN,06/06/2019,10,NaN
-ticket1355.json,B18905182,Si,35.5,NaN,Invalid date,10,NaN
-ticket1356.json,NaN,No,1.95,"uvale,paraelloyenvoltorio",Invalid date,21,NaN
+ticket1355.json,B18905182,Si,35.5,NaN,06/06/2019,10,NaN
+ticket1356.json,NaN,No,1.95,"uvale,paraelloyenvoltorio",01/06/2019,21,NaN
 ticket1357.json,NaN,No,9581,comesales1,31/05/2019,10,NaN
 ticket1358.json,NaN,No,38.1,comesales2,28/05/2019,10,NaN
 ticket1359.json,NaN,No,33,comesales2,13/06/2019,10,NaN
 ticket136.json,NaN,No,4.6,NaN,13/11/2019,0,NaN
 ticket1360.json,B18905182,Si,13.8,NaN,15/06/2019,0,NaN
 ticket1361.json,B18905182,Si,42.3,NaN,14/06/2019,10,NaN
-ticket1362.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket137.json,A13048434,No,8927,(copia),01/11/2020,10,NaN
+ticket1362.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket137.json,A13048434,No,8927,(copia),13/11/2019,10,NaN
 ticket1373.json,NaN,No,10,NaN,20/05/2019,0,NaN
 ticket1374.json,NaN,No,1.3,NaN,06/06/2019,0,NaN
 ticket1375.json,NaN,No,4.65,NaN,06/06/2019,0,NaN
 ticket1376.json,A82492729,No,0,NaN,06/06/2019,21,NaN
-ticket1377.json,NaN,No,15.47,NaN,05/08/2019,10,NaN
-ticket1378.json,B18905182,Si,4,comesales1,29/06/2006,10,NaN
+ticket1377.json,NaN,No,15.47,NaN,05/06/2020,10,NaN
+ticket1378.json,B18905182,Si,4,comesales1,06/06/2019,10,NaN
 ticket1379.json,NaN,No,2.35,NaN,05/06/2019,21,NaN
-ticket138.json,NaN,No,8927,seadmitevolucionescon,Invalid date,4,NaN
-ticket1382.json,NaN,No,3.01,44300,Invalid date,21,NaN
-ticket1383.json,NaN,No,14,diaselcambioseefectuaconea,Invalid date,21,NaN
+ticket138.json,NaN,No,8927,seadmitevolucionescon,12/11/2019,4,NaN
+ticket1382.json,NaN,No,3.01,44300,21/05/2019,21,NaN
+ticket1383.json,NaN,No,14,diaselcambioseefectuaconea,31/05/2019,21,NaN
 ticket1384.json,NaN,No,5.65,NaN,31/05/2019,0,NaN
-ticket1385.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket1385.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket139.json,NaN,No,8927,imptoesb-41014028,11/11/2019,0,NaN
 ticket1390.json,A82492729,No,0,NaN,10/04/2019,21,NaN
 ticket14.json,B18410209,No,12.3,serie/,30/12/2019,10,NaN
-ticket140.json,B18905182,No,6.5,comesales2,10/06/2011,0,NaN
-ticket141.json,NaN,No,12.42,seadmitevolucionescon,Invalid date,10,NaN
+ticket140.json,B18905182,No,6.5,comesales2,06/11/2019,0,NaN
+ticket141.json,NaN,No,12.42,seadmitevolucionescon,05/11/2019,10,NaN
 ticket1411.json,NaN,No,11.6,NaN,20/05/2019,10,NaN
 ticket1412.json,A82492729,No,0,NaN,09/05/2019,21,NaN
 ticket1413.json,NaN,No,4.6,NaN,09/05/2019,0,NaN
 ticket1414.json,NaN,No,8331,NaN,09/05/2019,0,NaN
-ticket1415.json,NaN,No,8331,NaN,08/05/2019,0,NaN
+ticket1415.json,NaN,No,8331,NaN,21/03/2020,0,NaN
 ticket1416.json,NaN,No,16,00001uaut:186882venta,22/05/2019,0,NaN
-ticket1417.json,NaN,No,8331,NaN,Invalid date,0,NaN
-ticket1418.json,NaN,No,11,NaN,20/03/2020,0,NaN
-ticket1419.json,NaN,No,8331,NaN,Invalid date,0,NaN
+ticket1417.json,NaN,No,8331,NaN,21/05/2019,0,NaN
+ticket1418.json,NaN,No,11,NaN,21/03/2020,0,NaN
+ticket1419.json,NaN,No,8331,NaN,21/03/2020,0,NaN
 ticket142.json,NaN,No,90,NaN,05/11/2019,0,NaN
 ticket1420.json,NaN,No,8331,NaN,06/05/2019,10,NaN
-ticket1421.json,NaN,No,80,NaN,20/03/2020,0,NaN
-ticket1422.json,NaN,No,5.8,úm01/0221629,Invalid date,21,NaN
+ticket1421.json,NaN,No,80,NaN,21/03/2020,0,NaN
+ticket1422.json,NaN,No,5.8,úm01/0221629,28/05/2019,21,NaN
 ticket1423.json,NaN,No,11,NaN,16/05/2019,0,NaN
 ticket1424.json,NaN,No,67.7,umlin11,25/05/2019,10,NaN
 ticket143.json,NaN,No,90,NaN,05/11/2019,10,NaN
@@ -368,45 +368,45 @@ ticket1454.json,NaN,Si,26,NaN,09/05/2019,0,NaN
 ticket1455.json,NaN,No,16,imptoesb-41014028,15/05/2019,0,NaN
 ticket1456.json,NaN,No,4492,imptoesb-41014028,07/05/2019,0,NaN
 ticket1457.json,NaN,No,20.65,**rotacio**,19/05/2019,21,NaN
-ticket1458.json,NaN,Si,4.25,Tarifa:,Invalid date,0,NaN
+ticket1458.json,NaN,Si,4.25,Tarifa:,19/05/2019,0,NaN
 ticket1459.json,NaN,No,8224,NaN,18/05/2019,0,NaN
 ticket146.json,NaN,No,0,NaN,04/11/2019,0,NaN
-ticket1460.json,NaN,No,22.5,arigofrecidoporvocescom,18/05/2019,0,NaN
+ticket1460.json,NaN,No,22.5,arigofrecidoporvocescom,21/03/2020,0,NaN
 ticket1461.json,NaN,No,1.3,estacia,16/04/2019,21,NaN
 ticket1462.json,NaN,No,1.9,estacia,16/04/2019,21,NaN
-ticket1463.json,NaN,No,0.25,NaN,Invalid date,0,NaN
+ticket1463.json,NaN,No,0.25,NaN,01/04/2019,0,NaN
 ticket1464.json,A28670396,No,0,NaN,16/05/2019,21,NaN
 ticket1465.json,A28670396,No,0,NaN,16/05/2019,21,NaN
-ticket1466.json,NaN,No,8331,NaN,20/03/2020,0,NaN
+ticket1466.json,NaN,No,8331,NaN,21/03/2020,0,NaN
 ticket1467.json,NaN,No,2,NaN,16/05/2019,0,NaN
 ticket1468.json,NaN,No,8331,NaN,14/05/2019,0,NaN
 ticket1469.json,NaN,No,8331,pedido,16/08/2010,0,NaN
 ticket147.json,NaN,Si,22.8,coservesu,04/11/2019,0,NaN
 ticket1470.json,NaN,No,2.8,266921-fecha:e-mail:prismacabriteria@gmailc,17/04/2019,21,NaN
 ticket1471.json,NaN,No,3.14,266855fecha:e-mail:prismacabriteria@gmailc,12/04/2019,21,NaN
-ticket1472.json,NaN,No,10.05,NaN,03/04/2020,0,NaN
-ticket1473.json,NaN,No,6.1,plazovoluc15diascoserve,Invalid date,0,NaN
+ticket1472.json,NaN,No,10.05,NaN,13/04/2019,0,NaN
+ticket1473.json,NaN,No,6.1,plazovoluc15diascoserve,18/04/2019,0,NaN
 ticket1475.json,NaN,No,10,NaN,20/05/2019,0,NaN
-ticket1476.json,NaN,No,29.99,pedidobsc17000o,20/03/2020,0,NaN
-ticket1477.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket1478.json,B18905182,No,58.5,comesales3,Invalid date,0,NaN
-ticket1479.json,B18905182,No,7.5,NaN,Invalid date,0,NaN
+ticket1476.json,NaN,No,29.99,pedidobsc17000o,21/03/2020,0,NaN
+ticket1477.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket1478.json,B18905182,No,58.5,comesales3,17/04/2019,0,NaN
+ticket1479.json,B18905182,No,7.5,NaN,18/04/2019,0,NaN
 ticket148.json,B09524349,No,10,NaN,05/11/2019,10,NaN
-ticket1480.json,B18905182,No,30.4,NaN,Invalid date,10,NaN
-ticket1481.json,NaN,Si,68.2,NaN,Invalid date,10,NaN
-ticket1482.json,B18905182,Si,31.4,NaN,Invalid date,10,NaN
+ticket1480.json,B18905182,No,30.4,NaN,20/04/2019,10,NaN
+ticket1481.json,NaN,Si,68.2,NaN,06/05/2019,10,NaN
+ticket1482.json,B18905182,Si,31.4,NaN,04/05/2019,10,NaN
 ticket1483.json,A28670396,No,0,NaN,30/04/2019,21,NaN
 ticket1484.json,NaN,Si,6,empleado00001001pe005050,30/04/2019,10,NaN
 ticket1485.json,NaN,No,4.05,NaN,30/04/2019,21,NaN
 ticket1486.json,NaN,No,21,NaN,29/04/2019,21,NaN
 ticket1487.json,NaN,No,21,NaN,20/03/2019,21,NaN
-ticket1488.json,B18905182,Si,12.1,NaN,Invalid date,10,NaN
+ticket1488.json,B18905182,Si,12.1,NaN,27/04/2019,10,NaN
 ticket1489.json,NaN,No,9.95,NaN,27/04/2019,0,NaN
 ticket149.json,NaN,No,7.65,NaN,01/11/2019,0,NaN
-ticket1490.json,B18905182,No,8.8,NaN,Invalid date,0,NaN
+ticket1490.json,B18905182,No,8.8,NaN,27/04/2019,0,NaN
 ticket1491.json,NaN,No,10,21117028733-veta,25/04/2019,21,NaN
 ticket1492.json,A28354520,No,9.27,NaN,23/04/2019,21,NaN
-ticket1493.json,NaN,No,10.4,NaN,01/04/1001,0,NaN
+ticket1493.json,NaN,No,10.4,NaN,11/05/2020,0,NaN
 ticket1494.json,NaN,No,3.3,simplificada1653-11893,29/03/2019,0,NaN
 ticket1495.json,A82492729,No,6.15,NaN,11/04/2019,21,NaN
 ticket1496.json,NaN,No,1,NaN,02/04/2019,0,NaN
@@ -419,53 +419,53 @@ ticket1500.json,A28670396,No,0,NaN,26/03/2019,21,NaN
 ticket1501.json,A28670396,No,0,NaN,26/03/2019,21,NaN
 ticket1502.json,NaN,No,9.9,t001/129080fecha,29/03/2019,10,NaN
 ticket1503.json,NaN,No,3.35,estacia,18/04/2019,21,NaN
-ticket1504.json,NaN,No,19.9,NaN,Invalid date,21,NaN
-ticket1505.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket1504.json,NaN,No,19.9,NaN,11/12/2019,21,NaN
+ticket1505.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket1506.json,NaN,Si,0,"coservesu,esimprescindibleparacualquiervolución",14/05/2019,0,NaN
 ticket1507.json,NaN,No,6,NaN,04/04/2019,21,NaN
-ticket1508.json,NaN,No,14.5,NaN,20/03/2020,0,NaN
-ticket1509.json,NaN,No,9.95,NaN,20/03/2020,21,NaN
+ticket1508.json,NaN,No,14.5,NaN,21/03/2020,0,NaN
+ticket1509.json,NaN,No,9.95,NaN,21/03/2020,21,NaN
 ticket151.json,NaN,No,11.5,NaN,29/11/2019,10,NaN
-ticket1510.json,NaN,No,0,"presetarelcompra,conel",Invalid date,0,NaN
-ticket1511.json,NaN,No,1.95,"presetarelcompra,conel",Invalid date,0,NaN
+ticket1510.json,NaN,No,0,"presetarelcompra,conel",17/05/2019,0,NaN
+ticket1511.json,NaN,No,1.95,"presetarelcompra,conel",13/04/2019,0,NaN
 ticket1512.json,NaN,Si,0,"coservesu,esimprescindibleparacualquiervolución",04/04/2019,21,NaN
-ticket1513.json,NaN,No,0.87,NaN,12/05/2020,21,NaN
-ticket1514.json,NaN,No,18.3,NaN,20/03/2020,0,NaN
-ticket1515.json,NaN,No,0,NaN,Invalid date,0,NaN
+ticket1513.json,NaN,No,0.87,NaN,04/05/2015,21,NaN
+ticket1514.json,NaN,No,18.3,NaN,21/03/2020,0,NaN
+ticket1515.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket1516.json,NaN,No,2.5,NaN,27/03/2019,10,NaN
 ticket1517.json,B06369656,No,10,NaN,17/04/2019,10,NaN
-ticket1518.json,B86568947,No,2012,NaN,Invalid date,10,NaN
-ticket1519.json,NaN,No,14.98,pagotarjetabacaria*,Invalid date,4,NaN
+ticket1518.json,B86568947,No,2012,NaN,20/04/2019,10,NaN
+ticket1519.json,NaN,No,14.98,pagotarjetabacaria*,20/04/2019,4,NaN
 ticket152.json,B09524349,No,10,NaN,12/12/2019,10,NaN
 ticket1520.json,NaN,No,90,NaN,19/04/2019,0,NaN
-ticket1521.json,NaN,No,23.4,exijasu,Invalid date,10,NaN
-ticket1522.json,NaN,No,0,udot3433564-dreciboff,20/03/2020,0,NaN
+ticket1521.json,NaN,No,23.4,exijasu,19/04/2019,10,NaN
+ticket1522.json,NaN,No,0,udot3433564-dreciboff,21/03/2020,0,NaN
 ticket1523.json,NaN,Si,10.9,NaN,18/04/2019,4,NaN
 ticket1524.json,NaN,No,10.8,exijasu,12/04/2019,10,NaN
 ticket1525.json,A78492782,Si,4.19,simpl,11/04/2019,4,NaN
 ticket1526.json,A28670396,No,0,NaN,10/04/2019,0,NaN
 ticket1527.json,A28670396,No,0,NaN,10/04/2019,0,NaN
-ticket1528.json,A78492782,No,4.5,e/scaulia96805,Invalid date,21,NaN
-ticket1529.json,NaN,No,3.9,simplificada201860000329177,15/05/2004,10,NaN
+ticket1528.json,A78492782,No,4.5,e/scaulia96805,10/04/2019,21,NaN
+ticket1529.json,NaN,No,3.9,simplificada201860000329177,05/04/2019,10,NaN
 ticket153.json,A60526928,No,14.95,simplificada2420/0609/609,31/10/2019,21,NaN
 ticket1530.json,NaN,No,15,NaN,04/04/2019,21,NaN
 ticket1531.json,A95236840,No,90,**rotacio**,02/04/2019,21,NaN
-ticket1532.json,NaN,No,90,pedido41816225,Invalid date,0,NaN
+ticket1532.json,NaN,No,90,pedido41816225,21/03/2020,0,NaN
 ticket154.json,NaN,No,90,Ticket Num:,Invalid date,0,NaN
 ticket1549.json,NaN,No,8331,elcompracosasdebisuteriay,15/05/2019,0,NaN
-ticket155.json,NaN,No,441.009,pedido50711601,Invalid date,0,NaN
+ticket155.json,NaN,No,441.009,pedido50711601,21/03/2020,0,NaN
 ticket1550.json,B04751996,No,27.2,NaN,14/05/2019,10,NaN
 ticket1551.json,NaN,No,8331,NaN,14/05/2019,0,NaN
 ticket1552.json,NaN,No,30,NaN,14/05/2019,0,NaN
-ticket1553.json,NaN,No,14.7,NaN,Invalid date,10,NaN
+ticket1553.json,NaN,No,14.7,NaN,10/05/2019,10,NaN
 ticket1554.json,NaN,No,8331,NaN,10/05/2019,0,NaN
-ticket1555.json,NaN,No,331,NaN,20/03/2020,21,NaN
+ticket1555.json,NaN,No,331,NaN,21/03/2020,21,NaN
 ticket1556.json,NaN,No,33,NaN,15/05/2019,10,NaN
-ticket1557.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket1557.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket1559.json,44284472L,No,5.2,"c/riodilar30,ave",14/05/2019,0,NaN
 ticket156.json,B41974387,Si,46,NaN,25/10/2019,10,NaN
-ticket1563.json,NaN,No,2.5,resetarencasoreclamacion,Invalid date,21,NaN
-ticket1564.json,NaN,No,6.3,NaN,Invalid date,0,NaN
+ticket1563.json,NaN,No,2.5,resetarencasoreclamacion,26/03/2019,21,NaN
+ticket1564.json,NaN,No,6.3,NaN,26/03/2019,0,NaN
 ticket1565.json,NaN,No,2,VENDEDOR 8,09/05/2019,0,NaN
 ticket1566.json,NaN,No,0,colocarelformavisible,06/05/2019,0,NaN
 ticket1567.json,NaN,No,0,colocarelformavisible,06/05/2019,0,NaN
@@ -476,7 +476,7 @@ ticket1570.json,NaN,No,7.9,echasumi=fecha,29/04/2019,21,NaN
 ticket1571.json,NaN,No,13,a/93780,24/04/2019,21,NaN
 ticket1572.json,NaN,No,2,NaN,22/04/2029,10,NaN
 ticket1573.json,NaN,No,6.9,NaN,26/04/2019,0,NaN
-ticket1574.json,NaN,No,5.7,NaN,Invalid date,10,NaN
+ticket1574.json,NaN,No,5.7,NaN,29/04/2019,10,NaN
 ticket1575.json,NaN,No,65.01,NaN,29/04/2019,0,NaN
 ticket1576.json,NaN,No,73.3,NaN,29/04/2019,0,NaN
 ticket1577.json,A82492729,No,0,NaN,08/04/2019,21,NaN
@@ -497,22 +497,22 @@ ticket159.json,NaN,No,90,NaN,17/10/2019,10,NaN
 ticket1590.json,NaN,No,4.65,NaN,08/04/2019,0,NaN
 ticket1591.json,NaN,No,26.2,NaN,10/04/2019,0,NaN
 ticket1592.json,NaN,No,0,NaN,08/04/2019,0,NaN
-ticket1593.json,NaN,No,66.1,425566******8984026718#1121#00000001,Invalid date,10,NaN
+ticket1593.json,NaN,No,66.1,425566******8984026718#1121#00000001,21/03/2020,10,NaN
 ticket1594.json,NaN,No,0,NaN,11/04/2019,21,NaN
 ticket1595.json,A82492729,No,0,NaN,12/04/2019,21,NaN
-ticket1596.json,NaN,No,3,NaN,20/03/2020,10,NaN
-ticket1599.json,B40257321,Si,133.16,lacompraseharamediantenalela,23/11/0133,0,NaN
+ticket1596.json,NaN,No,3,NaN,21/03/2020,10,NaN
+ticket1599.json,B40257321,Si,133.16,lacompraseharamediantenalela,21/03/2020,0,NaN
 ticket16.json,A82492729,No,0,NaN,26/12/2019,21,NaN
-ticket160.json,A78492782,No,21.88,e/salcalapueblo15698,Invalid date,21,NaN
+ticket160.json,A78492782,No,21.88,e/salcalapueblo15698,03/10/2019,21,NaN
 ticket1600.json,NaN,Si,0.56,",exceptoropa",01/04/2019,21,NaN
-ticket1601.json,NaN,No,29.88,",exceptoropa",Invalid date,0,NaN
-ticket1602.json,NaN,No,1.3,estacia,Invalid date,21,NaN
+ticket1601.json,NaN,No,29.88,",exceptoropa",01/04/2019,0,NaN
+ticket1602.json,NaN,No,1.3,estacia,16/04/2019,21,NaN
 ticket1603.json,NaN,No,1.9,estacia,16/04/2019,21,NaN
-ticket1604.json,NaN,No,15.7,plazovoluc15diascoserve,20/03/2020,0,NaN
+ticket1604.json,NaN,No,15.7,plazovoluc15diascoserve,21/03/2020,0,NaN
 ticket1605.json,A82492729,No,0,NaN,02/04/2019,21,NaN
 ticket1606.json,A82492729,No,0,NaN,02/04/2019,21,NaN
 ticket1608.json,B18410209,No,3.3,serie/,03/05/2019,10,NaN
-ticket1609.json,NaN,No,0,#####,Invalid date,21,NaN
+ticket1609.json,NaN,No,0,#####,03/05/2019,21,NaN
 ticket161.json,B40245862,Si,110,cicolo5,23/11/2019,10,NaN
 ticket1610.json,NaN,Si,218.49,NaN,03/05/2019,10,NaN
 ticket1612.json,NaN,No,4.6,NaN,17/04/2019,0,NaN
@@ -524,11 +524,11 @@ ticket1617.json,NaN,No,22.4,Tarjetas Manuales,16/04/2019,10,NaN
 ticket1618.json,A82492729,No,0,NaN,17/04/2019,21,NaN
 ticket1619.json,NaN,No,8331,NaN,17/04/2019,0,NaN
 ticket162.json,NaN,No,90,t001/152315,28/09/2019,10,NaN
-ticket1620.json,B18614644,No,4.5,NaN,Invalid date,0,NaN
+ticket1620.json,B18614644,No,4.5,NaN,21/03/2020,0,NaN
 ticket1621.json,NaN,No,21,comercio,02/04/2019,0,NaN
 ticket1622.json,NaN,No,18.25,**etrada**,02/04/2019,0,NaN
 ticket1623.json,A28337764,No,0,NaN,01/04/2019,21,NaN
-ticket1624.json,A28425270,No,10.19,NaN,Invalid date,10,NaN
+ticket1624.json,A28425270,No,10.19,NaN,01/04/2019,10,NaN
 ticket1625.json,B06265821,No,13,NaN,30/04/2019,21,NaN
 ticket1626.json,NaN,No,18.7,NaN,01/04/2019,10,NaN
 ticket1627.json,A28670396,No,0,NaN,30/03/2019,21,NaN
@@ -536,9 +536,9 @@ ticket1628.json,A28670396,No,0,NaN,30/03/2019,21,NaN
 ticket1629.json,NaN,No,3.25,NaN,29/03/2019,21,NaN
 ticket163.json,NaN,No,16.2,Ticket Num:,27/09/2019,0,NaN
 ticket1630.json,G41112087,No,10,NaN,29/03/2019,4,NaN
-ticket1631.json,B90077850,No,12,REG CONCHI 27-03-2019 15:31,Invalid date,10,NaN
+ticket1631.json,B90077850,No,12,REG CONCHI 27-03-2019 15:31,27/03/2019,10,NaN
 ticket1632.json,NaN,No,90,imptoesa78320736,26/03/2019,0,NaN
-ticket1633.json,NaN,No,4.1,25-03-2019 08:25 553602,Invalid date,10,NaN
+ticket1633.json,NaN,No,4.1,25-03-2019 08:25 553602,25/03/2019,10,NaN
 ticket1634.json,NaN,No,90,imptoesa78320736,25/03/2019,0,NaN
 ticket1635.json,A28670396,No,0,NaN,25/03/2019,0,NaN
 ticket1636.json,A28670396,No,0,NaN,25/03/2019,21,NaN
@@ -547,21 +547,21 @@ ticket164.json,NaN,No,150,NaN,27/09/2019,0,NaN
 ticket1641.json,A82492729,No,0.95,NaN,09/04/2019,21,NaN
 ticket1642.json,NaN,No,22.1,NaN,13/04/2019,10,NaN
 ticket1643.json,NaN,No,1.35,NaN,13/04/2019,0,NaN
-ticket1644.json,A82492729,No,0,NaN,Invalid date,21,NaN
-ticket1645.json,NaN,No,4.65,NaN,20/03/2020,0,NaN
+ticket1644.json,A82492729,No,0,NaN,26/04/2019,21,NaN
+ticket1645.json,NaN,No,4.65,NaN,21/03/2020,0,NaN
 ticket1646.json,B18410209,No,18.45,serie/,17/04/2019,0,NaN
 ticket1647.json,A82492729,No,7,NaN,26/04/2019,21,NaN
 ticket1648.json,NaN,Si,22.73,NaN,25/04/2019,0,NaN
-ticket1649.json,E40139461,No,24.5,11099,Invalid date,0,NaN
-ticket165.json,NaN,No,35,NaN,14/09/2020,0,NaN
+ticket1649.json,E40139461,No,24.5,11099,21/03/2020,0,NaN
+ticket165.json,NaN,No,35,NaN,27/09/2019,0,NaN
 ticket1650.json,NaN,No,22,NaN,17/04/2019,0,NaN
 ticket1651.json,NaN,No,0,NaN,26/04/2017,0,NaN
 ticket1652.json,NaN,No,0.55,NaN,17/04/2019,0,NaN
 ticket1654.json,NaN,No,0,NaN,17/04/2019,0,NaN
 ticket1655.json,NaN,No,0,um206671seriea,21/03/2019,0,NaN
-ticket1656.json,NaN,No,16210,NaN,20/03/2020,4,NaN
-ticket1657.json,B18905182,No,8331,NaN,20/03/2020,0,NaN
-ticket1658.json,NaN,No,9.1,NaN,Invalid date,10,NaN
+ticket1656.json,NaN,No,16210,NaN,21/03/2020,4,NaN
+ticket1657.json,B18905182,No,8331,NaN,21/03/2020,0,NaN
+ticket1658.json,NaN,No,9.1,NaN,21/03/2020,10,NaN
 ticket1659.json,NaN,No,1.35,NaN,Invalid date,0,NaN
 ticket166.json,NaN,No,90,Ticket Num:,30/09/2019,0,NaN
 ticket1660.json,NaN,No,8331,NaN,02/04/2019,0,NaN
@@ -574,73 +574,73 @@ ticket1666.json,A82492729,No,0,NaN,08/04/2019,21,NaN
 ticket1667.json,NaN,No,4.6,NaN,08/04/2019,0,NaN
 ticket1668.json,NaN,No,1.3,NaN,08/04/2019,0,NaN
 ticket1669.json,NaN,No,8331,NaN,08/04/2019,0,NaN
-ticket167.json,A28425270,No,9.82,NaN,Invalid date,0,NaN
-ticket1670.json,NaN,No,90.65,NaN,Invalid date,4,NaN
+ticket167.json,A28425270,No,9.82,NaN,20/09/2019,0,NaN
+ticket1670.json,NaN,No,90.65,NaN,21/03/2020,4,NaN
 ticket1671.json,NaN,No,1.3,NaN,13/04/2019,0,NaN
 ticket1672.json,NaN,No,0,NaN,13/04/2019,21,NaN
 ticket1673.json,NaN,No,4.6,NaN,13/04/2019,0,NaN
-ticket1676.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket1676.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket168.json,A86212420,No,51,INVOICE NUMBER,25/09/2019,4,NaN
 ticket1684.json,B87602264,No,21.45,**rotacio**,18/04/2019,21,NaN
-ticket1685.json,33309672Z,No,3.6,000000338168,01/03/2004,10,NaN
+ticket1685.json,33309672Z,No,3.6,000000338168,03/04/2019,10,NaN
 ticket1686.json,NaN,No,1.6,"ribeirasacra,50",03/04/2019,0,NaN
 ticket1687.json,NaN,No,0,NaN,04/04/2019,21,NaN
 ticket1688.json,NaN,No,0,NaN,04/04/2019,21,NaN
-ticket1689.json,NaN,No,4.4,NaN,Invalid date,10,NaN
+ticket1689.json,NaN,No,4.4,NaN,04/04/2019,10,NaN
 ticket169.json,NaN,No,90,t001/409470fecha,26/09/2019,10,NaN
 ticket1690.json,B34257410,No,10,21249982fecha:,05/04/2019,0,NaN
 ticket1691.json,B34257410,No,10,NaN,05/04/2019,0,NaN
-ticket1692.json,NaN,No,0,NaN,Invalid date,21,NaN
-ticket1693.json,NaN,No,1357,NaN,20/03/2020,0,NaN
-ticket1694.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket1692.json,NaN,No,0,NaN,04/04/2019,21,NaN
+ticket1693.json,NaN,No,1357,NaN,21/03/2020,0,NaN
+ticket1694.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket1695.json,A13048434,No,6.8,NaN,10/04/2019,10,NaN
 ticket17.json,NaN,No,0,NaN,26/12/2019,0,NaN
 ticket170.json,NaN,No,90,NaN,29/09/2019,10,NaN
-ticket1700.json,NaN,No,0,TIQUE,20/03/2020,0,NaN
-ticket1701.json,B19591866,No,72,000229279,Invalid date,0,NaN
-ticket1702.json,NaN,No,13.55,NaN,Invalid date,10,NaN
+ticket1700.json,NaN,No,0,TIQUE,21/03/2020,0,NaN
+ticket1701.json,B19591866,No,72,000229279,01/02/2019,0,NaN
+ticket1702.json,NaN,No,13.55,NaN,11/01/2019,10,NaN
 ticket1703.json,NaN,No,11.2,NaN,07/03/2019,0,NaN
 ticket1704.json,NaN,No,11.2,NaN,29/03/2019,0,NaN
-ticket1705.json,NaN,No,0,NaN,04/01/2002,21,NaN
-ticket1706.json,NaN,No,0,NaN,Invalid date,21,NaN
-ticket1707.json,NaN,No,0,NaN,Invalid date,21,NaN
+ticket1705.json,NaN,No,0,NaN,01/02/2019,21,NaN
+ticket1706.json,NaN,No,0,NaN,11/01/2019,21,NaN
+ticket1707.json,NaN,No,0,NaN,28/03/2019,21,NaN
 ticket1709.json,NaN,No,11.1,"c/riodilor30,ave",10/04/2019,0,NaN
 ticket171.json,NaN,No,90,NaN,26/09/2019,0,NaN
 ticket1711.json,NaN,No,0,NaN,04/03/2010,0,NaN
 ticket1714.json,NaN,No,5.7,NaN,02/04/2019,0,NaN
-ticket1717.json,B18905182,Si,125.36,modalidaxpedietem,Invalid date,0,NaN
-ticket1718.json,B18905182,Si,125.36,Clave: ME01 Ano: 2019 Concepto: SOLIC INTERNET MARCA O NOMBRE POR,Invalid date,0,NaN
+ticket1717.json,B18905182,Si,125.36,modalidaxpedietem,21/03/2020,0,NaN
+ticket1718.json,B18905182,Si,125.36,Clave: ME01 Ano: 2019 Concepto: SOLIC INTERNET MARCA O NOMBRE POR,21/03/2020,0,NaN
 ticket1719.json,NaN,No,22,NaN,05/04/2019,0,NaN
 ticket172.json,NaN,No,9.5,NaN,30/09/2019,0,NaN
 ticket1720.json,NaN,No,2,NaN,04/04/2019,0,NaN
-ticket1721.json,NaN,No,3.7,c/joaquícosta38,20/03/2020,0,NaN
+ticket1721.json,NaN,No,3.7,c/joaquícosta38,21/03/2020,0,NaN
 ticket1722.json,B06473581,No,10.5,NaN,05/04/2019,0,NaN
 ticket1723.json,NaN,No,773,comesales,04/04/2019,10,NaN
 ticket1724.json,NaN,No,0,16271/T! 001,04/04/2019,0,NaN
 ticket1725.json,B24344384,No,12.5,NaN,03/04/2019,0,NaN
 ticket1726.json,A82492729,No,0,NaN,03/04/2019,21,NaN
-ticket1727.json,NaN,No,10.1,NaN,20/03/2020,0,NaN
+ticket1727.json,NaN,No,10.1,NaN,21/03/2020,0,NaN
 ticket1729.json,NaN,No,0,NaN,26/03/2019,0,NaN
 ticket173.json,NaN,No,9.9,1/69435,23/09/2019,0,NaN
-ticket1731.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket1732.json,A83052407,No,5.5,()icluido,Invalid date,21,NaN
-ticket1739.json,NaN,No,11.84,NaN,Invalid date,10,NaN
+ticket1731.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket1732.json,A83052407,No,5.5,()icluido,25/03/2019,21,NaN
+ticket1739.json,NaN,No,11.84,NaN,20/03/2019,10,NaN
 ticket174.json,NaN,No,5.8,7115##,25/09/2019,0,NaN
 ticket1740.json,NaN,No,16.55,NaN,16/03/2019,0,NaN
 ticket1741.json,A82492729,No,0,NaN,16/03/2019,21,NaN
-ticket1742.json,NaN,No,12.11,NaN,Invalid date,10,NaN
+ticket1742.json,NaN,No,12.11,NaN,15/03/2019,10,NaN
 ticket1743.json,NaN,No,9.95,imptoescifa-60526928,14/03/2019,0,NaN
 ticket1747.json,NaN,Si,8,spacho035027336,22/03/2019,10,NaN
 ticket1748.json,NaN,No,13.45,2700650440,20/03/2019,10,NaN
-ticket1749.json,A82492729,No,7,NaN,20/03/2020,21,NaN
+ticket1749.json,A82492729,No,7,NaN,21/03/2020,21,NaN
 ticket175.json,NaN,No,7.55,NaN,25/09/2019,4,NaN
-ticket1750.json,A82492729,No,0,NaN,20/03/2020,21,NaN
-ticket1751.json,NaN,No,8331,(copia),02/03/2020,0,NaN
+ticket1750.json,A82492729,No,0,NaN,21/03/2020,21,NaN
+ticket1751.json,NaN,No,8331,(copia),11/03/2019,0,NaN
 ticket1752.json,NaN,No,80.2,frasimp1105,24/03/2019,10,NaN
 ticket1753.json,B19530914,No,207,fhtd-d-03946,22/03/2019,0,NaN
-ticket1754.json,B18796995,Si,0,NaN,Invalid date,0,NaN
+ticket1754.json,B18796995,Si,0,NaN,22/03/2019,0,NaN
 ticket1755.json,A28670396,No,0,NaN,21/03/2019,21,NaN
-ticket1756.json,NaN,No,0,NaN,Invalid date,0,NaN
+ticket1756.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket1757.json,NaN,No,0,NaN,20/03/2019,21,NaN
 ticket1758.json,NaN,No,10.4,NaN,20/03/2019,21,NaN
 ticket1759.json,NaN,No,21,simpl1tvtpv/2019051449,20/03/2019,21,NaN
@@ -653,35 +653,35 @@ ticket1764.json,A28670396,No,0,NaN,19/03/2019,21,NaN
 ticket1765.json,A28670396,No,0,NaN,15/03/2019,0,NaN
 ticket1766.json,A28670396,No,0.2,NaN,15/03/2019,21,NaN
 ticket1767.json,NaN,No,13.9,NaN,14/03/2019,0,NaN
-ticket1768.json,A28425270,Si,6,NaN,Invalid date,4,NaN
-ticket1769.json,NaN,No,10.15,NaN,Invalid date,10,NaN
+ticket1768.json,A28425270,Si,6,NaN,13/03/2019,4,NaN
+ticket1769.json,NaN,No,10.15,NaN,13/03/2019,10,NaN
 ticket177.json,NaN,No,90,Ticket Num:,28/09/2019,0,NaN
 ticket1770.json,A08225013,No,3.8,NaN,13/03/2010,10,NaN
 ticket1771.json,NaN,No,0,NaN,12/03/2019,21,NaN
-ticket1772.json,NaN,No,3.65,pagoph,01/12/2003,0,NaN
+ticket1772.json,NaN,No,3.65,pagoph,12/03/2019,0,NaN
 ticket1773.json,NaN,No,0,NaN,12/03/2019,21,NaN
-ticket1774.json,A60526928,No,5.15,simplificada,Invalid date,21,NaN
+ticket1774.json,A60526928,No,5.15,simplificada,12/03/2019,21,NaN
 ticket1775.json,NaN,No,10,NaN,12/03/2019,0,NaN
 ticket1776.json,NaN,No,4,NaN,12/03/2019,10,NaN
-ticket1777.json,NaN,No,90,pedido40933221,Invalid date,0,NaN
+ticket1777.json,NaN,No,90,pedido40933221,21/03/2020,0,NaN
 ticket1778.json,NaN,No,0,NaN,12/03/2019,21,NaN
-ticket1779.json,NaN,No,90,pedido40909625,Invalid date,0,NaN
+ticket1779.json,NaN,No,90,pedido40909625,21/03/2020,0,NaN
 ticket178.json,NaN,No,12.3,NaN,26/09/2019,0,NaN
 ticket1780.json,NaN,No,10.95,NaN,11/03/2019,10,NaN
 ticket1781.json,NaN,No,7.65,NaN,07/03/2019,0,NaN
-ticket1783.json,NaN,No,190,NaN,20/03/2020,0,NaN
+ticket1783.json,NaN,No,190,NaN,21/03/2020,0,NaN
 ticket1784.json,NaN,No,90,NaN,07/03/2019,0,NaN
 ticket1785.json,A28670396,No,0,NaN,02/03/2019,21,NaN
 ticket1786.json,NaN,No,7.2,fclmi=fecha,02/03/2019,0,NaN
 ticket1787.json,A28670396,No,0,NaN,02/03/2019,21,NaN
 ticket1788.json,A28670396,No,0,NaN,01/03/2019,0,NaN
-ticket1789.json,NaN,No,5017,fclmi=fecha,Invalid date,0,NaN
+ticket1789.json,NaN,No,5017,fclmi=fecha,01/03/2019,0,NaN
 ticket179.json,A28670396,No,0,NaN,18/09/2019,21,NaN
-ticket1790.json,A28090108,No,10.03,plazovoluc15diascoserve,Invalid date,0,NaN
+ticket1790.json,A28090108,No,10.03,plazovoluc15diascoserve,01/03/2019,0,NaN
 ticket1791.json,A28670396,No,0,NaN,01/03/2019,21,NaN
 ticket1792.json,A28670396,No,0,NaN,27/02/2019,21,NaN
 ticket1793.json,NaN,No,90,imptoesa78320736,27/02/2019,10,NaN
-ticket1794.json,A28090108,No,12.17,plazovoluc15diascoserve,Invalid date,0,NaN
+ticket1794.json,A28090108,No,12.17,plazovoluc15diascoserve,27/02/2019,0,NaN
 ticket1795.json,NaN,No,2,NaN,27/02/2019,0,NaN
 ticket1796.json,A28670396,No,0,NaN,27/02/2019,0,NaN
 ticket1797.json,A28670396,No,0,NaN,26/02/2019,21,NaN
@@ -692,14 +692,14 @@ ticket180.json,A28670396,No,0,NaN,18/09/2019,21,NaN
 ticket1800.json,A28670396,No,0,NaN,26/02/2019,0,NaN
 ticket1801.json,NaN,No,90,imptoesa78320736,25/02/2019,0,NaN
 ticket1802.json,NaN,No,90,NaN,25/02/2019,21,NaN
-ticket1803.json,NaN,No,0.75,"1x0,75eas",Invalid date,0,NaN
+ticket1803.json,NaN,No,0.75,"1x0,75eas",19/03/2019,0,NaN
 ticket1804.json,NaN,No,7.2,NaN,19/03/2019,0,NaN
 ticket1805.json,NaN,No,5.9,54560,16/03/2019,21,NaN
 ticket1806.json,NaN,No,1.2,NaN,15/03/2019,0,NaN
-ticket1807.json,NaN,No,9.95,NaN,Invalid date,21,NaN
+ticket1807.json,NaN,No,9.95,NaN,13/03/2019,21,NaN
 ticket1808.json,NaN,No,45,NaN,19/03/2019,10,NaN
 ticket1809.json,A86868189,No,0,NaN,22/03/2019,0,NaN
-ticket181.json,NaN,Si,90,elblacoacreditaelpagolahabitacióntodosnuestrospreciossopconivaincluído,Invalid date,0,NaN
+ticket181.json,NaN,Si,90,elblacoacreditaelpagolahabitacióntodosnuestrospreciossopconivaincluído,05/09/2019,0,NaN
 ticket1810.json,A86868189,No,6,NaN,20/03/2019,10,NaN
 ticket1811.json,NaN,No,11.82,NaN,28/02/2019,10,NaN
 ticket1812.json,NaN,No,8224,simplif059282fecha:,12/03/2019,10,NaN
@@ -708,46 +708,46 @@ ticket1814.json,NaN,No,8224,NaN,14/03/2019,0,NaN
 ticket1815.json,NaN,No,8224,NaN,28/02/2019,0,NaN
 ticket1816.json,NaN,No,8224,NaN,28/02/2019,0,NaN
 ticket1817.json,B87602264,No,21.45,**rotacio**,12/03/2019,21,NaN
-ticket1818.json,A83052407,Si,14.9,NaN,Invalid date,0,NaN
+ticket1818.json,A83052407,Si,14.9,NaN,15/03/2019,0,NaN
 ticket1819.json,NaN,No,2,NaN,14/03/2019,0,NaN
 ticket182.json,A28354520,Si,40,Fecha.........,29/09/2019,21,NaN
 ticket1820.json,NaN,No,8422,NaN,14/03/2019,0,NaN
-ticket1821.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket1822.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket1823.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket1821.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket1822.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket1823.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket1826.json,A28670396,No,0,NaN,25/02/2019,21,NaN
 ticket1827.json,A28670396,No,0,NaN,25/02/2019,21,NaN
-ticket1829.json,NaN,No,0,NaN,20/03/2020,4,NaN
+ticket1829.json,NaN,No,0,NaN,21/03/2020,4,NaN
 ticket183.json,NaN,No,2.27,simplificadat/3359,15/11/2019,0,NaN
-ticket1830.json,A78492782,No,6.42,esmodoñedo33989,Invalid date,10,NaN
+ticket1830.json,A78492782,No,6.42,esmodoñedo33989,20/02/2019,10,NaN
 ticket1831.json,B90077850,No,90,19-02-2019 15:01,19/02/2019,10,NaN
 ticket1832.json,B10464154,No,8.69,pedido,20/02/2019,0,NaN
-ticket1833.json,NaN,No,2.5,NaN,16/02/2020,0,NaN
+ticket1833.json,NaN,No,2.5,NaN,19/02/2019,0,NaN
 ticket1834.json,A28670396,No,0,NaN,19/02/2019,21,NaN
-ticket1835.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket1838.json,NaN,No,3.21,42794,04/03/2020,21,NaN
+ticket1835.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket1838.json,NaN,No,3.21,42794,12/03/2019,21,NaN
 ticket1839.json,NaN,No,8984,NaN,13/02/2019,0,NaN
-ticket184.json,NaN,No,2.9,NaN,Invalid date,10,NaN
+ticket184.json,NaN,No,2.9,NaN,19/11/2019,10,NaN
 ticket1840.json,NaN,No,8984,NaN,11/02/2019,0,NaN
 ticket1841.json,A13048434,No,11.9,NaN,28/02/2019,10,NaN
-ticket1842.json,NaN,No,7.99,plazovoluc15diascoserve,Invalid date,0,NaN
-ticket1843.json,NaN,No,12.9,NaN,20/03/2020,0,NaN
+ticket1842.json,NaN,No,7.99,plazovoluc15diascoserve,05/02/2019,0,NaN
+ticket1843.json,NaN,No,12.9,NaN,21/03/2020,0,NaN
 ticket1844.json,A82492729,No,0,NaN,06/02/2019,21,NaN
 ticket1845.json,A82492729,No,0,NaN,04/02/2019,21,NaN
-ticket1846.json,B83244160,No,8984,opercajafecha/hora/turo,Invalid date,10,NaN
+ticket1846.json,B83244160,No,8984,opercajafecha/hora/turo,13/02/2019,10,NaN
 ticket1847.json,NaN,No,0,licecia,13/02/2019,0,NaN
 ticket1848.json,NaN,No,8984,NaN,21/02/2019,0,NaN
 ticket1849.json,NaN,No,0,simplificada,19/02/2019,10,NaN
-ticket185.json,NaN,No,3.3,NaN,Invalid date,0,NaN
+ticket185.json,NaN,No,3.3,NaN,03/12/2019,0,NaN
 ticket1850.json,NaN,No,20,NaN,12/03/2019,0,NaN
 ticket1851.json,NaN,No,140.3,fecha:59135,07/03/2019,0,NaN
-ticket1852.json,NaN,No,8422,(copia),01/03/2020,0,NaN
-ticket1855.json,NaN,No,4.8,NaN,Invalid date,0,NaN
+ticket1852.json,NaN,No,8422,(copia),07/03/2019,0,NaN
+ticket1855.json,NaN,No,4.8,NaN,21/03/2020,0,NaN
 ticket1856.json,NaN,No,8331,NaN,19/02/2019,0,NaN
 ticket1857.json,A82492729,No,0,NaN,18/02/2019,21,NaN
 ticket1858.json,A82492729,No,0,NaN,19/02/2019,21,NaN
 ticket1859.json,A82492729,No,0,NaN,18/02/2019,21,NaN
-ticket186.json,NaN,No,3.3,NaN,Invalid date,0,NaN
+ticket186.json,NaN,No,3.3,NaN,02/12/2019,0,NaN
 ticket1860.json,NaN,No,4.7,NaN,05/03/2019,21,NaN
 ticket1861.json,NaN,No,9.95,imptoescifa-60526928,09/03/2019,0,NaN
 ticket1862.json,A80223258,No,9,s00040282ncaja:004,09/03/2019,0,NaN
@@ -756,54 +756,54 @@ ticket1864.json,NaN,No,19.9,imptoescifa-60526928,08/03/2019,0,NaN
 ticket1865.json,A80223258,No,2.89,s00250151ncaja:002,07/03/2019,0,NaN
 ticket1866.json,NaN,No,1.75,fechasumi-fecha,25/02/2019,0,NaN
 ticket1867.json,NaN,No,11.6,aparclimitado,14/02/2019,0,NaN
-ticket1868.json,NaN,No,3.95,NaN,Invalid date,0,NaN
-ticket1869.json,NaN,No,15.9,NaN,Invalid date,10,NaN
+ticket1868.json,NaN,No,3.95,NaN,21/03/2020,0,NaN
+ticket1869.json,NaN,No,15.9,NaN,06/02/2019,10,NaN
 ticket187.json,NaN,No,22.22,Codigo,15/12/2019,0,NaN
 ticket1870.json,NaN,No,23.45,NaN,07/02/2019,10,NaN
 ticket1871.json,NaN,No,29,NaN,08/02/2019,10,NaN
 ticket1872.json,NaN,No,23,t001105093,07/02/2019,0,NaN
-ticket1873.json,NaN,No,0,NaN,Invalid date,10,NaN
-ticket1874.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket1875.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket1873.json,NaN,No,0,NaN,05/02/2019,10,NaN
+ticket1874.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket1875.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket1876.json,NaN,No,29.05,NaN,04/02/2019,0,NaN
 ticket1877.json,NaN,No,4.55660942,NaN,Invalid date,0,NaN
 ticket1878.json,NaN,No,0,NaN,05/02/2019,21,NaN
 ticket1879.json,A82492729,No,0,NaN,08/02/2019,21,NaN
 ticket188.json,B18905182,No,19.36,201198fecha,04/11/2019,0,NaN
-ticket1880.json,NaN,No,0,NaN,Invalid date,0,NaN
+ticket1880.json,NaN,No,0,NaN,06/02/2016,0,NaN
 ticket1881.json,NaN,No,2,NaN,07/02/2019,0,NaN
 ticket1882.json,NaN,No,0,NaN,07/02/2019,0,NaN
 ticket1883.json,NaN,No,1,NaN,28/02/2019,0,NaN
 ticket1884.json,NaN,No,5.2,NaN,05/02/2019,0,NaN
-ticket1885.json,NaN,No,0,NaN,Invalid date,0,NaN
+ticket1885.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket1886.json,NaN,No,6,t001/28289hora1119:25,06/02/2019,10,NaN
 ticket1887.json,NaN,No,5,NaN,07/02/2019,0,NaN
-ticket1888.json,NaN,No,2.2,NaN,20/03/2020,0,NaN
+ticket1888.json,NaN,No,2.2,NaN,21/03/2020,0,NaN
 ticket1889.json,NaN,No,0,eeleo01,07/02/2019,0,NaN
-ticket189.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket1890.json,NaN,No,3.67,seadmitevolucionescon,Invalid date,21,NaN
-ticket1891.json,A83052407,No,3.63,()icluido,Invalid date,21,NaN
-ticket1892.json,NaN,No,4.4,NaN,20/03/2020,0,NaN
-ticket1893.json,NaN,No,90,pedido39098350,Invalid date,0,NaN
+ticket189.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket1890.json,NaN,No,3.67,seadmitevolucionescon,09/03/2019,21,NaN
+ticket1891.json,A83052407,No,3.63,()icluido,09/03/2019,21,NaN
+ticket1892.json,NaN,No,4.4,NaN,21/03/2020,0,NaN
+ticket1893.json,NaN,No,90,pedido39098350,21/03/2020,0,NaN
 ticket1894.json,NaN,No,7.3,reimprimir1,28/01/2019,10,NaN
 ticket1895.json,A60526928,No,5.15,simplificada3101/0608/608,28/01/2019,21,NaN
-ticket1896.json,NaN,No,90,pedido39125431,Invalid date,0,NaN
-ticket1897.json,NaN,No,10.3,cio--zenacom,Invalid date,10,NaN
+ticket1896.json,NaN,No,90,pedido39125431,21/03/2020,0,NaN
+ticket1897.json,NaN,No,10.3,cio--zenacom,29/01/2019,10,NaN
 ticket1898.json,NaN,No,27,simplificada-/991,30/01/2019,0,NaN
 ticket1899.json,31678000P,No,8.3,14210,01/03/2019,21,NaN
-ticket19.json,A13048434,No,1.6,NaN,Invalid date,10,NaN
+ticket19.json,A13048434,No,1.6,NaN,26/12/2019,10,NaN
 ticket190.json,NaN,No,1.65,NaN,26/11/2019,10,NaN
 ticket1900.json,NaN,No,6.55,NaN,05/03/2019,4,NaN
 ticket1901.json,NaN,No,1.7,aparclimitado,07/03/2019,0,NaN
 ticket1902.json,NaN,No,40,NaN,06/03/2019,0,NaN
 ticket1903.json,NaN,No,34,NaN,04/03/2019,10,NaN
 ticket1904.json,NaN,No,2.5,NaN,06/03/1911,0,NaN
-ticket1905.json,NaN,No,100,01010138455,Invalid date,0,NaN
-ticket1906.json,B24328692,No,11.4,caja001,Invalid date,10,NaN
-ticket1907.json,NaN,No,90,pedido39188998,Invalid date,0,NaN
+ticket1905.json,NaN,No,100,01010138455,21/03/2020,0,NaN
+ticket1906.json,B24328692,No,11.4,caja001,06/03/2019,10,NaN
+ticket1907.json,NaN,No,90,pedido39188998,21/03/2020,0,NaN
 ticket1908.json,F95417770,No,5,NaN,31/01/2019,10,NaN
 ticket1909.json,A95236840,No,18.2,**rotació**,01/02/2019,21,NaN
-ticket191.json,NaN,No,2.9,NaN,Invalid date,0,NaN
+ticket191.json,NaN,No,2.9,NaN,29/11/2019,0,NaN
 ticket1910.json,B34200212,No,7.65,NaN,01/02/2019,0,NaN
 ticket1911.json,A28337764,No,0,NaN,01/02/2019,21,NaN
 ticket1912.json,NaN,No,11.25,imptoesa78320736,04/02/2019,0,NaN
@@ -813,17 +813,17 @@ ticket1915.json,NaN,No,90,imptoesa78320736,05/02/2019,0,NaN
 ticket1916.json,B18785501,Si,90,empleado00001003pe:002096,05/02/2019,10,NaN
 ticket1917.json,A28670396,No,0,NaN,05/02/2019,21,NaN
 ticket1918.json,A28670396,No,0,NaN,05/02/2019,21,NaN
-ticket1919.json,NaN,No,34.8,NaN,20/03/2020,10,NaN
+ticket1919.json,NaN,No,34.8,NaN,21/03/2020,10,NaN
 ticket192.json,B19589647,No,5.7,NaN,29/11/2019,21,NaN
 ticket1920.json,NaN,No,30,NaN,12/02/2019,0,NaN
 ticket1921.json,NaN,No,10,NaN,05/02/2019,10,NaN
 ticket1922.json,NaN,No,10.2,imptoesa78320736,06/02/2019,0,NaN
 ticket1923.json,NaN,No,29.3,NaN,06/02/2019,10,NaN
-ticket1924.json,NaN,No,538,NaN,Invalid date,0,NaN
+ticket1924.json,NaN,No,538,NaN,21/03/2020,0,NaN
 ticket1925.json,A28670396,No,0,NaN,06/02/2019,21,NaN
 ticket1926.json,NaN,No,5389,NaN,06/02/2019,0,NaN
 ticket1927.json,A28670396,No,0,NaN,06/02/2019,21,NaN
-ticket1928.json,NaN,No,7.5,(copia),20/03/2020,0,NaN
+ticket1928.json,NaN,No,7.5,(copia),21/03/2020,0,NaN
 ticket1929.json,B11898665,No,21.7,NaN,07/02/2019,10,NaN
 ticket193.json,NaN,No,0,NaN,25/09/2019,0,NaN
 ticket1930.json,NaN,No,90,07-02-2019 09:30 747254,07/02/2019,10,NaN
@@ -837,7 +837,7 @@ ticket1937.json,A28670396,No,0,NaN,11/02/2019,0,NaN
 ticket1938.json,A28670396,No,0,NaN,11/02/2019,0,NaN
 ticket1939.json,NaN,No,90,imptoesa78320736,12/02/2019,0,NaN
 ticket194.json,B19589647,No,5,NaN,20/09/2019,21,NaN
-ticket1940.json,A28090108,No,7.96,plazovoluc15diascoserve,Invalid date,0,NaN
+ticket1940.json,A28090108,No,7.96,plazovoluc15diascoserve,12/02/2019,0,NaN
 ticket1941.json,A28670396,No,0,NaN,12/02/2019,21,NaN
 ticket1942.json,A28670396,No,0,NaN,12/02/2019,21,NaN
 ticket1943.json,NaN,No,7.6,imptoesa78320736,13/02/2019,0,NaN
@@ -847,92 +847,92 @@ ticket1946.json,NaN,No,90,imptoesa78320736,14/02/2019,0,NaN
 ticket1947.json,A28670396,No,0,NaN,14/02/2019,21,NaN
 ticket1948.json,A28670396,No,0,NaN,14/02/2019,21,NaN
 ticket1949.json,NaN,No,7,NaN,06/03/2019,0,NaN
-ticket195.json,B91807164,No,4.1,NaN,11/11/2011,0,NaN
-ticket1950.json,NaN,No,5.4,NaN,02/06/2003,0,NaN
+ticket195.json,B91807164,No,4.1,NaN,20/09/2019,0,NaN
+ticket1950.json,NaN,No,5.4,NaN,06/03/2019,0,NaN
 ticket1951.json,NaN,No,24.6,VENDEDOR 3003,05/03/2019,0,NaN
 ticket1952.json,NaN,No,11.23,NaN,06/03/2019,10,NaN
 ticket1953.json,NaN,No,1.2,NaN,24/01/2015,10,NaN
-ticket1954.json,NaN,No,18.55231012019,NaN,Invalid date,10,NaN
-ticket1955.json,NaN,No,0,NaN,04/02/2020,21,NaN
+ticket1954.json,NaN,No,18.55231012019,NaN,31/01/2019,10,NaN
+ticket1955.json,NaN,No,0,NaN,21/02/2019,21,NaN
 ticket1956.json,NaN,Si,0,NaN,26/02/2019,0,NaN
 ticket1957.json,NaN,No,207,etp001aena:2201635,26/02/2019,10,NaN
 ticket1958.json,NaN,No,6.55,NaN,26/02/2019,10,NaN
 ticket1959.json,NaN,No,207,NaN,26/02/2019,10,NaN
 ticket196.json,NaN,No,3,NaN,28/09/2019,10,NaN
 ticket1960.json,NaN,No,26.6,NaN,26/02/2019,10,NaN
-ticket1963.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket1964.json,NaN,No,0,NaN,12/01/2022,0,NaN
-ticket1966.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket1963.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket1964.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket1966.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket1968.json,NaN,No,0.61,Cour. Caja,01/12/2019,10,NaN
 ticket197.json,B40167421,Si,10,1921669caja:111:55,12/12/2019,0,NaN
-ticket1970.json,NaN,Si,6.9,NaN,20/03/2020,0,NaN
+ticket1970.json,NaN,Si,6.9,NaN,21/03/2020,0,NaN
 ticket1971.json,NaN,No,8224,NaN,05/02/2019,0,NaN
 ticket1972.json,A82492729,No,9.6,NaN,07/02/2019,21,NaN
 ticket1973.json,A82492729,No,0,NaN,03/02/2019,21,NaN
 ticket1974.json,A82492729,No,0,NaN,02/02/2019,10,NaN
 ticket1975.json,NaN,No,19.05,NaN,18/02/2019,21,NaN
 ticket1976.json,NaN,No,1.7,NaN,18/02/2019,21,NaN
-ticket1977.json,B90077850,No,12,19-02-2019 15:01 150131,Invalid date,10,NaN
+ticket1977.json,B90077850,No,12,19-02-2019 15:01 150131,19/02/2019,10,NaN
 ticket1978.json,A28670396,No,0,NaN,19/02/2019,21,NaN
 ticket198.json,B40167421,Si,23.7,1920089caja:112:18,12/12/2019,0,NaN
-ticket1980.json,NaN,No,2.5,NaN,16/02/2020,0,NaN
-ticket1982.json,NaN,No,2.2011,42285,Invalid date,21,NaN
-ticket1983.json,NaN,No,1.19,42279,Invalid date,21,NaN
-ticket1984.json,NaN,No,6.95,NaN,Invalid date,0,NaN
-ticket1985.json,NaN,No,3.5,NaN,20/03/2020,0,NaN
-ticket1986.json,NaN,No,5.35,NaN,Invalid date,0,NaN
-ticket1987.json,NaN,No,2,artículos2,Invalid date,0,NaN
+ticket1980.json,NaN,No,2.5,NaN,19/02/2019,0,NaN
+ticket1982.json,NaN,No,2.2011,42285,18/02/2019,21,NaN
+ticket1983.json,NaN,No,1.19,42279,18/02/2019,21,NaN
+ticket1984.json,NaN,No,6.95,NaN,25/01/2019,0,NaN
+ticket1985.json,NaN,No,3.5,NaN,21/03/2020,0,NaN
+ticket1986.json,NaN,No,5.35,NaN,24/01/2019,0,NaN
+ticket1987.json,NaN,No,2,artículos2,25/01/2019,0,NaN
 ticket1988.json,B06369656,No,10,NaN,28/01/2019,0,NaN
-ticket1989.json,NaN,No,1.35,074487,Invalid date,10,NaN
-ticket199.json,NaN,No,2.4,NaN,Invalid date,10,NaN
-ticket1990.json,NaN,No,8.25,074495,Invalid date,10,NaN
-ticket1991.json,B55142194,No,3.9,NaN,Invalid date,10,NaN
+ticket1989.json,NaN,No,1.35,074487,28/01/2019,10,NaN
+ticket199.json,NaN,No,2.4,NaN,21/03/2020,10,NaN
+ticket1990.json,NaN,No,8.25,074495,21/03/2020,10,NaN
+ticket1991.json,B55142194,No,3.9,NaN,31/01/2019,10,NaN
 ticket1992.json,NaN,No,1.7,NaN,19/01/2031,0,NaN
 ticket1993.json,NaN,No,10,NaN,31/01/2019,10,NaN
-ticket1994.json,B83244160,No,15,opercajafecha/hora/turo,21/01/2002,0,NaN
+ticket1994.json,B83244160,No,15,opercajafecha/hora/turo,01/02/2019,0,NaN
 ticket1995.json,NaN,No,2,NaN,05/02/2019,0,NaN
 ticket1996.json,NaN,No,2,NaN,06/02/2019,0,NaN
 ticket1997.json,NaN,No,4.2,NaN,08/02/2019,0,NaN
-ticket1998.json,32087034X,No,9.8,Factura,20/03/2020,0,NaN
+ticket1998.json,32087034X,No,9.8,Factura,21/03/2020,0,NaN
 ticket1999.json,NaN,No,4.7,NaN,11/02/2019,0,NaN
 ticket20.json,NaN,No,0,colocarelformavisible,27/12/2019,0,NaN
 ticket200.json,B09524349,No,10,NaN,05/11/2019,10,NaN
-ticket2001.json,NaN,No,8,NaN,Invalid date,21,NaN
+ticket2001.json,NaN,No,8,NaN,18/02/2019,21,NaN
 ticket2002.json,NaN,No,0,licecia,14/02/2019,0,NaN
-ticket2003.json,B87795662,No,10.5,NaN,Invalid date,10,NaN
-ticket2004.json,B41359605,No,128.5,NaN,Invalid date,4,NaN
+ticket2003.json,B87795662,No,10.5,NaN,14/02/2019,10,NaN
+ticket2004.json,B41359605,No,128.5,NaN,21/03/2020,4,NaN
 ticket2005.json,NaN,Si,105,sim_304_2019/0192106,07/02/2019,0,NaN
 ticket2006.json,NaN,Si,760,simplificada,24/01/2019,21,NaN
-ticket2007.json,31630511Z,No,2,regalo,Invalid date,0,NaN
-ticket2009.json,NaN,No,0,NaN,Invalid date,10,NaN
-ticket201.json,B18905182,Si,3,NaN,29/05/2011,10,NaN
+ticket2007.json,31630511Z,No,2,regalo,15/02/2019,0,NaN
+ticket2009.json,NaN,No,0,NaN,14/02/2019,10,NaN
+ticket201.json,B18905182,Si,3,NaN,05/11/2019,10,NaN
 ticket2010.json,NaN,No,10.15,()icluido,13/02/2019,21,NaN
 ticket2011.json,NaN,No,20.2,NaN,02/12/2019,0,NaN
 ticket2012.json,NaN,No,1.8,um2019-05/9798,12/02/2019,21,NaN
-ticket2013.json,NaN,No,76.6,localizador,10/12/2011,10,NaN
+ticket2013.json,NaN,No,76.6,localizador,11/02/2019,10,NaN
 ticket2014.json,NaN,No,35.8,NaN,11/02/2019,10,NaN
 ticket2015.json,NaN,No,52.99,60391962,09/02/2019,21,NaN
-ticket2016.json,NaN,No,21.84,seadmitevolucionescon,Invalid date,10,NaN
+ticket2016.json,NaN,No,21.84,seadmitevolucionescon,09/02/2019,10,NaN
 ticket2017.json,NaN,No,783.55,2210(expdate)20**/**,19/01/2023,0,NaN
 ticket2018.json,NaN,No,573.67,NaN,19/01/2022,0,NaN
-ticket2019.json,NaN,No,517.7,NaN,Invalid date,0,NaN
+ticket2019.json,NaN,No,517.7,NaN,21/03/2020,0,NaN
 ticket202.json,NaN,No,2.7,706760,01/11/2019,10,NaN
 ticket203.json,NaN,No,1.8,706764,01/11/2019,10,NaN
 ticket204.json,NaN,No,4.2,simplificada,31/10/2019,10,NaN
-ticket205.json,NaN,No,1.2,NaN,Invalid date,10,NaN
+ticket205.json,NaN,No,1.2,NaN,31/10/2019,10,NaN
 ticket206.json,NaN,No,5,77738,29/10/2019,0,NaN
-ticket207.json,NaN,No,0,NaN,Invalid date,0,NaN
+ticket207.json,NaN,No,0,NaN,18/10/2019,0,NaN
 ticket208.json,NaN,No,3.3,NaN,21/10/2019,10,NaN
-ticket209.json,NaN,No,2.5,NaN,Invalid date,0,NaN
+ticket209.json,NaN,No,2.5,NaN,22/10/2019,0,NaN
 ticket21.json,NaN,No,0,colocarelformavisible,26/12/2019,0,NaN
-ticket210.json,NaN,No,2.5,NaN,Invalid date,10,NaN
+ticket210.json,NaN,No,2.5,NaN,17/10/2019,10,NaN
 ticket211.json,NaN,No,11.6,simplificadafecha,23/10/2019,10,NaN
 ticket212.json,NaN,No,3,NaN,16/10/2019,10,NaN
-ticket213.json,NaN,No,0,332487,Invalid date,4,NaN
-ticket214.json,NaN,No,5,NaN,Invalid date,0,NaN
-ticket215.json,NaN,No,4.25,NaN,Invalid date,0,NaN
-ticket216.json,NaN,No,0,"?,352719",Invalid date,0,NaN
-ticket217.json,NaN,Si,16.37,NaN,Invalid date,0,NaN
+ticket213.json,NaN,No,0,332487,21/03/2020,4,NaN
+ticket214.json,NaN,No,5,NaN,30/09/2019,0,NaN
+ticket215.json,NaN,No,4.25,NaN,21/03/2020,0,NaN
+ticket216.json,NaN,No,0,"?,352719",21/03/2020,0,NaN
+ticket217.json,NaN,Si,16.37,NaN,23/09/2019,0,NaN
 ticket218.json,NaN,No,5025,NaN,24/09/2019,0,NaN
 ticket219.json,NaN,No,30.9,licecialm143,24/09/2019,0,NaN
 ticket22.json,NaN,No,0,colocarelformavisible,27/12/2019,0,NaN
@@ -943,38 +943,38 @@ ticket223.json,E40253932,No,1.7,fecha:tv-49848,18/12/2019,10,NaN
 ticket224.json,B28000271,Si,5.4,NaN,04/12/2019,4,NaN
 ticket225.json,B18905182,Si,8224,NaN,23/11/2019,0,NaN
 ticket226.json,NaN,No,6.8,**rotacio**,23/11/2019,21,NaN
-ticket227.json,NaN,No,530,vetadirecta32775,20/03/2020,0,NaN
-ticket228.json,NaN,Si,8224,NaN,20/03/2020,10,NaN
-ticket229.json,NaN,No,8224,NaN,20/03/2020,10,NaN
+ticket227.json,NaN,No,530,vetadirecta32775,21/03/2020,0,NaN
+ticket228.json,NaN,Si,8224,NaN,21/03/2020,10,NaN
+ticket229.json,NaN,No,8224,NaN,21/03/2020,10,NaN
 ticket23.json,NaN,No,0,colocarelformavisible,26/12/2019,0,NaN
-ticket230.json,NaN,No,8224,NaN,20/03/2020,0,NaN
-ticket231.json,NaN,No,8224,NaN,Invalid date,0,NaN
-ticket232.json,NaN,No,8224,NaN,20/03/2020,10,NaN
-ticket233.json,NaN,No,9581,tras000159,20/03/2020,10,NaN
-ticket237.json,NaN,No,614,NaN,Invalid date,10,NaN
+ticket230.json,NaN,No,8224,NaN,21/03/2020,0,NaN
+ticket231.json,NaN,No,8224,NaN,21/03/2020,0,NaN
+ticket232.json,NaN,No,8224,NaN,21/03/2020,10,NaN
+ticket233.json,NaN,No,9581,tras000159,21/03/2020,10,NaN
+ticket237.json,NaN,No,614,NaN,11/12/2019,10,NaN
 ticket24.json,NaN,No,0,colocarelformavisible,27/12/2019,0,NaN
 ticket240.json,E40253932,No,1.3,NaN,17/12/2019,10,NaN
 ticket241.json,E40253932,No,1.7,NaN,17/12/2019,10,NaN
-ticket242.json,NaN,Si,21.9,NaN,Invalid date,10,NaN
-ticket243.json,NaN,No,87.6,NaN,Invalid date,10,NaN
+ticket242.json,NaN,Si,21.9,NaN,13/12/2019,10,NaN
+ticket243.json,NaN,No,87.6,NaN,13/12/2019,10,NaN
 ticket244.json,NaN,No,35.3,NaN,05/12/2019,0,NaN
 ticket245.json,NaN,No,6,licecia,06/11/2019,10,NaN
 ticket246.json,NaN,No,71.4,NaN,06/11/2019,0,NaN
-ticket247.json,NaN,No,33.09,elcompracosasdebisuteriay,15/11/2020,21,NaN
-ticket248.json,NaN,No,19,reimprimir1,Invalid date,10,NaN
-ticket249.json,NaN,No,11.5,reimprimir1,Invalid date,10,NaN
+ticket247.json,NaN,No,33.09,elcompracosasdebisuteriay,29/11/2019,21,NaN
+ticket248.json,NaN,No,19,reimprimir1,25/10/2019,10,NaN
+ticket249.json,NaN,No,11.5,reimprimir1,25/10/2019,10,NaN
 ticket25.json,A82492729,No,0,NaN,27/12/2019,21,NaN
-ticket250.json,NaN,No,3.85,reimprimir1,Invalid date,10,NaN
+ticket250.json,NaN,No,3.85,reimprimir1,25/10/2019,10,NaN
 ticket251.json,NaN,No,5.9,NaN,29/10/2019,0,NaN
-ticket252.json,NaN,No,9.4,547876******02070000131877#1219#0395,Invalid date,10,NaN
-ticket253.json,NaN,No,26.9,utilizaesteqrparaverypagarel,Invalid date,4,NaN
+ticket252.json,NaN,No,9.4,547876******02070000131877#1219#0395,21/03/2020,10,NaN
+ticket253.json,NaN,No,26.9,utilizaesteqrparaverypagarel,21/03/2020,4,NaN
 ticket254.json,NaN,Si,207,NaN,29/10/2019,0,NaN
 ticket255.json,A13048434,No,6.6,NaN,27/11/2019,10,NaN
 ticket256.json,NaN,No,0,NaN,28/11/2019,0,NaN
 ticket257.json,NaN,No,8331,NaN,28/11/2019,0,NaN
 ticket258.json,NaN,No,1.3,NaN,27/11/2019,0,NaN
 ticket259.json,NaN,No,4.65,NaN,27/11/2019,0,NaN
-ticket26.json,B40020604,No,50,NaN,02/12/2019,0,NaN
+ticket26.json,B40020604,No,50,NaN,21/03/2020,0,NaN
 ticket260.json,A82492729,No,0,NaN,28/11/2019,21,NaN
 ticket261.json,A82492729,No,0,NaN,27/11/2019,21,NaN
 ticket262.json,NaN,No,3.38,NaN,28/11/2019,0,NaN
@@ -986,34 +986,34 @@ ticket267.json,NaN,No,7.7,NaN,12/12/2019,0,NaN
 ticket268.json,NaN,No,15.95,NaN,11/12/2019,0,NaN
 ticket269.json,NaN,No,0,NaN,11/12/2019,21,NaN
 ticket27.json,NaN,No,0,NaN,27/12/2019,0,NaN
-ticket270.json,NaN,No,42.6,NaN,Invalid date,0,NaN
+ticket270.json,NaN,No,42.6,NaN,21/03/2020,0,NaN
 ticket271.json,NaN,Si,19.7,seq76404,11/12/2019,21,NaN
 ticket272.json,E40253932,No,2.5,fecha:tv-48981,12/12/2019,10,NaN
 ticket273.json,E40253932,No,1.7,fecha:tv-48978,12/12/2019,0,NaN
 ticket274.json,B29070943,Si,3.9,NaN,05/12/2010,0,NaN
-ticket275.json,NaN,No,6,c/caño7,Invalid date,0,NaN
-ticket276.json,NaN,No,27.2,NaN,Invalid date,10,NaN
-ticket277.json,NaN,No,21.51,48112,Invalid date,21,NaN
+ticket275.json,NaN,No,6,c/caño7,21/03/2020,0,NaN
+ticket276.json,NaN,No,27.2,NaN,21/03/2020,10,NaN
+ticket277.json,NaN,No,21.51,48112,22/11/2019,21,NaN
 ticket278.json,NaN,No,0,1/3/c051122,21/11/2019,4,NaN
 ticket279.json,NaN,No,3,DESCRIPCIÓN,21/11/2019,21,NaN
 ticket28.json,NaN,No,31.8,simplificadat/8226,26/12/2019,0,NaN
-ticket280.json,NaN,No,1.5011,NaN,25/11/2020,0,NaN
+ticket280.json,NaN,No,1.5011,NaN,20/11/2019,0,NaN
 ticket281.json,NaN,Si,0,1/3/c050900fecha,20/11/2019,0,NaN
 ticket282.json,NaN,No,5.4,NaN,19/11/2015,0,NaN
 ticket283.json,NaN,No,15,mc0369,03/12/2019,0,NaN
 ticket284.json,NaN,No,3028,imptoesb-41014028,22/11/2019,0,NaN
 ticket285.json,NaN,No,15,rasimplificada14316sti001,04/12/2019,21,NaN
-ticket286.json,NaN,No,5,paracualquiericiiencia,20/03/2020,0,NaN
+ticket286.json,NaN,No,5,paracualquiericiiencia,21/03/2020,0,NaN
 ticket287.json,NaN,No,3.05,19002015726,10/12/2019,0,NaN
 ticket288.json,NaN,No,10.8,270209-fecha:e-mail:prismacabriteria@gmailc,04/12/2019,21,NaN
-ticket289.json,NaN,No,1.05,NaN,20/03/2020,10,NaN
-ticket290.json,B83244160,No,8.75,opercajafecha/hora/turo,24/04/2012,10,NaN
-ticket291.json,B18905182,No,33.6,NaN,10/03/2012,0,NaN
-ticket292.json,NaN,No,0,miguelágelallassubtilrecibo60),20/03/2020,0,NaN
+ticket289.json,NaN,No,1.05,NaN,21/03/2020,10,NaN
+ticket290.json,B83244160,No,8.75,opercajafecha/hora/turo,04/12/2019,10,NaN
+ticket291.json,B18905182,No,33.6,NaN,03/12/2019,0,NaN
+ticket292.json,NaN,No,0,miguelágelallassubtilrecibo60),21/03/2020,0,NaN
 ticket293.json,A82492729,No,12.7,NaN,24/11/2019,21,NaN
 ticket294.json,NaN,No,0,autorizació274603,21/11/2019,0,NaN
 ticket295.json,NaN,No,4.65,NaN,22/11/2019,0,NaN
-ticket296.json,NaN,No,14,NaN,Invalid date,10,NaN
+ticket296.json,NaN,No,14,NaN,21/03/2020,10,NaN
 ticket297.json,NaN,No,18.4,50085-2,28/11/2019,21,NaN
 ticket298.json,NaN,No,17.05,49794-2,27/11/2019,21,NaN
 ticket299.json,NaN,No,25,NaN,24/11/2019,4,NaN
@@ -1021,36 +1021,36 @@ ticket30.json,B18796995,Si,50,expediete,09/07/2019,0,NaN
 ticket300.json,A82492729,No,0,NaN,22/11/2019,21,NaN
 ticket301.json,NaN,No,15.1,comesales,23/11/2019,10,NaN
 ticket302.json,NaN,No,3.3,comesales,23/11/2019,0,NaN
-ticket303.json,NaN,No,2.8,NaN,01/05/2063,10,NaN
+ticket303.json,NaN,No,2.8,NaN,22/11/2019,10,NaN
 ticket305.json,B18905182,No,46.8,NaN,23/11/2019,0,NaN
 ticket306.json,NaN,No,1.35,NaN,Invalid date,0,NaN
 ticket307.json,NaN,No,3.25,NaN,24/11/2019,0,NaN
 ticket308.json,NaN,No,0,colocarelforma,22/11/2019,0,NaN
 ticket309.json,NaN,No,40,NaN,27/11/2019,0,NaN
-ticket31.json,NaN,No,21.38,lpedido405-1580966-4260320,20/03/2020,0,NaN
+ticket31.json,NaN,No,21.38,lpedido405-1580966-4260320,21/03/2020,0,NaN
 ticket310.json,NaN,No,7.9,cocompra,27/11/2019,0,NaN
-ticket311.json,NaN,No,1.8,ecesariocompra,20/03/2020,21,NaN
+ticket311.json,NaN,No,1.8,ecesariocompra,21/03/2020,21,NaN
 ticket312.json,NaN,No,20,NaN,27/11/2019,0,NaN
 ticket313.json,NaN,No,24.99,tipodocumeto,30/11/2019,4,NaN
-ticket314.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket314.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket315.json,NaN,No,15.95,coservesuparacualquier,05/11/2019,0,NaN
-ticket316.json,NaN,No,8.56,reclamaciopresenteelyel,Invalid date,0,NaN
+ticket316.json,NaN,No,8.56,reclamaciopresenteelyel,03/12/2019,0,NaN
 ticket317.json,31678000P,No,11.05,17939,12/11/2019,21,NaN
-ticket318.json,NaN,Si,0,NaN,Invalid date,0,NaN
-ticket319.json,A86868189,Si,0,NaN,Invalid date,4,NaN
+ticket318.json,NaN,Si,0,NaN,27/09/2019,0,NaN
+ticket319.json,A86868189,Si,0,NaN,27/09/2019,4,NaN
 ticket32.json,NaN,No,18,pedido,24/06/2019,0,NaN
 ticket320.json,B90040346,Si,119,NaN,14/10/2019,10,NaN
-ticket321.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket321.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket322.json,NaN,No,10,NaN,21/11/2019,10,NaN
-ticket323.json,NaN,No,4032,NaN,13/11/2020,0,NaN
+ticket323.json,NaN,No,4032,NaN,21/11/2019,0,NaN
 ticket324.json,B40167421,No,10.65,1921202caja:109:55,04/12/2019,10,NaN
-ticket325.json,NaN,Si,0,cobrador,20/03/2020,0,NaN
-ticket326.json,NaN,No,5.5,19v80920100008976,28/11/2019,21,NaN
-ticket327.json,NaN,No,26.25,NaN,Invalid date,0,NaN
-ticket328.json,NaN,No,10,1920376076,Invalid date,21,NaN
-ticket329.json,A28425270,Si,29.9,NaN,Invalid date,21,NaN
-ticket33.json,NaN,No,106,reserva,20/03/2020,0,NaN
-ticket330.json,NaN,No,39.5,NaN,Invalid date,0,NaN
+ticket325.json,NaN,Si,0,cobrador,21/03/2020,0,NaN
+ticket326.json,NaN,No,5.5,19v80920100008976,21/03/2020,21,NaN
+ticket327.json,NaN,No,26.25,NaN,29/11/2019,0,NaN
+ticket328.json,NaN,No,10,1920376076,28/11/2013,21,NaN
+ticket329.json,A28425270,Si,29.9,NaN,01/12/2019,21,NaN
+ticket33.json,NaN,No,106,reserva,21/03/2020,0,NaN
+ticket330.json,NaN,No,39.5,NaN,03/12/2019,0,NaN
 ticket332.json,E40253932,No,1.3,cha:tv-47761,05/12/2019,10,NaN
 ticket333.json,E40253932,No,1.7,fecha:tv-47760,05/12/2019,10,NaN
 ticket334.json,E40253932,No,2.5,fecha:tv-47759,05/12/2019,10,NaN
@@ -1058,32 +1058,32 @@ ticket335.json,E40253932,No,1.3,fecha:tv-47636,04/12/2019,10,NaN
 ticket336.json,E40253932,No,1.7,tv-47638,04/12/2019,10,NaN
 ticket337.json,E40253932,No,1.7,a:tv-47496,03/12/2019,10,NaN
 ticket338.json,E40253932,No,2.5,fecha:,04/12/2019,10,NaN
-ticket34.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket34.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket340.json,E40253932,No,1.3,fecha:tv-47495,03/12/2019,10,NaN
-ticket341.json,NaN,No,7.5,ecesariocompra,20/03/2020,0,NaN
-ticket342.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket341.json,NaN,No,7.5,ecesariocompra,21/03/2020,0,NaN
+ticket342.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket343.json,E40253932,No,2.5,tv-47497,03/12/2019,10,NaN
 ticket344.json,A82492729,No,0,NaN,01/12/2019,21,NaN
-ticket345.json,E40173189,No,4.8,c\ifantaisabel6,20/03/2020,10,NaN
+ticket345.json,E40173189,No,4.8,c\ifantaisabel6,21/03/2020,10,NaN
 ticket346.json,E40253932,No,1.7,fecha:tv-47356,02/12/2019,10,NaN
 ticket347.json,E40253932,No,1.3,fecha:tv-47355,02/12/2019,10,NaN
-ticket348.json,A86868189,No,0.21,NaN,Invalid date,21,NaN
-ticket349.json,NaN,No,11.3,NaN,20/03/2020,0,NaN
-ticket35.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket350.json,NaN,No,12.99,citaeas,20/03/2020,0,NaN
+ticket348.json,A86868189,No,0.21,NaN,26/10/2019,21,NaN
+ticket349.json,NaN,No,11.3,NaN,21/03/2020,0,NaN
+ticket35.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket350.json,NaN,No,12.99,citaeas,21/03/2020,0,NaN
 ticket351.json,B19662477,Si,60,FECHA FACTURA:,01/12/2019,0,NaN
 ticket352.json,NaN,No,3.25,19b1000100013912,27/11/2019,0,NaN
 ticket353.json,NaN,No,0,colocarelformavisible,12/11/2019,0,NaN
 ticket354.json,NaN,No,0,colocarelformavissle,12/11/2019,0,NaN
 ticket355.json,NaN,No,0,colocarelformavisible,12/11/2019,0,NaN
-ticket356.json,NaN,No,7.1,NaN,13/11/2019,10,NaN
-ticket357.json,NaN,No,4779,NaN,20/03/2020,10,NaN
-ticket358.json,NaN,No,0,876701mgrecibo21,20/03/2020,0,NaN
+ticket356.json,NaN,No,7.1,NaN,21/03/2020,10,NaN
+ticket357.json,NaN,No,4779,NaN,21/03/2020,10,NaN
+ticket358.json,NaN,No,0,876701mgrecibo21,21/03/2020,0,NaN
 ticket359.json,NaN,No,2.8,comesales,23/11/2019,10,NaN
 ticket36.json,NaN,No,125.36,tarjeta,29/10/2019,0,NaN
 ticket360.json,NaN,No,0,licecia,22/11/2019,10,NaN
 ticket361.json,NaN,No,9.25,simp281281190281,23/11/2019,0,NaN
-ticket362.json,NaN,No,60,NaN,Invalid date,0,NaN
+ticket362.json,NaN,No,60,NaN,24/11/2019,0,NaN
 ticket363.json,B40257321,No,18.45,lacompraseharamediantevalela,23/11/2019,0,NaN
 ticket364.json,A82492729,No,0,NaN,19/11/2019,21,NaN
 ticket365.json,A82492729,No,0,NaN,19/11/2019,21,NaN
@@ -1103,7 +1103,7 @@ ticket378.json,NaN,No,14.7,imprescidibleconservareste,26/11/2019,4,NaN
 ticket38.json,B73347494,Si,219.83,pedido22019625512,19/11/2019,0,NaN
 ticket380.json,A82492729,No,0,NaN,26/11/2019,21,NaN
 ticket381.json,A82492729,No,10.257,NaN,26/11/2019,0,NaN
-ticket382.json,NaN,No,124,(copia),05/11/2020,0,NaN
+ticket382.json,NaN,No,124,(copia),26/11/2019,0,NaN
 ticket383.json,NaN,No,1.3,NaN,14/11/2019,0,NaN
 ticket384.json,A82492729,No,0,NaN,14/11/2019,21,NaN
 ticket385.json,A82492729,No,0,NaN,14/11/2019,21,NaN
@@ -1111,7 +1111,7 @@ ticket386.json,NaN,No,0,NaN,14/11/2019,0,NaN
 ticket387.json,A82492729,No,0,NaN,05/11/2019,21,NaN
 ticket388.json,NaN,No,10,NaN,25/10/2019,10,NaN
 ticket389.json,A82492729,No,0,NaN,25/10/2019,21,NaN
-ticket39.json,NaN,No,58,cofirmación2125056223,20/03/2020,10,NaN
+ticket39.json,NaN,No,58,cofirmación2125056223,21/03/2020,10,NaN
 ticket390.json,NaN,No,0,NaN,22/11/2019,0,NaN
 ticket391.json,NaN,No,0,colocarelformavisible,22/11/2019,0,NaN
 ticket392.json,A82492729,No,0,NaN,24/10/2019,21,NaN
@@ -1124,14 +1124,14 @@ ticket398.json,NaN,No,8331,NaN,20/11/2019,0,NaN
 ticket399.json,NaN,No,40.4,NaN,19/11/2019,10,NaN
 ticket40.json,NaN,No,1.35,NaN,26/12/2019,0,NaN
 ticket400.json,NaN,No,4.6,NaN,19/11/2019,0,NaN
-ticket401.json,NaN,No,30.5,TX COLA small,Invalid date,0,NaN
+ticket401.json,NaN,No,30.5,TX COLA small,30/10/2019,0,NaN
 ticket402.json,NaN,No,1.35,NaN,19/11/2019,0,NaN
 ticket403.json,NaN,No,10.1,NaN,28/10/2019,0,NaN
 ticket404.json,NaN,No,8331,NaN,20/11/2019,0,NaN
 ticket405.json,NaN,No,30.75,NaN,28/10/2019,0,NaN
 ticket406.json,NaN,No,4.6,NaN,20/11/2019,0,NaN
 ticket407.json,A82492729,No,0,NaN,19/11/2019,21,NaN
-ticket408.json,NaN,No,26.35,holysalsa,Invalid date,0,NaN
+ticket408.json,NaN,No,26.35,holysalsa,31/10/2019,0,NaN
 ticket409.json,A82492729,No,0,NaN,20/11/2019,21,NaN
 ticket41.json,NaN,Si,15.3,tb038324,26/12/2019,10,NaN
 ticket410.json,A82492729,No,0,NaN,05/11/2019,21,NaN
@@ -1155,7 +1155,7 @@ ticket426.json,NaN,No,1.3,NaN,12/11/2019,0,NaN
 ticket427.json,NaN,No,4.6,NaN,14/11/2019,0,NaN
 ticket428.json,NaN,No,5887,NaN,14/11/2019,0,NaN
 ticket429.json,A80393812,No,54.49,NaN,14/11/2019,0,NaN
-ticket43.json,B18905182,No,40,comesales4,10/04/2012,0,NaN
+ticket43.json,B18905182,No,40,comesales4,04/12/2019,0,NaN
 ticket430.json,A28017895,No,21.55,aparclimitado,19/11/2019,21,NaN
 ticket431.json,A82492729,No,0,NaN,12/11/2019,21,NaN
 ticket432.json,A82492729,No,0,NaN,14/11/2019,21,NaN
@@ -1165,37 +1165,37 @@ ticket435.json,B27350859,Si,38,"plazamartirescarral,11-20-27002-lugo-tel98222270
 ticket436.json,NaN,No,90,elblacoacreditaelpagolahabitacióntodosnuestrospreciossopconivaincluido,05/09/2019,0,NaN
 ticket437.json,NaN,No,90,imptoesb-41014028,16/09/2019,4,NaN
 ticket438.json,A28670396,No,0,NaN,13/09/2019,0,NaN
-ticket439.json,NaN,No,0,NaN,Invalid date,0,NaN
+ticket439.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket44.json,B18905182,No,40,NaN,04/12/2019,0,NaN
 ticket440.json,A28670396,No,0,NaN,13/09/2019,21,NaN
 ticket441.json,NaN,No,90,NaN,13/09/2019,0,NaN
 ticket442.json,A08225013,No,8.8,NaN,07/09/2019,10,NaN
-ticket443.json,B18905182,No,21.9,comesales2,10/06/2009,0,NaN
-ticket444.json,NaN,No,90,pedido48284515,20/03/2020,0,NaN
+ticket443.json,B18905182,No,21.9,comesales2,06/09/2019,0,NaN
+ticket444.json,NaN,No,90,pedido48284515,21/03/2020,0,NaN
 ticket445.json,NaN,No,10,NaN,15/03/2019,0,NaN
 ticket446.json,NaN,No,90,imptoesb-41014028,04/09/2019,0,NaN
-ticket447.json,B83115907,No,4.8,547876******00900000011572#1219#1003,Invalid date,10,NaN
-ticket448.json,B19554427,No,14.2,NaN,27/09/2020,0,NaN
+ticket447.json,B83115907,No,4.8,547876******00900000011572#1219#1003,21/03/2020,10,NaN
+ticket448.json,B19554427,No,14.2,NaN,03/09/2019,0,NaN
 ticket449.json,NaN,No,3.35,NaN,03/09/2019,21,NaN
 ticket45.json,NaN,No,6.5,NaN,03/12/2019,0,NaN
-ticket450.json,NaN,No,14.07,seadmitevolucionescon,Invalid date,4,NaN
+ticket450.json,NaN,No,14.07,seadmitevolucionescon,02/09/2019,4,NaN
 ticket451.json,NaN,No,21,NaN,01/09/2019,21,NaN
 ticket452.json,NaN,No,0,NaN,29/08/2019,0,NaN
 ticket453.json,NaN,No,0,tarjeta***********50090,29/08/2019,0,NaN
-ticket454.json,NaN,No,10.5,C. CONCEPTO,Invalid date,10,NaN
+ticket454.json,NaN,No,10.5,C. CONCEPTO,29/08/2019,10,NaN
 ticket455.json,NaN,No,0,eeastorga02,28/08/2019,0,NaN
 ticket456.json,NaN,No,4,kigahorrogr,28/08/2019,10,NaN
 ticket457.json,NaN,No,10,NaN,27/03/2019,4,NaN
-ticket458.json,B18905182,No,16.8,comesales2,Invalid date,0,NaN
+ticket458.json,B18905182,No,16.8,comesales2,22/08/2019,0,NaN
 ticket459.json,B09315250,No,40.75,NaN,21/08/2019,10,NaN
 ticket46.json,NaN,No,1.9,NaN,03/12/2019,0,NaN
 ticket460.json,A19025576,No,8.85,NaN,21/08/2019,10,NaN
-ticket461.json,NaN,No,37.5,111,Invalid date,10,NaN
+ticket461.json,NaN,No,37.5,111,21/08/2019,10,NaN
 ticket462.json,NaN,No,90,imptoesa59790147,21/08/2019,21,NaN
 ticket463.json,A28337764,No,0,NaN,21/08/2019,21,NaN
-ticket465.json,NaN,No,24.99,NaN,20/03/2020,0,NaN
+ticket465.json,NaN,No,24.99,NaN,21/03/2020,0,NaN
 ticket466.json,NaN,No,8.16,c/satodomingo72,15/11/2019,0,NaN
-ticket468.json,B18905182,No,21,NaN,10/12/2011,0,NaN
+ticket468.json,B18905182,No,21,NaN,12/11/2019,0,NaN
 ticket469.json,A82492729,No,0,NaN,12/11/2019,21,NaN
 ticket47.json,A82492729,No,0,NaN,03/12/2019,21,NaN
 ticket470.json,A82492729,No,0,NaN,07/11/2019,0,NaN
@@ -1204,157 +1204,157 @@ ticket472.json,A82492729,No,0,NaN,13/11/2019,21,NaN
 ticket473.json,A82492729,No,0,NaN,14/11/2019,21,NaN
 ticket474.json,A82492729,No,0,NaN,06/11/2019,21,NaN
 ticket475.json,A82492729,No,0,NaN,07/11/2019,21,NaN
-ticket476.json,B18905182,No,44.2,comesales3,Invalid date,0,NaN
-ticket477.json,NaN,No,21,##graciasporsuvisita###,Invalid date,0,NaN
+ticket476.json,B18905182,No,44.2,comesales3,14/11/2019,0,NaN
+ticket477.json,NaN,No,21,##graciasporsuvisita###,18/11/2019,0,NaN
 ticket48.json,B03093093,No,7454,yadjuteelcompra,03/12/2019,10,NaN
-ticket480.json,NaN,No,0,NaN,Invalid date,0,NaN
-ticket482.json,NaN,Si,18.54,pedidoamazoes405-8111898-2803533,20/03/2020,0,NaN
-ticket484.json,B18796995,No,14.43,tallesdelpedido407-4760025-5860322,20/03/2020,0,NaN
-ticket485.json,B18796995,No,8.99,tallesdelpedido405-8402768-3608311,20/03/2020,0,NaN
-ticket49.json,B18905182,No,40,NaN,10/03/2012,0,NaN
-ticket490.json,B18796995,No,28.86,tallesdelpedido405-4859693-4353958,20/03/2020,0,NaN
+ticket480.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket482.json,NaN,Si,18.54,pedidoamazoes405-8111898-2803533,21/03/2020,0,NaN
+ticket484.json,B18796995,No,14.43,tallesdelpedido407-4760025-5860322,21/03/2020,0,NaN
+ticket485.json,B18796995,No,8.99,tallesdelpedido405-8402768-3608311,21/03/2020,0,NaN
+ticket49.json,B18905182,No,40,NaN,03/12/2019,0,NaN
+ticket490.json,B18796995,No,28.86,tallesdelpedido405-4859693-4353958,21/03/2020,0,NaN
 ticket494.json,NaN,No,0,"sijualafuente,14",28/10/2019,21,NaN
-ticket495.json,NaN,No,10.17,seadmitevolucionescon,Invalid date,10,NaN
-ticket496.json,B18573931,No,34.4,kigahorromd,Invalid date,0,NaN
+ticket495.json,NaN,No,10.17,seadmitevolucionescon,19/07/2019,10,NaN
+ticket496.json,B18573931,No,34.4,kigahorromd,19/07/2019,0,NaN
 ticket498.json,A86868189,No,0,NaN,12/11/2019,0,NaN
 ticket499.json,NaN,No,3,unero,12/11/2019,10,NaN
-ticket501.json,B18905182,Si,78.5,NaN,Invalid date,0,NaN
-ticket503.json,NaN,No,19.5,NaN,Invalid date,0,NaN
-ticket504.json,NaN,No,0,NaN,Invalid date,0,NaN
+ticket501.json,B18905182,Si,78.5,NaN,12/11/2019,0,NaN
+ticket503.json,NaN,No,19.5,NaN,17/09/2019,0,NaN
+ticket504.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket505.json,NaN,No,714,mesa523persoas,16/09/2019,0,NaN
-ticket506.json,NaN,No,360.8,NaN,20/03/2020,4,NaN
-ticket508.json,B18905182,No,115.3,comesales4,Invalid date,0,NaN
+ticket506.json,NaN,No,360.8,NaN,21/03/2020,4,NaN
+ticket508.json,B18905182,No,115.3,comesales4,20/09/2019,0,NaN
 ticket509.json,B18410209,No,20.64,serie/,20/09/2019,10,NaN
 ticket510.json,A08225013,No,18.42,NaN,08/11/2019,10,NaN
-ticket511.json,A28017895,No,4.6,NaN,Invalid date,0,NaN
+ticket511.json,A28017895,No,4.6,NaN,08/11/2019,0,NaN
 ticket512.json,A82492729,No,7,NaN,29/10/2019,21,NaN
 ticket513.json,A28337764,No,0,NaN,08/11/2019,21,NaN
-ticket514.json,B18905182,No,35.5,comesales2,10/05/2011,0,NaN
+ticket514.json,B18905182,No,35.5,comesales2,05/11/2019,0,NaN
 ticket515.json,A82492729,No,0,NaN,31/10/2019,21,NaN
-ticket516.json,NaN,No,0.5,NaN,Invalid date,10,NaN
-ticket517.json,NaN,No,0.5,NaN,Invalid date,10,NaN
-ticket518.json,NaN,No,4.09,NaN,Invalid date,0,NaN
+ticket516.json,NaN,No,0.5,NaN,29/10/2019,10,NaN
+ticket517.json,NaN,No,0.5,NaN,29/10/2019,10,NaN
+ticket518.json,NaN,No,4.09,NaN,29/10/2019,0,NaN
 ticket519.json,A82492729,No,0,NaN,29/10/2019,21,NaN
 ticket52.json,A08225013,Si,8.86,NaN,11/11/2019,0,NaN
 ticket520.json,NaN,No,22,63842,10/10/2019,10,NaN
 ticket521.json,NaN,Si,8.1,NaN,07/11/2019,4,NaN
 ticket522.json,A82492729,No,0,NaN,31/10/2019,21,NaN
 ticket523.json,NaN,No,10,NaN,07/11/2019,0,NaN
-ticket524.json,NaN,No,3.95,"fotografial,jutoconsus",Invalid date,10,NaN
+ticket524.json,NaN,No,3.95,"fotografial,jutoconsus",08/11/2019,10,NaN
 ticket525.json,A28337764,No,0,NaN,08/11/2019,21,NaN
-ticket526.json,B18905182,No,11.8,comesales1,Invalid date,0,NaN
-ticket527.json,NaN,Si,26.13,NaN,24/01/6852,0,NaN
-ticket528.json,NaN,Si,26.13,liciasjamo,24/01/6852,0,NaN
+ticket526.json,B18905182,No,11.8,comesales1,23/10/2019,0,NaN
+ticket527.json,NaN,Si,26.13,NaN,21/03/2020,0,NaN
+ticket528.json,NaN,Si,26.13,liciasjamo,21/03/2020,0,NaN
 ticket529.json,B19649144,Si,29.2,NaN,08/10/2019,10,NaN
 ticket53.json,NaN,No,11.7,NaN,11/11/2019,0,NaN
-ticket530.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket531.json,NaN,No,20.9,aea172366,19/07/2020,10,NaN
-ticket532.json,NaN,No,598,solicitarurasasecurewrapcom,Invalid date,0,NaN
-ticket533.json,NaN,No,9,NaN,11/11/2011,4,NaN
-ticket534.json,NaN,No,10,aea193819,13/11/1931,0,NaN
-ticket535.json,NaN,No,10,aea193818,13/11/1931,21,NaN
-ticket536.json,NaN,No,4958,30422,20/03/2020,0,NaN
-ticket537.json,NaN,No,276,NaN,20/03/2020,0,NaN
-ticket538.json,NaN,No,0,NaN,Invalid date,0,NaN
-ticket539.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket54.json,A78492782,No,4.18,simpl1296/v11900034011,Invalid date,10,NaN
-ticket540.json,NaN,No,250,NaN,20/03/2020,0,NaN
+ticket530.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket531.json,NaN,No,20.9,aea172366,07/09/2019,10,NaN
+ticket532.json,NaN,No,598,solicitarurasasecurewrapcom,21/03/2020,0,NaN
+ticket533.json,NaN,No,9,NaN,12/09/2019,4,NaN
+ticket534.json,NaN,No,10,aea193819,07/09/2019,0,NaN
+ticket535.json,NaN,No,10,aea193818,07/09/2019,21,NaN
+ticket536.json,NaN,No,4958,30422,21/03/2020,0,NaN
+ticket537.json,NaN,No,276,NaN,21/03/2020,0,NaN
+ticket538.json,NaN,No,0,NaN,13/09/2019,0,NaN
+ticket539.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket54.json,A78492782,No,4.18,simpl1296/v11900034011,11/11/2019,10,NaN
+ticket540.json,NaN,No,250,NaN,21/03/2020,0,NaN
 ticket541.json,NaN,No,288,NaN,11/09/2019,0,NaN
-ticket542.json,NaN,No,4204,tarjeta/cta************8422,Invalid date,0,NaN
+ticket542.json,NaN,No,4204,tarjeta/cta************8422,21/03/2020,0,NaN
 ticket543.json,NaN,No,7.8,cobrorotacio,30/10/2019,0,NaN
-ticket544.json,NaN,No,0,476matrícula/ytystl,Invalid date,0,NaN
-ticket545.json,NaN,No,14.9,NaN,20/03/2020,10,NaN
+ticket544.json,NaN,No,0,476matrícula/ytystl,21/03/2020,0,NaN
+ticket545.json,NaN,No,14.9,NaN,21/03/2020,10,NaN
 ticket546.json,NaN,No,8422,imptoesb-41014028,30/10/2019,0,NaN
-ticket547.json,NaN,No,1,NaN,Invalid date,10,NaN
+ticket547.json,NaN,No,1,NaN,21/03/2020,10,NaN
 ticket548.json,NaN,No,15.5,NaN,15/10/2019,10,NaN
 ticket549.json,NaN,No,52.6,goikogrill,16/10/2019,0,NaN
 ticket550.json,NaN,No,8422,aparclimitado,04/09/2019,10,NaN
 ticket551.json,NaN,No,8422,NaN,04/09/2019,0,NaN
-ticket552.json,NaN,No,842,NaN,20/03/2020,0,NaN
-ticket553.json,NaN,No,8422,NaN,20/03/2020,0,NaN
-ticket554.json,B41974387,Si,106.4,NaN,Invalid date,0,NaN
-ticket555.json,NaN,No,127.6,NaN,20/03/2020,0,NaN
-ticket556.json,NaN,Si,8,NaN,Invalid date,0,NaN
+ticket552.json,NaN,No,842,NaN,21/03/2020,0,NaN
+ticket553.json,NaN,No,8422,NaN,21/03/2020,0,NaN
+ticket554.json,B41974387,Si,106.4,NaN,04/09/2019,0,NaN
+ticket555.json,NaN,No,127.6,NaN,21/03/2020,0,NaN
+ticket556.json,NaN,Si,8,NaN,29/10/2019,0,NaN
 ticket557.json,NaN,No,0,orr2123778,13/10/2019,10,NaN
 ticket558.json,NaN,No,1378,NaN,29/10/2019,0,NaN
-ticket559.json,NaN,No,20.4,001-000129,Invalid date,0,NaN
+ticket559.json,NaN,No,20.4,001-000129,09/10/2019,0,NaN
 ticket560.json,A82492729,No,0,NaN,26/10/2019,21,NaN
 ticket561.json,NaN,No,124,seq71644,29/08/2019,21,NaN
 ticket562.json,NaN,No,124,imptoescifa60526928,25/10/2019,0,NaN
-ticket563.json,NaN,No,389,NaN,Invalid date,0,NaN
+ticket563.json,NaN,No,389,NaN,21/03/2020,0,NaN
 ticket564.json,NaN,No,0,"c/jualafuente,14",25/10/2019,21,NaN
-ticket565.json,NaN,Si,7.55,turo0595,Invalid date,0,NaN
+ticket565.json,NaN,Si,7.55,turo0595,25/10/2019,0,NaN
 ticket566.json,NaN,No,0,"c/jualafuente,14",28/10/2019,21,NaN
-ticket567.json,NaN,No,8.72,NaN,Invalid date,10,NaN
-ticket568.json,NaN,Si,22,NaN,Invalid date,0,NaN
-ticket569.json,A82492729,No,9.6,NaN,20/03/2020,21,NaN
-ticket570.json,NaN,No,20.12,NaN,Invalid date,10,NaN
+ticket567.json,NaN,No,8.72,NaN,08/10/2019,10,NaN
+ticket568.json,NaN,Si,22,NaN,29/10/2019,0,NaN
+ticket569.json,A82492729,No,9.6,NaN,21/03/2020,21,NaN
+ticket570.json,NaN,No,20.12,NaN,13/09/2019,10,NaN
 ticket571.json,NaN,No,20.7,NaN,08/10/2019,10,NaN
 ticket572.json,A82492729,No,9.6,NaN,28/10/2019,21,NaN
 ticket573.json,NaN,No,13.1,NaN,28/10/2019,0,NaN
-ticket574.json,NaN,No,51.35,NaN,Invalid date,0,NaN
-ticket575.json,D01160076,No,52.45,NaN,Invalid date,4,NaN
+ticket574.json,NaN,No,51.35,NaN,25/10/2019,0,NaN
+ticket575.json,D01160076,No,52.45,NaN,30/08/2019,4,NaN
 ticket576.json,NaN,No,36,0032349 C,09/10/2019,10,NaN
 ticket577.json,NaN,No,124,comerciomdpq24xm,07/10/2019,0,NaN
-ticket578.json,NaN,No,6,23502,Invalid date,0,NaN
+ticket578.json,NaN,No,6,23502,05/11/2019,0,NaN
 ticket579.json,A82492729,No,0,NaN,05/11/2019,21,NaN
-ticket58.json,NaN,No,207,NaN,20/03/2020,0,NaN
+ticket58.json,NaN,No,207,NaN,21/03/2020,0,NaN
 ticket580.json,NaN,No,45710,NaN,05/11/2019,10,NaN
 ticket581.json,NaN,No,1.08,NaN,04/11/2019,4,NaN
 ticket583.json,B18573931,No,5.59,empleado00007013pe:025302,27/10/2019,10,NaN
 ticket584.json,NaN,No,4561,NaN,27/10/2019,0,NaN
-ticket585.json,A86868189,No,0,NaN,Invalid date,0,NaN
+ticket585.json,A86868189,No,0,NaN,25/10/2019,0,NaN
 ticket586.json,NaN,No,4.4,NaN,29/10/2019,10,NaN
-ticket587.json,NaN,No,6,NaN,20/03/2020,10,NaN
-ticket588.json,NaN,No,0,maletasobultos,20/03/2020,0,NaN
+ticket587.json,NaN,No,6,NaN,21/03/2020,10,NaN
+ticket588.json,NaN,No,0,maletasobultos,21/03/2020,0,NaN
 ticket589.json,NaN,No,7.5,simp27488/2019,30/10/2019,10,NaN
 ticket59.json,B18410209,No,19,serie/,18/12/2019,10,NaN
-ticket590.json,NaN,No,14.09,NaN,Invalid date,0,NaN
+ticket590.json,NaN,No,14.09,NaN,31/10/2019,0,NaN
 ticket591.json,B18410209,No,5.6,serie/,30/10/2019,10,NaN
 ticket592.json,NaN,No,24,licecia,29/10/2019,0,NaN
-ticket593.json,B18905182,No,54.8,comesales3,Invalid date,0,NaN
+ticket593.json,B18905182,No,54.8,comesales3,30/10/2019,0,NaN
 ticket594.json,NaN,No,7588,NaN,25/10/2019,0,NaN
-ticket595.json,NaN,No,0,NaN,Invalid date,0,NaN
+ticket595.json,NaN,No,0,NaN,24/10/2019,0,NaN
 ticket596.json,B18905182,Si,71.937,NaN,28/10/2019,21,NaN
-ticket597.json,NaN,No,3,o00004487cashiercashiero1,Invalid date,0,NaN
-ticket598.json,E40173189,No,4.8,--ifantaisabel6,20/03/2020,10,NaN
+ticket597.json,NaN,No,3,o00004487cashiercashiero1,21/03/2020,0,NaN
+ticket598.json,E40173189,No,4.8,--ifantaisabel6,21/03/2020,10,NaN
 ticket600.json,B18905182,No,135.2,comesales6,30/10/2019,0,NaN
-ticket602.json,NaN,No,4775,NaN,Invalid date,0,NaN
+ticket602.json,NaN,No,4775,NaN,30/10/2019,0,NaN
 ticket603.json,A82492729,No,0,NaN,29/10/2019,21,NaN
 ticket604.json,B18905182,No,128.4,NaN,30/10/2019,0,NaN
-ticket605.json,NaN,No,0.6,22875,08/10/2020,0,NaN
+ticket605.json,NaN,No,0.6,22875,28/10/2019,0,NaN
 ticket606.json,A60526928,No,8984,simplificada9791/0613/00613,20/10/2019,21,NaN
 ticket607.json,NaN,No,0,NaN,18/10/2019,21,NaN
 ticket608.json,NaN,No,0,NaN,18/10/2019,21,NaN
 ticket609.json,NaN,No,0,NaN,18/10/2019,21,NaN
 ticket61.json,NaN,No,29.3,NaN,23/12/2019,0,NaN
 ticket610.json,NaN,No,7,NaN,21/10/2019,21,NaN
-ticket611.json,A28354520,Si,118.24,NaN,Invalid date,21,NaN
+ticket611.json,A28354520,Si,118.24,NaN,21/03/2020,21,NaN
 ticket612.json,NaN,No,10,NaN,25/10/2019,10,NaN
 ticket614.json,A82492729,No,0,NaN,25/10/2019,21,NaN
 ticket615.json,NaN,No,10,NaN,25/10/2019,10,NaN
-ticket616.json,NaN,No,10,NaN,Invalid date,10,NaN
+ticket616.json,NaN,No,10,NaN,25/10/2019,10,NaN
 ticket617.json,NaN,No,10,NaN,25/10/2019,10,NaN
 ticket618.json,NaN,No,16.65,NaN,17/10/2019,10,NaN
-ticket619.json,NaN,No,26.85,"calfosoi,17",Invalid date,10,NaN
+ticket619.json,NaN,No,26.85,"calfosoi,17",16/10/2019,10,NaN
 ticket62.json,NaN,No,8331,NaN,20/12/2019,10,NaN
-ticket620.json,NaN,No,27.05,SOFA 2,Invalid date,10,NaN
-ticket621.json,NaN,Si,13.6,NaN,Invalid date,10,NaN
+ticket620.json,NaN,No,27.05,SOFA 2,17/10/2019,10,NaN
+ticket621.json,NaN,Si,13.6,NaN,18/10/2019,10,NaN
 ticket622.json,NaN,No,42.8,pzasatodomingo6-8pisolºlocales,14/10/2019,10,NaN
 ticket623.json,NaN,No,32.85,NaN,15/10/2019,0,NaN
-ticket624.json,A13048434,No,11.7,NaN,Invalid date,10,NaN
+ticket624.json,A13048434,No,11.7,NaN,14/10/2019,10,NaN
 ticket625.json,NaN,No,1.3,NaN,18/10/2019,0,NaN
 ticket626.json,NaN,No,4.65,NaN,18/10/2019,0,NaN
 ticket63.json,A60526928,No,0,NaN,23/12/2019,21,NaN
-ticket630.json,NaN,No,10.6,#churro,Invalid date,10,NaN
+ticket630.json,NaN,No,10.6,#churro,15/10/2019,10,NaN
 ticket631.json,E40253932,No,1.3,tv-41834,25/10/2019,10,NaN
 ticket632.json,NaN,No,1.3,tv-41651,24/10/2019,10,NaN
 ticket633.json,E40253932,No,2,NaN,25/10/2019,10,NaN
 ticket634.json,E40253932,No,1.7,fecha:tv-41650,24/10/2019,10,NaN
-ticket635.json,NaN,No,21,NaN,Invalid date,0,NaN
+ticket635.json,NaN,No,21,NaN,23/10/2019,0,NaN
 ticket636.json,B18905182,Si,211,e2019054167fecha:,21/10/2019,21,NaN
 ticket638.json,E40253932,No,2.5,fecha:tv-41528,23/10/2019,10,NaN
-ticket64.json,NaN,No,1,NaN,26/12/2020,0,NaN
+ticket64.json,NaN,No,1,NaN,18/12/2019,0,NaN
 ticket640.json,E40253932,No,1.3,echa:tv-41526,23/10/2019,10,NaN
 ticket641.json,E40253932,No,1.7,NaN,23/10/2019,10,NaN
 ticket642.json,E40253932,No,2.5,fecha:tv-41418,22/10/2019,10,NaN
@@ -1366,17 +1366,17 @@ ticket65.json,B19589647,No,3.5,NaN,13/12/2019,21,NaN
 ticket650.json,B23482383,No,10,NaN,21/10/2019,10,NaN
 ticket651.json,E40253932,No,1.3,fecha:tv-41283,21/10/2019,10,NaN
 ticket652.json,E40253932,No,1.7,fecha:tv-41284,21/10/2019,10,NaN
-ticket653.json,B84818442,No,15.54,aaportaciolpresenteen,Invalid date,21,NaN
+ticket653.json,B84818442,No,15.54,aaportaciolpresenteen,17/10/2019,21,NaN
 ticket654.json,B18905182,No,216.72,201194fecha,08/10/2019,21,NaN
-ticket655.json,NaN,No,10.8,287722,Invalid date,4,NaN
+ticket655.json,NaN,No,10.8,287722,21/03/2020,4,NaN
 ticket656.json,E40253932,No,2.5,fecha:tv-41163,20/10/2019,10,NaN
 ticket657.json,E40253932,No,1.3,1:tv-41161,20/10/2019,10,NaN
 ticket658.json,NaN,No,2,NaN,20/10/2019,10,NaN
-ticket659.json,B18905182,Si,34,comesales2,Invalid date,10,NaN
-ticket66.json,NaN,No,3.15,tipusorm-no2016,Invalid date,21,NaN
-ticket660.json,A78492782,No,48,NIF A78492782 30/09/2019 19:17:46,Invalid date,21,NaN
+ticket659.json,B18905182,Si,34,comesales2,08/10/2019,10,NaN
+ticket66.json,NaN,No,3.15,tipusorm-no2016,10/12/2019,21,NaN
+ticket660.json,A78492782,No,48,NIF A78492782 30/09/2019 19:17:46,30/09/2019,21,NaN
 ticket661.json,B86558947,No,11.9,21199,30/09/2019,0,NaN
-ticket662.json,A78492782,No,15.54,NIF A78492782 02/10/2019 21:26:23,Invalid date,21,NaN
+ticket662.json,A78492782,No,15.54,NIF A78492782 02/10/2019 21:26:23,02/10/2019,21,NaN
 ticket663.json,B18905182,No,10,NaN,15/10/2019,0,NaN
 ticket664.json,A82492729,No,0,NaN,17/10/2019,21,NaN
 ticket665.json,A82492729,No,9.6,NaN,17/10/2019,21,NaN
@@ -1394,11 +1394,11 @@ ticket675.json,NaN,No,0,NaN,01/10/2019,21,NaN
 ticket676.json,A82492729,No,0,NaN,01/10/2019,21,NaN
 ticket677.json,A82492729,No,0,NaN,30/09/2019,21,NaN
 ticket678.json,A82492729,No,0,NaN,30/09/2019,21,NaN
-ticket679.json,NaN,No,0,NaN,Invalid date,0,NaN
+ticket679.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket68.json,NaN,Si,0,51099exp00000083,11/12/2019,0,NaN
 ticket680.json,NaN,Si,0,"coservesu,esfmprescindibleparacualquiervolucion",18/10/2019,0,NaN
-ticket681.json,NaN,No,4.89,NaN,Invalid date,0,NaN
-ticket682.json,NaN,No,11.19,NaN,Invalid date,21,NaN
+ticket681.json,NaN,No,4.89,NaN,18/10/2019,0,NaN
+ticket682.json,NaN,No,11.19,NaN,30/09/2019,21,NaN
 ticket683.json,NaN,No,3,compray30diasdeplazo,21/09/2019,0,NaN
 ticket684.json,NaN,No,4,NaN,17/09/2019,10,NaN
 ticket685.json,NaN,No,4.8,operpayief285114911,30/08/2019,21,NaN
@@ -1413,23 +1413,23 @@ ticket692.json,NaN,No,7,NaN,24/09/2019,0,NaN
 ticket693.json,A82492729,No,0,NaN,24/09/2019,0,NaN
 ticket695.json,NaN,No,10,NaN,10/10/2019,0,NaN
 ticket696.json,NaN,No,33,comesales2,10/10/2019,0,NaN
-ticket697.json,NaN,No,0,liceciasusimportelservicio,20/03/2020,0,NaN
+ticket697.json,NaN,No,0,liceciasusimportelservicio,21/03/2020,0,NaN
 ticket698.json,NaN,No,24.3,comesales1,28/09/2019,0,NaN
 ticket699.json,NaN,No,36,NaN,02/10/2019,0,NaN
 ticket70.json,NaN,No,0,id125d1cd7340duxpzw5b,25/11/2019,21,NaN
-ticket700.json,NaN,No,0.38,02/E4E20201/3794100/07E3,Invalid date,10,NaN
+ticket700.json,NaN,No,0.38,02/E4E20201/3794100/07E3,03/10/2019,10,NaN
 ticket701.json,NaN,No,207,NaN,03/10/2019,0,NaN
 ticket702.json,NaN,No,207,NaN,03/10/2019,10,NaN
 ticket703.json,B45264884,No,5.4,NaN,03/10/2019,10,NaN
 ticket704.json,NaN,No,5.6,NaN,11/10/2019,0,NaN
-ticket705.json,NaN,No,0,NaN,Invalid date,21,NaN
-ticket706.json,NaN,No,64.64,ivaeu826012240,Invalid date,4,NaN
-ticket709.json,NaN,No,1.05,NaN,Invalid date,0,NaN
+ticket705.json,NaN,No,0,NaN,26/09/2019,21,NaN
+ticket706.json,NaN,No,64.64,ivaeu826012240,18/10/2019,4,NaN
+ticket709.json,NaN,No,1.05,NaN,16/10/2019,0,NaN
 ticket71.json,NaN,No,0,NaN,25/11/2019,21,NaN
-ticket711.json,NaN,No,41004,NaN,20/03/2020,10,NaN
-ticket712.json,NaN,No,41004,NaN,20/03/2020,10,NaN
-ticket713.json,NaN,No,5,NaN,Invalid date,0,NaN
-ticket714.json,NaN,No,7.8,comesales1,Invalid date,10,NaN
+ticket711.json,NaN,No,41004,NaN,21/03/2020,10,NaN
+ticket712.json,NaN,No,41004,NaN,21/03/2020,10,NaN
+ticket713.json,NaN,No,5,NaN,15/10/2019,0,NaN
+ticket714.json,NaN,No,7.8,comesales1,14/10/2019,10,NaN
 ticket715.json,NaN,No,3.4,1-1-1-260386,14/10/2019,10,NaN
 ticket716.json,NaN,No,5.4,comesales1,13/10/2019,10,NaN
 ticket717.json,NaN,No,0.4,NaN,13/10/2019,0,NaN
@@ -1441,8 +1441,8 @@ ticket721.json,NaN,No,7.8,comesales1,11/10/2019,10,NaN
 ticket722.json,NaN,No,3.4,1-1-1-259931,09/10/2019,10,NaN
 ticket723.json,NaN,No,20,NaN,08/10/2019,0,NaN
 ticket724.json,NaN,No,2.9,1-1-1-259850,08/10/2019,10,NaN
-ticket725.json,NaN,No,10,NaN,19/05/2010,0,NaN
-ticket726.json,NaN,No,4.3,NaN,20/03/2020,0,NaN
+ticket725.json,NaN,No,10,NaN,05/10/2019,0,NaN
+ticket726.json,NaN,No,4.3,NaN,21/03/2020,0,NaN
 ticket727.json,NaN,No,2.9,NaN,04/10/2019,10,NaN
 ticket728.json,NaN,No,2.9,1-1-1-259432,03/10/2019,10,NaN
 ticket729.json,NaN,No,2.49,NaN,03/10/2019,10,NaN
@@ -1452,12 +1452,12 @@ ticket731.json,NaN,No,5,NaN,02/10/2019,0,NaN
 ticket732.json,NaN,No,7,1-1-1-259312,02/10/2019,10,NaN
 ticket733.json,NaN,No,4.14,NaN,01/10/2019,10,NaN
 ticket734.json,NaN,No,7.9,1-1-1-259256,01/10/2019,10,NaN
-ticket735.json,NaN,No,12.55,NaN,20/03/2020,0,NaN
-ticket736.json,NaN,No,6.5,NaN,20/03/2020,0,NaN
+ticket735.json,NaN,No,12.55,NaN,21/03/2020,0,NaN
+ticket736.json,NaN,No,6.5,NaN,21/03/2020,0,NaN
 ticket737.json,E40253932,No,3,NaN,17/10/2019,10,NaN
 ticket738.json,E40253932,No,1.7,fecha:tv-40735,17/10/2019,10,NaN
 ticket739.json,NaN,No,4.65,NaN,16/10/2019,0,NaN
-ticket74.json,NaN,No,0,NaN,Invalid date,0,NaN
+ticket74.json,NaN,No,0,NaN,11/12/2019,0,NaN
 ticket740.json,NaN,No,1.35,NaN,16/10/2019,0,NaN
 ticket741.json,A82492729,No,0,NaN,16/10/2019,21,NaN
 ticket742.json,A82492729,No,0,NaN,15/10/2019,21,NaN
@@ -1466,9 +1466,9 @@ ticket744.json,NaN,No,8984,NaN,15/10/2019,0,NaN
 ticket745.json,B18410209,No,36,serie/,16/10/2019,10,NaN
 ticket746.json,E40253932,No,1.7,NaN,16/10/2019,10,NaN
 ticket747.json,E40253932,No,1.3,fecha:tv-40573,16/10/2019,10,NaN
-ticket748.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket748.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket749.json,NaN,No,0,licecia,09/10/2019,4,NaN
-ticket75.json,NaN,Si,14.2,NaN,Invalid date,10,NaN
+ticket75.json,NaN,Si,14.2,NaN,12/12/2019,10,NaN
 ticket750.json,NaN,No,9.35,NaN,09/10/2019,10,NaN
 ticket751.json,A82492729,No,0,NaN,10/10/2019,21,NaN
 ticket752.json,A82492729,No,0,NaN,10/10/2019,21,NaN
@@ -1479,13 +1479,13 @@ ticket756.json,NaN,No,14.6,92594tarifa:mesasmesa:21fecha:-22:11,08/10/2019,0,NaN
 ticket757.json,E40253932,No,1.7,NaN,11/10/2019,10,NaN
 ticket758.json,E40253932,No,1.3,fecha:tv-39801,11/10/2019,0,NaN
 ticket759.json,E40253932,No,1.7,NaN,10/10/2019,0,NaN
-ticket76.json,B79083796,No,3.1,NaN,Invalid date,10,NaN
+ticket76.json,B79083796,No,3.1,NaN,12/12/2019,10,NaN
 ticket760.json,E40253932,No,1.3,fecha:tv-39649,10/10/2019,10,NaN
 ticket761.json,E40253932,No,1.3,fecha:tv-39519,09/10/2019,10,NaN
 ticket762.json,E40253932,No,1.9,fecha:tv-39520,09/10/2019,10,NaN
 ticket763.json,A81516411,Si,21,NaN,01/10/2019,0,NaN
 ticket764.json,B18905182,Si,60,FACTE38731,01/10/2019,21,NaN
-ticket765.json,B18905182,Si,57,NaN,02/10/0191,10,NaN
+ticket765.json,B18905182,Si,57,NaN,02/10/2019,10,NaN
 ticket766.json,NaN,No,0,colocarelform,18/10/2019,0,NaN
 ticket767.json,A82492729,No,0,NaN,02/10/2019,21,NaN
 ticket768.json,NaN,No,1.5,NaN,03/10/2019,10,NaN
@@ -1495,14 +1495,14 @@ ticket770.json,NaN,No,9,NaN,26/09/2019,0,NaN
 ticket771.json,NaN,No,0,NaN,25/09/2019,10,NaN
 ticket772.json,A82492729,No,0,NaN,23/09/2019,21,NaN
 ticket773.json,A82492729,No,0,NaN,23/09/2019,21,NaN
-ticket774.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket775.json,NaN,No,16.45,NaN,Invalid date,0,NaN
+ticket774.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket775.json,NaN,No,16.45,NaN,04/10/2019,0,NaN
 ticket776.json,A28017895,No,7.2,cajero921,04/10/2019,0,NaN
 ticket777.json,A28337764,No,0,NaN,01/10/2019,21,NaN
-ticket778.json,NaN,No,7,NaN,Invalid date,10,NaN
+ticket778.json,NaN,No,7,NaN,21/03/2020,10,NaN
 ticket779.json,A82492729,No,0,NaN,02/10/2019,21,NaN
 ticket78.json,NaN,No,0,NaN,11/12/2019,21,NaN
-ticket780.json,NaN,No,9,NaN,13/02/2010,10,NaN
+ticket780.json,NaN,No,9,NaN,02/10/2019,10,NaN
 ticket781.json,NaN,No,1.5,NaN,03/10/2019,10,NaN
 ticket782.json,NaN,No,4.7,NaN,03/10/2019,10,NaN
 ticket783.json,NaN,Si,4.05,NaN,03/10/2019,4,NaN
@@ -1514,25 +1514,25 @@ ticket788.json,B18573931,No,7.8,pedido,04/10/2019,0,NaN
 ticket789.json,NaN,No,8331,NaN,04/10/2019,0,NaN
 ticket79.json,NaN,No,285,NaN,05/12/2019,0,NaN
 ticket790.json,NaN,No,12,NaN,27/09/2019,0,NaN
-ticket791.json,NaN,No,0,NaN,Invalid date,0,NaN
-ticket792.json,NaN,No,2.65,plazovoluc15diascuserve,Invalid date,0,NaN
+ticket791.json,NaN,No,0,NaN,27/09/2019,0,NaN
+ticket792.json,NaN,No,2.65,plazovoluc15diascuserve,30/09/2019,0,NaN
 ticket793.json,E40253932,No,1.3,fecha:tv-38751,04/10/2019,10,NaN
 ticket794.json,E40253932,No,2,fecha:tv-38752,04/10/2019,10,NaN
 ticket795.json,A08225013,Si,8.7,NaN,01/10/2019,10,NaN
 ticket796.json,NaN,No,9011,imptoescifa-60526928,02/10/2019,0,NaN
 ticket797.json,NaN,No,7,NaN,03/10/2019,10,NaN
-ticket799.json,NaN,No,119.25,NaN,Invalid date,10,NaN
+ticket799.json,NaN,No,119.25,NaN,27/09/2019,10,NaN
 ticket80.json,A08225013,Si,22.05,NaN,10/12/2019,10,NaN
-ticket800.json,NaN,No,56.7,NaN,Invalid date,10,NaN
+ticket800.json,NaN,No,56.7,NaN,02/10/2019,10,NaN
 ticket801.json,NaN,No,13.75,Ticket Num:,27/09/2019,0,NaN
 ticket802.json,NaN,No,4.8,NaN,27/09/2019,10,NaN
 ticket803.json,NaN,No,18.4,Ticket Num:,26/09/2019,0,NaN
 ticket804.json,NaN,No,15.3,NaN,27/09/2019,10,NaN
-ticket805.json,NaN,No,45.6,47209,Invalid date,10,NaN
+ticket805.json,NaN,No,45.6,47209,21/03/2020,10,NaN
 ticket806.json,NaN,No,3.6,NaN,26/09/2019,10,NaN
 ticket807.json,NaN,No,8.7,1-1-1-551492,26/09/2019,10,NaN
 ticket808.json,B18410209,No,19.85,serie/,26/09/2019,10,NaN
-ticket809.json,NaN,No,8331,NaN,20/03/2020,0,NaN
+ticket809.json,NaN,No,8331,NaN,21/03/2020,0,NaN
 ticket81.json,NaN,No,5.09,a/130177,11/12/2019,0,NaN
 ticket810.json,NaN,No,1.96,NaN,06/09/2019,21,NaN
 ticket811.json,E40253932,No,1.3,fecha:tv-38588,03/10/2019,10,NaN
@@ -1541,22 +1541,22 @@ ticket813.json,NaN,No,0,serieox70709cdif4873431bf,03/10/2019,0,NaN
 ticket814.json,NaN,No,4.239,observacioesssigüenzal16al22septiembre,03/10/2019,0,NaN
 ticket816.json,E40253932,No,2,NaN,02/10/2019,10,NaN
 ticket817.json,E40253932,No,1.3,cha:tv-38426,02/10/2019,10,NaN
-ticket818.json,NaN,Si,19.61,c/pardobaza20,10/01/2025,0,NaN
-ticket819.json,NaN,No,0,NaN,Invalid date,21,NaN
+ticket818.json,NaN,Si,19.61,c/pardobaza20,21/03/2020,0,NaN
+ticket819.json,NaN,No,0,NaN,26/09/2019,21,NaN
 ticket82.json,A82492729,No,0,NaN,12/12/2019,21,NaN
 ticket820.json,NaN,Si,68.4,NaN,26/09/2019,0,NaN
 ticket821.json,NaN,No,6.25,Ticket Num:,28/09/2019,0,NaN
-ticket822.json,NaN,No,50,00021819909:39,Invalid date,0,NaN
-ticket823.json,A86868189,No,0,NaN,Invalid date,0,NaN
-ticket824.json,NaN,No,3.6,NaN,Invalid date,0,NaN
-ticket829.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket822.json,NaN,No,50,00021819909:39,28/09/2019,0,NaN
+ticket823.json,A86868189,No,0,NaN,25/09/2019,0,NaN
+ticket824.json,NaN,No,3.6,NaN,26/09/2019,0,NaN
+ticket829.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket83.json,NaN,No,0,NaN,20/12/2019,21,NaN
-ticket830.json,NaN,No,0,so35#,20/03/2020,0,NaN
-ticket832.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket833.json,NaN,No,8,Artículo,Invalid date,10,NaN
-ticket834.json,NaN,No,4.1,seadmitevolucionescon,Invalid date,0,NaN
-ticket835.json,B18905182,No,16.5,comesales1,Invalid date,0,NaN
-ticket836.json,B18905182,No,78,comesales4,Invalid date,0,NaN
+ticket830.json,NaN,No,0,so35#,21/03/2020,0,NaN
+ticket832.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket833.json,NaN,No,8,Artículo,18/09/2019,10,NaN
+ticket834.json,NaN,No,4.1,seadmitevolucionescon,19/09/2019,0,NaN
+ticket835.json,B18905182,No,16.5,comesales1,18/09/2019,0,NaN
+ticket836.json,B18905182,No,78,comesales4,17/09/2019,0,NaN
 ticket837.json,A82492729,No,6.15,NaN,20/09/2019,21,NaN
 ticket838.json,A82492729,No,0,NaN,19/09/2019,21,NaN
 ticket839.json,A82492729,No,0,NaN,18/09/2019,21,NaN
@@ -1564,54 +1564,54 @@ ticket84.json,NaN,No,0,NaN,10/12/2019,21,NaN
 ticket840.json,A82492729,No,7,NaN,18/09/2019,21,NaN
 ticket841.json,A82492729,No,0,NaN,17/09/2019,21,NaN
 ticket842.json,A82492729,No,0,NaN,17/09/2019,21,NaN
-ticket843.json,NaN,No,5,recibo066452:15083,Invalid date,0,NaN
+ticket843.json,NaN,No,5,recibo066452:15083,21/03/2020,0,NaN
 ticket844.json,B19554427,No,138.7,NaN,29/09/2019,0,NaN
 ticket845.json,A28337764,No,0,NaN,07/08/2019,21,NaN
-ticket846.json,B18905182,No,101,comesales2,Invalid date,0,NaN
+ticket846.json,B18905182,No,101,comesales2,24/08/2019,0,NaN
 ticket847.json,NaN,Si,15.04,NaN,22/08/2019,0,NaN
 ticket848.json,A28354520,No,9010,NaN,18/09/2019,21,NaN
 ticket849.json,NaN,No,11.05,NaN,19/09/2019,0,NaN
 ticket85.json,NaN,Si,0,NaN,09/12/2019,21,NaN
-ticket852.json,NaN,No,2.4,o360646,Invalid date,4,NaN
-ticket853.json,NaN,No,21.8,NaN,20/03/2020,10,NaN
+ticket852.json,NaN,No,2.4,o360646,21/03/2020,4,NaN
+ticket853.json,NaN,No,21.8,NaN,21/03/2020,10,NaN
 ticket854.json,A08225013,No,5.85,NaN,07/09/2019,10,NaN
 ticket855.json,A82492729,No,8.5,NaN,07/09/2019,21,NaN
-ticket856.json,NaN,No,5.4,NaN,11/11/2011,10,NaN
-ticket857.json,NaN,No,9,06973,Invalid date,10,NaN
+ticket856.json,NaN,No,5.4,NaN,06/09/2019,10,NaN
+ticket857.json,NaN,No,9,06973,06/09/2019,10,NaN
 ticket858.json,NaN,No,6,0000002292cajero01,06/09/2019,10,NaN
 ticket859.json,NaN,No,408,imptoesb-11014028,04/09/2019,0,NaN
 ticket86.json,A28337764,No,0,NaN,10/12/2019,21,NaN
 ticket860.json,A60526928,No,9.95,imptoescifa-60526928,22/08/2019,0,NaN
-ticket861.json,NaN,No,5.758,NaN,Invalid date,0,NaN
+ticket861.json,NaN,No,5.758,NaN,03/09/2019,0,NaN
 ticket862.json,NaN,No,4.1,NaN,02/09/2019,10,NaN
 ticket863.json,A82492729,No,0,NaN,29/08/2019,21,NaN
-ticket864.json,NaN,No,8.4,000000019981,Invalid date,0,NaN
+ticket864.json,NaN,No,8.4,000000019981,28/08/2019,0,NaN
 ticket865.json,NaN,No,6.5,2551006032,23/08/2019,10,NaN
 ticket866.json,NaN,No,10,NaN,22/08/2013,0,NaN
 ticket867.json,NaN,No,2.95,imptoesa59790147,21/08/2019,21,NaN
 ticket868.json,NaN,No,11,fecha:23945,20/08/2019,10,NaN
 ticket869.json,A82492729,No,8.5,NaN,01/08/2019,21,NaN
 ticket87.json,NaN,No,0,NaN,10/12/2019,21,NaN
-ticket870.json,NaN,No,2,NaN,Invalid date,10,NaN
+ticket870.json,NaN,No,2,NaN,01/08/2019,10,NaN
 ticket872.json,NaN,No,3,simplitb00001tb349604fecha,21/06/2019,0,NaN
-ticket873.json,NaN,No,12,001-000040,Invalid date,10,NaN
+ticket873.json,NaN,No,12,001-000040,21/03/2020,10,NaN
 ticket874.json,NaN,No,2.4,NaN,21/07/2019,0,NaN
 ticket875.json,NaN,No,2,17/39974,24/07/2019,0,NaN
 ticket876.json,NaN,No,21,NaN,24/07/2019,0,NaN
-ticket877.json,NaN,No,1.35,NaN,02/07/2020,21,NaN
+ticket877.json,NaN,No,1.35,NaN,24/07/2019,21,NaN
 ticket878.json,NaN,No,4,NaN,31/07/2019,10,NaN
-ticket879.json,A28425270,No,9.81,NaN,Invalid date,0,NaN
+ticket879.json,A28425270,No,9.81,NaN,20/08/2019,0,NaN
 ticket88.json,NaN,No,0,NaN,09/12/2019,21,NaN
 ticket880.json,NaN,No,79.8,Caja 1 20-08-2019,20/08/2019,4,NaN
-ticket881.json,NaN,No,10.45,seadmitevolucionescon,Invalid date,4,NaN
-ticket882.json,A78492782,No,8.95,e/salcalapueblo15698,Invalid date,21,NaN
-ticket883.json,A78492782,No,6.08,calapueblo15698,Invalid date,21,NaN
+ticket881.json,NaN,No,10.45,seadmitevolucionescon,19/08/2019,4,NaN
+ticket882.json,A78492782,No,8.95,e/salcalapueblo15698,18/08/2019,21,NaN
+ticket883.json,A78492782,No,6.08,calapueblo15698,18/08/2019,21,NaN
 ticket884.json,NaN,No,22.5,19v80420100009254,17/08/1911,21,NaN
 ticket885.json,A28354520,No,4.95,NaN,05/08/2019,21,NaN
 ticket886.json,A13048434,No,6.4,NaN,01/08/2019,10,NaN
 ticket887.json,NaN,No,5.4,seq98162,31/07/2019,21,NaN
-ticket888.json,NaN,No,11.38,seadmitevolucionescon,Invalid date,4,NaN
-ticket889.json,NaN,No,11.46,seadmitevolucionescon,Invalid date,10,NaN
+ticket888.json,NaN,No,11.38,seadmitevolucionescon,31/07/2019,4,NaN
+ticket889.json,NaN,No,11.46,seadmitevolucionescon,30/07/2019,10,NaN
 ticket89.json,NaN,No,0,NaN,12/12/2019,21,NaN
 ticket890.json,A28354520,Si,6,NaN,29/07/2019,21,NaN
 ticket891.json,NaN,No,8.67,simplificada,25/07/2019,21,NaN
@@ -1619,28 +1619,28 @@ ticket892.json,NaN,No,90,imptoesb-41014028,23/07/2019,10,NaN
 ticket893.json,NaN,No,90,un19/0590770,22/07/2019,21,NaN
 ticket895.json,A82492729,No,0,NaN,12/09/2019,21,NaN
 ticket896.json,A82492729,No,0,NaN,12/09/2019,21,NaN
-ticket897.json,B18905182,No,30.2,comesales2,10/12/2009,0,NaN
-ticket898.json,B18905182,Si,48.8,NaN,Invalid date,10,NaN
-ticket899.json,B18905182,No,16.5,comesales2,10/03/2009,0,NaN
+ticket897.json,B18905182,No,30.2,comesales2,12/09/2019,0,NaN
+ticket898.json,B18905182,Si,48.8,NaN,07/09/2019,10,NaN
+ticket899.json,B18905182,No,16.5,comesales2,03/09/2019,0,NaN
 ticket9.json,B40020604,No,50,NaN,27/12/2019,0,NaN
 ticket90.json,NaN,No,10,simtb094964,11/12/2019,10,NaN
 ticket900.json,B18905182,No,66,comesales4,10/09/2019,0,NaN
 ticket901.json,B18905182,No,21.1,comesales2,10/09/2019,0,NaN
-ticket902.json,NaN,No,14,NaN,Invalid date,0,NaN
-ticket903.json,B18905182,No,4,comesales2,10/08/2009,0,NaN
-ticket904.json,B18905182,Si,50,NaN,Invalid date,10,NaN
-ticket905.json,B18905182,No,54.5,comesales2,Invalid date,0,NaN
-ticket906.json,NaN,No,15,sdelafechadel,20/03/2020,0,NaN
+ticket902.json,NaN,No,14,NaN,13/09/2019,0,NaN
+ticket903.json,B18905182,No,4,comesales2,08/09/2019,0,NaN
+ticket904.json,B18905182,Si,50,NaN,06/09/2019,10,NaN
+ticket905.json,B18905182,No,54.5,comesales2,14/09/2019,0,NaN
+ticket906.json,NaN,No,15,sdelafechadel,21/03/2020,0,NaN
 ticket907.json,A82492729,No,8.5,NaN,13/09/2019,21,NaN
 ticket908.json,B45812203,No,10,NaN,13/09/2019,10,NaN
 ticket909.json,B45812203,No,10,NaN,13/09/2019,10,NaN
-ticket91.json,NaN,Si,2892,NaN,Invalid date,10,NaN
-ticket910.json,E40173189,No,4.6,c\ifantaisabel6,20/03/2020,10,NaN
-ticket911.json,E40173189,Si,2.3,c\ifantaisabel6,20/03/2020,10,NaN
+ticket91.json,NaN,Si,2892,NaN,09/12/2019,10,NaN
+ticket910.json,E40173189,No,4.6,c\ifantaisabel6,21/03/2020,10,NaN
+ticket911.json,E40173189,Si,2.3,c\ifantaisabel6,21/03/2020,10,NaN
 ticket912.json,NaN,No,0,licecia,11/09/2019,0,NaN
-ticket913.json,NaN,No,4.25,NaN,Invalid date,10,NaN
+ticket913.json,NaN,No,4.25,NaN,21/03/2020,10,NaN
 ticket914.json,NaN,No,45710,NaN,09/09/2019,0,NaN
-ticket915.json,NaN,No,20,NaN,Invalid date,10,NaN
+ticket915.json,NaN,No,20,NaN,21/03/2020,10,NaN
 ticket916.json,NaN,No,6011,comesales1,11/09/2019,0,NaN
 ticket917.json,A82492729,No,0,NaN,10/09/2019,21,NaN
 ticket918.json,A82492729,No,0,NaN,10/09/2019,21,NaN
@@ -1649,14 +1649,14 @@ ticket92.json,NaN,No,15.1,342955,11/12/2019,0,NaN
 ticket920.json,NaN,No,45710,NaN,09/09/2019,0,NaN
 ticket921.json,NaN,No,7.82,licecia,10/09/2019,10,NaN
 ticket922.json,NaN,No,4.25,NaN,31/08/2019,0,NaN
-ticket923.json,NaN,No,10.71,NaN,Invalid date,0,NaN
-ticket924.json,NaN,No,2.8,NaN,Invalid date,0,NaN
-ticket925.json,NaN,No,7.43,NaN,Invalid date,0,NaN
+ticket923.json,NaN,No,10.71,NaN,27/08/2019,0,NaN
+ticket924.json,NaN,No,2.8,NaN,12/06/2019,0,NaN
+ticket925.json,NaN,No,7.43,NaN,22/08/2019,0,NaN
 ticket926.json,NaN,Si,11,NaN,20/08/2019,10,NaN
 ticket927.json,NaN,Si,5.45,NaN,23/08/2019,10,NaN
 ticket928.json,A08225013,No,3.25,NaN,24/08/2019,0,NaN
-ticket929.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket930.json,NaN,No,0,NaN,20/03/2020,0,NaN
+ticket929.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket930.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket931.json,NaN,No,7320,NaN,05/09/2019,0,NaN
 ticket932.json,NaN,No,0,NaN,05/09/2019,21,NaN
 ticket933.json,A82492729,No,0,NaN,05/08/2019,21,NaN
@@ -1666,63 +1666,63 @@ ticket936.json,A82492729,No,0,NaN,01/08/2019,21,NaN
 ticket937.json,A82492729,No,0,NaN,25/07/2019,21,NaN
 ticket938.json,A82492729,No,8.5,NaN,25/07/2019,21,NaN
 ticket939.json,A82492729,No,0,NaN,16/07/2019,21,NaN
-ticket94.json,NaN,No,15.6,NaN,Invalid date,10,NaN
+ticket94.json,NaN,No,15.6,NaN,10/12/2019,10,NaN
 ticket940.json,A82492729,No,8.5,NaN,16/07/2019,21,NaN
-ticket941.json,NaN,No,51,NaN,10/07/0192,21,NaN
+ticket941.json,NaN,No,51,NaN,10/07/2019,21,NaN
 ticket942.json,A82492729,No,0,NaN,10/07/2019,21,NaN
-ticket943.json,B18905182,No,38.5,comesales2,Invalid date,0,NaN
-ticket944.json,NaN,No,1.9,simplificada2014/0695/695,Invalid date,21,NaN
+ticket943.json,B18905182,No,38.5,comesales2,25/07/2019,0,NaN
+ticket944.json,NaN,No,1.9,simplificada2014/0695/695,17/07/2019,21,NaN
 ticket945.json,NaN,No,29.8,268358-fecha:e-mail:prismacabriteria@gmailc,10/07/2019,21,NaN
 ticket946.json,NaN,No,5.6,268427-fecha:e-mail:prismacabriteria@gmailc,16/07/2019,21,NaN
 ticket947.json,NaN,No,0,"•direcciócallesanjoaquín14b,3°c,180",08/07/1990,0,NaN
 ticket948.json,NaN,No,18,NaN,24/11/2019,0,NaN
-ticket949.json,NaN,No,2,NaN,Invalid date,0,NaN
+ticket949.json,NaN,No,2,NaN,21/03/2020,0,NaN
 ticket950.json,NaN,No,40,NaN,02/08/2019,0,NaN
 ticket951.json,NaN,No,15,NaN,01/08/2019,10,NaN
 ticket952.json,NaN,No,30.4,"avjuacarlosi,45avila",31/07/2019,0,NaN
 ticket953.json,NaN,No,8331,horario,01/08/2019,21,NaN
 ticket954.json,NaN,No,8331,NaN,31/07/2019,21,NaN
-ticket955.json,NaN,No,2.2,NaN,20/03/2020,0,NaN
-ticket956.json,B05187794,No,5.9,NaN,Invalid date,10,NaN
+ticket955.json,NaN,No,2.2,NaN,21/03/2020,0,NaN
+ticket956.json,B05187794,No,5.9,NaN,31/07/2019,10,NaN
 ticket957.json,A82492729,No,0,NaN,02/08/2019,21,NaN
-ticket958.json,NaN,No,3.5,NaN,20/03/2020,0,NaN
+ticket958.json,NaN,No,3.5,NaN,21/03/2020,0,NaN
 ticket959.json,NaN,No,1.3,NaN,31/07/2019,0,NaN
 ticket96.json,NaN,Si,23.5,sim_497_2019/1009371,28/11/2019,21,NaN
 ticket960.json,NaN,No,8331,NaN,31/07/2019,0,NaN
 ticket961.json,A82492729,No,0,NaN,31/07/2019,10,NaN
-ticket962.json,NaN,No,8331,NaN,20/03/2020,0,NaN
+ticket962.json,NaN,No,8331,NaN,21/03/2020,0,NaN
 ticket963.json,NaN,No,9.99,calleluisbuuel6,09/08/2019,21,NaN
-ticket964.json,NaN,No,1.8,NaN,Invalid date,4,NaN
-ticket965.json,NaN,No,0,NaN,20/03/2020,0,NaN
-ticket966.json,B18573931,No,8.99,NaN,Invalid date,10,NaN
-ticket967.json,NaN,No,356847,NaN,Invalid date,10,NaN
-ticket968.json,NaN,No,4.9,NaN,Invalid date,10,NaN
+ticket964.json,NaN,No,1.8,NaN,03/09/2019,4,NaN
+ticket965.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket966.json,B18573931,No,8.99,NaN,31/07/2019,10,NaN
+ticket967.json,NaN,No,356847,NaN,31/07/2019,10,NaN
+ticket968.json,NaN,No,4.9,NaN,31/07/2019,10,NaN
 ticket969.json,NaN,No,31.2,NORMAL,01/08/2019,0,NaN
 ticket97.json,A82492729,No,0,NaN,12/12/2019,21,NaN
 ticket970.json,NaN,No,32.1,NaN,05/09/2019,0,NaN
 ticket971.json,A62018064,No,2.65,NaN,04/09/2019,21,NaN
-ticket972.json,NaN,No,4.94,NaN,Invalid date,10,NaN
+ticket972.json,NaN,No,4.94,NaN,29/08/2019,10,NaN
 ticket973.json,B19521269,No,10,simp48019tc000075120hora:22:23,29/08/2019,10,NaN
 ticket977.json,A82492729,No,0,NaN,30/07/2019,21,NaN
 ticket978.json,A82492729,No,0,NaN,30/07/2019,21,NaN
 ticket98.json,A82492729,No,0,NaN,12/12/2019,21,NaN
-ticket980.json,NaN,No,5,Inscripción,20/03/2020,0,NaN
+ticket980.json,NaN,No,5,Inscripción,21/03/2020,0,NaN
 ticket981.json,NaN,No,9.5,NaN,05/08/2019,10,NaN
-ticket982.json,NaN,No,7.35,plazovoluc15diascoserve,Invalid date,0,NaN
+ticket982.json,NaN,No,7.35,plazovoluc15diascoserve,29/08/2019,0,NaN
 ticket983.json,NaN,No,7.9,simplificada005-079057,07/08/2019,21,NaN
-ticket984.json,B18905182,No,20.8,comesales4,Invalid date,0,NaN
-ticket985.json,NaN,No,4.2,aid0000000031010,Invalid date,0,NaN
-ticket986.json,NaN,No,0,NaN,Invalid date,0,NaN
-ticket987.json,NaN,No,0,NaN,Invalid date,0,NaN
-ticket988.json,B18905182,Si,139.1,comesales1,Invalid date,10,NaN
-ticket989.json,NaN,No,6.7,NaN,08/01/2020,10,NaN
+ticket984.json,B18905182,No,20.8,comesales4,13/08/2019,0,NaN
+ticket985.json,NaN,No,4.2,aid0000000031010,07/08/2019,0,NaN
+ticket986.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket987.json,NaN,No,0,NaN,21/03/2020,0,NaN
+ticket988.json,B18905182,Si,139.1,comesales1,02/08/2019,10,NaN
+ticket989.json,NaN,No,6.7,NaN,21/03/2020,10,NaN
 ticket99.json,NaN,No,5336,NaN,13/12/2019,21,NaN
 ticket990.json,NaN,No,8984,NaN,07/08/2019,0,NaN
-ticket991.json,B18905182,Si,92.1,comesales2,Invalid date,10,NaN
-ticket992.json,03430552X,No,50,NaN,Invalid date,0,NaN
-ticket993.json,B18905182,Si,220.7,comesales10,Invalid date,10,NaN
-ticket995.json,NaN,No,550.15,NaN,Invalid date,0,NaN
-ticket996.json,NaN,No,0,NaN,Invalid date,0,NaN
+ticket991.json,B18905182,Si,92.1,comesales2,15/08/2019,10,NaN
+ticket992.json,03430552X,No,50,NaN,13/08/2019,0,NaN
+ticket993.json,B18905182,Si,220.7,comesales10,02/08/2019,10,NaN
+ticket995.json,NaN,No,550.15,NaN,21/03/2020,0,NaN
+ticket996.json,NaN,No,0,NaN,21/03/2020,0,NaN
 ticket997.json,NaN,No,24.42,su-01375002,21/08/2019,0,NaN
-ticket998.json,NaN,No,4.65,plazovoluc15diascoserve,Invalid date,4,NaN
+ticket998.json,NaN,No,4.65,plazovoluc15diascoserve,27/07/2019,4,NaN
 ticket999.json,NaN,No,11.7,268551-fecha:e-mail:prismacabriteria@gmailc,12/08/2019,21,NaN
