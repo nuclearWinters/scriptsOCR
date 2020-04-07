@@ -13,7 +13,10 @@ const moment = require("moment");
 
 let date = "02-19-2019";
 
-date = date.replace(/[a-zA-Z]{3}/, x => x.charAt(0).toUpperCase() + x.slice(1));
+date = date.replace(
+  /[a-zA-Z]{3}/,
+  (x) => x.charAt(0).toUpperCase() + x.slice(1)
+);
 
 //console.log(moment());
 
@@ -40,4 +43,10 @@ let NIFNumero = /(?<![\da-zA-RT-Z])[ABCDEFGHJUV][-\s]?\d{2}.?\d{3}.?\d{2}[-\s]?\
 
 //console.log(regexCIF.test(cif));
 
-console.log(cif.match(regexCIF)[0]);
+//console.log(cif.match(regexCIF)[0]);
+
+let hasIVA = /\d([./-])([0-1]?\d|[a-zA-Z]{3})\1(\d{4}|\d{2})/.test(
+  "6/02/20 16:23 Caja:"
+);
+
+console.log(hasIVA);

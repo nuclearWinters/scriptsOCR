@@ -59,38 +59,48 @@ const handleResponseOCR = (data, catalogs) => {
 
   const str = data[0].description.split("\n");
 
-  const regexCIF = /(?<![\da-zA-Z])\d{2}.?\d{3}.?\d{3}[-\s]?[a-zA-Z](?![\da-zA-Z])|(?<![\da-zA-Z])[KLMXYZ][-\s]?\d{7}[-\s]?[a-zA-Z](?![\da-zA-Z])|(?<![\da-zA-RT-Z])[ABCDEFGHJUV][-\s]?\d{2}.?\d{3}.?\d{2}[-\s]?\d(?![\da-zA-Z])|(?<![\da-zA-RT-Z])[NPQRSW][-\s]?\d{7}[-\s]?[A-J](?![\da-zA-Z])/;
+  const regexCIF = /\d{2}.?\d{3}.?\d{3}[-\s]?[a-zA-Z](?![\da-zA-Z])|[KLMXYZ][-\s]?\d{7}[-\s]?[a-zA-Z](?![\da-zA-Z])|[ABCDEFGHJUV8][-\s]?\d{2}.?\d{3}.?\d{2}[-\s]?\d(?![\da-zA-Z])|[NPQRSW][-\s]?\d{7}[-\s]?[A-J](?![\da-zA-Z])/;
 
-  const CIF = str.find(
-    (item) =>
-      regexCIF.test(item) &&
-      (item.match(regexCIF) ? item.match(regexCIF)[0] !== "B18905182" : false)
-  );
+  const CIF = str.find((item) => regexCIF.test(item));
+
+  //Not in RN Code
+  let newStateCIF = CIF
+    ? CIF.match(regexCIF)[0].replace("-", "").replace(/\s+/g, "")
+    : "";
+
+  if (newStateCIF.slice(0, 1) === "8") {
+    newStateCIF = newStateCIF.replace("8", "B");
+  }
 
   if (CIF) {
     const providerFound = catalogs.providerId.values.find(
-      (i) =>
-        i.cif === CIF.match(regexCIF)[0].replace("-", "").replace(/\s+/g, "")
+      (i) => i.cif === newStateCIF
     );
     if (providerFound) {
       newState.providerTypeSelected = providerFound;
     }
   }
-  console.log(
-    `CIF: ${
-      CIF
-        ? CIF.match(regexCIF)[0].replace("-", "").replace(/\s+/g, "")
-        : undefined
-    }`
-  );
 
-  //Not in RN Code
-  newState.CIF = CIF
-    ? CIF.match(regexCIF)[0].replace("-", "").replace(/\s+/g, "")
-    : "";
+  //console.log("CIF: ", newStateCIF);
 
-  const esFactura = str.filter((item) => item.match(regexCIF)).length > 1;
-  console.log(`Es factura: ${esFactura}`);
+  newState.CIF = newStateCIF;
+
+  newState.arrayCIF = str
+    .filter((item) => regexCIF.test(item))
+    .map((item) => {
+      let itemReturned = item
+        .match(regexCIF)[0]
+        .replace("-", "")
+        .replace(/\s+/g, "");
+      if (itemReturned.slice(0, 1) === "8") {
+        itemReturned = itemReturned.replace("8", "B");
+      }
+      return itemReturned;
+    });
+
+  const esFactura = str.filter((item) => regexCIF.test(item)).length > 1;
+
+  //console.log(`Es factura: ${esFactura}`);
 
   newState.documentTypeSelected = esFactura ? 0 : 1;
 
@@ -106,7 +116,7 @@ const handleResponseOCR = (data, catalogs) => {
     str.filter((i) => i.toLowerCase().includes("cambio")).length > 0 ? 1 : 0
   ];
 
-  console.log(`Total : ${price || 0}`);
+  //console.log(`Total : ${price || 0}`);
   newState.price = price || 0;
 
   const invoiceNumberIndex = str.findIndex((item) =>
@@ -147,38 +157,53 @@ const handleResponseOCR = (data, catalogs) => {
         : str[invoiceNumberIndex + 1]
       : undefined;
 
-  console.log(`Invoice Num: ${invoiceNum}`);
+  //console.log(`Invoice Num: ${invoiceNum}`);
   newState.invoiceNum = invoiceNum;
 
   const fechaIndex = str.findIndex((item) =>
     item.toLowerCase().includes("fecha")
   );
 
-  const dateReg = /[0-3]\d([./-])([0-1]\d|[a-zA-Z]{3})\1(\d{4}|\d{2})/;
+  const dateReg1 = /[0-3]\d([./-])([0-1]?\d|[a-zA-Z]{3})\1(\d{4}|\d{2})/;
+  const dateReg2 = /\d([./-])([0-1]?\d|[a-zA-Z]{3})\1(\d{4}|\d{2})/;
 
-  let date =
-    fechaIndex !== -1
-      ? str
-          .map((item, index) => ({
-            description: item,
-            index: Math.abs(index - fechaIndex),
-          }))
-          .filter((item) => item.description.match(dateReg))
-          .sort((a, b) => a.index - b.index).length > 0
-        ? str
-            .map((item, index) => ({
-              description: item,
-              index: Math.abs(index - fechaIndex),
-            }))
-            .filter((item) => item.description.match(dateReg))
-            .sort((a, b) => a.index - b.index)[0]
-            .description.match(dateReg)[0]
-        : null
-      : (data[0].description.match(dateReg) &&
-          data[0].description.match(dateReg)[0]) ||
-        null;
+  let date;
 
-  console.log(`Fecha: ${date}`);
+  if (fechaIndex !== -1) {
+    let listWithIndex = str
+      .map((item, index) => ({
+        description: item,
+        index: Math.abs(index - fechaIndex),
+      }))
+      .sort((a, b) => a.index - b.index);
+    let filteredListWithIndex = listWithIndex.filter((item) =>
+      dateReg1.test(item.description)
+    );
+    if (filteredListWithIndex.length === 0) {
+      filteredListWithIndex = listWithIndex.filter((item) =>
+        dateReg2.test(item.description)
+      );
+      if (filteredListWithIndex.length === 0) {
+        date = null;
+      } else {
+        date = filteredListWithIndex[0].description.match(dateReg2)[0];
+      }
+    } else {
+      date = filteredListWithIndex[0].description.match(dateReg1)[0];
+    }
+  } else {
+    let dateReg1Founded = dateReg1.test(data[0].description);
+    let dateReg2Founded = dateReg2.test(data[0].description);
+    if (dateReg1Founded) {
+      date = data[0].description.match(dateReg1)[0];
+    } else if (dateReg2Founded) {
+      date = data[0].description.match(dateReg2)[0];
+    } else {
+      date = null;
+    }
+  }
+
+  //console.log(`Fecha: ${date}`);
 
   if (date) {
     date = date
@@ -213,124 +238,115 @@ const handleResponseOCR = (data, catalogs) => {
     newState.startDate = new Date(moment());
   }
 
-  let firstIVA = str.findIndex((item) =>
-    /total iva|\biva|i\.v\.a|![a-z]\s\d\d%/gi.test(item)
-  );
-  const secondIVA = str.filter((item) =>
-    /total iva|\biva|i\.v\.a|![a-z]\s\d\d%/gi.test(item)
-  );
+  let listIVAS = str.filter((item) => /(4|10|21).?%/.test(item));
+  let has4IVA = listIVAS.find((item) => /4.?%/.test(item)) ? true : false;
+  let has10IVA = listIVAS.find((item) => /10.?%/.test(item)) ? true : false;
+  let has21IVA = listIVAS.find((item) => /21.?%/.test(item)) ? true : false;
+  let listTrueIVAS = [has21IVA, has10IVA, has4IVA];
+  let lengthTRUE = listTrueIVAS.filter((item) => item === true).length;
 
-  const resultSecondIVA = secondIVA.filter((i) => {
-    const a = i
-      .split(" ")
-      .map((o) => parseFloat(o))
-      .filter((o) => !isNaN(o));
-    if (a.length) {
-      return a.reduce((b, c) => b * c);
+  if (lengthTRUE === 0) {
+    listIVAS = str.filter((item) => /(4|10|21)[,.].{1,3}%/.test(item));
+    has4IVA = listIVAS.find((item) => /4[,.].{1,3}%/.test(item)) ? true : false;
+    has10IVA = listIVAS.find((item) => /10[,.].{1,3}%/.test(item))
+      ? true
+      : false;
+    has21IVA = listIVAS.find((item) => /21[,.].{1,3}%/.test(item))
+      ? true
+      : false;
+    listTrueIVAS = [has21IVA, has10IVA, has4IVA];
+    lengthTRUE = listTrueIVAS.filter((item) => item === true).length;
+    if (lengthTRUE === 0) {
+      listIVAS = str.filter((item) =>
+        /(?:^|\s)((4|10|21)[,.]0{2,2})(?=\s|$)/.test(item)
+      );
+      has4IVA = listIVAS.find((item) =>
+        /(?:^|\s)(4[,.]0{2,2})(?=\s|$)/.test(item)
+      )
+        ? true
+        : false;
+      has10IVA = listIVAS.find((item) =>
+        /(?:^|\s)(10[,.]0{2,2})(?=\s|$)/.test(item)
+      )
+        ? true
+        : false;
+      has21IVA = listIVAS.find((item) =>
+        /(?:^|\s)(21[,.]0{2,2})(?=\s|$)/.test(item)
+      )
+        ? true
+        : false;
+      listTrueIVAS = [has21IVA, has10IVA, has4IVA];
+      lengthTRUE = listTrueIVAS.filter((item) => item === true).length;
+      if (lengthTRUE === 0) {
+        listIVAS = str.filter((item) => /(4|10|21)[,.]0{2,2}/.test(item));
+        has4IVA = listIVAS.find((item) => /4[,.]0{2,2}/.test(item))
+          ? true
+          : false;
+        has10IVA = listIVAS.find((item) => /10[,.]0{2,2}/.test(item))
+          ? true
+          : false;
+        has21IVA = listIVAS.find((item) => /21[,.]0{2,2}/.test(item))
+          ? true
+          : false;
+        listTrueIVAS = [has21IVA, has10IVA, has4IVA];
+        lengthTRUE = listTrueIVAS.filter((item) => item === true).length;
+        if (lengthTRUE === 0) {
+          listIVAS = str.filter((item) =>
+            /(?:^|\s)(21|10|4)(?=\s|$)/.test(item)
+          );
+          has10IVA = listIVAS.find((item) => /(?:^|\s)(10)(?=\s|$)/.test(item))
+            ? true
+            : false;
+          has21IVA = listIVAS.find((item) => /(?:^|\s)(21)(?=\s|$)/.test(item))
+            ? true
+            : false;
+          listTrueIVAS = [has21IVA, has10IVA, has4IVA];
+          lengthTRUE = listTrueIVAS.filter((item) => item === true).length;
+        }
+      }
     }
-    return false;
-  });
+  }
 
-  const hasSecondIVA =
-    resultSecondIVA.length &&
-    resultSecondIVA.length > 1 &&
-    resultSecondIVA.reduce((a, b) => a !== b);
-
-  console.log("hasSecondIVA", hasSecondIVA);
   const selectedIvas = [];
   const dataIvas = catalogs.ivas.values.map((i) => ({
     ...i,
-    value: hasSecondIVA
-      ? "0.00"
-      : ((price || 0) / (1 + Number(i.IVA) / 100)).toFixed(2),
   }));
-  if (firstIVA !== -1 && !hasSecondIVA) {
-    if (!str[firstIVA].match(/\d+/g)) {
-      firstIVA = firstIVA + 1;
+  if (lengthTRUE >= 1) {
+    if (has21IVA) {
+      selectedIvas.push(dataIvas.find((i) => i.IVA === "21"));
+      newState.iva = 3;
     }
-
-    str[firstIVA].replace("%", "");
-    const test = str[firstIVA].split(",");
-
-    if (Number(test[0]) <= 0) {
-      firstIVA = str.findIndex((item) => item.includes("%"));
-      if (firstIVA !== -1) {
-        if (!str[firstIVA].match(/\d+/g)) {
-          firstIVA = firstIVA + 1;
-        }
-      }
+    if (has10IVA) {
+      selectedIvas.push(dataIvas.find((i) => i.IVA === "10"));
+      newState.iva = 2;
     }
-    if (str[firstIVA]) {
-      if (str[firstIVA].includes("21")) {
-        console.log("IVA: 21%");
-        selectedIvas.push(dataIvas.find((i) => i.IVA === "21"));
-        newState.iva = 3;
-      } else if (str[firstIVA].includes("10")) {
-        console.log("IVA: 10%");
-        selectedIvas.push(dataIvas.find((i) => i.IVA === "10"));
-        newState.iva = 2;
-      } else if (str[firstIVA].includes("4")) {
-        console.log("IVA: 4%");
-        selectedIvas.push(dataIvas.find((i) => i.IVA === "4"));
-        newState.iva = 1;
-      } else {
-        console.log("IVA: 0%");
-        selectedIvas.push(dataIvas.find((i) => i.IVA === "0"));
-        newState.iva = 0;
-      }
-    } else {
-      console.log("IVA: 0%");
-      selectedIvas.push(dataIvas.find((i) => i.IVA === "0"));
-      newState.iva = 0;
+    if (has4IVA) {
+      selectedIvas.push(dataIvas.find((i) => i.IVA === "4"));
+      newState.iva = 1;
     }
-  } else if (hasSecondIVA) {
-    resultSecondIVA
-      .map((i) => i.replace(/[a-z]|:|\d,\d\d/gi, ""))
-      .forEach((i) => {
-        if (i.includes("21")) {
-          console.log("IVA: 21%");
-          selectedIvas.push(dataIvas.find((o) => o.IVA === "21"));
-        } else if (i.includes("10")) {
-          console.log("IVA: 10%");
-          selectedIvas.push(dataIvas.find((o) => o.IVA === "10"));
-        } else if (i.includes("4")) {
-          console.log("IVA: 4%");
-          selectedIvas.push(dataIvas.find((o) => o.IVA === "4"));
-        } else {
-          console.log("IVA: 0%");
-          selectedIvas.push(dataIvas.find((o) => o.IVA === "0"));
-        }
-      });
   } else {
-    console.log("IVA: 0%");
     selectedIvas.push(dataIvas.find((i) => i.IVA === "0"));
     newState.iva = 0;
   }
+
   newState.selectedIvas = selectedIvas;
   newState.catalogs = { ...catalogs, ivas: { values: dataIvas } };
   return newState;
 };
 
 fs.readdir(directoryPath, function (err, files) {
-  //handling error
   if (err) {
     return console.log("Unable to scan directory: " + err);
   }
-  //listing all files using forEach
   const records = [];
   const results = [];
   fs.createReadStream("GASTOScomprobado.csv")
     .pipe(csv())
     .on("data", (data) => results.push(data))
     .on("end", () => {
-      console.log(results);
       files.forEach(function (file) {
-        // Do whatever you want to do with the file
         console.log(file);
         let json = require("./facturas75/" + file);
-        const dataIvas = catalogs.ivas.values.map((i) => ({
-          ...i,
-        }));
         if (json.responses[0].textAnnotations) {
           let answer = handleResponseOCR(
             json.responses[0].textAnnotations,
@@ -356,7 +372,6 @@ fs.readdir(directoryPath, function (err, files) {
                 )}") pero se obtuvo ("${answer.price.toFixed(2)}")`
               : answer.price.toFixed(2)
             : "";
-          console.log(results[id]);
           record.TIPOIVA1 = answer.selectedIvas[0]
             ? (answer.selectedIvas[0].IVA === "0"
                 ? ""
@@ -426,17 +441,26 @@ fs.readdir(directoryPath, function (err, files) {
                 }") pero se obtuvo ("${
                   answer.documentTypeSelected === 1 ? "TICKET" : "FACTURA"
                 }")`;
+          /*console.log(answer.arrayCIF);
+          console.log(results[id]["CIF PROVEEDOR"]);
+          let hasCIF =
+            results[id]["CIF PROVEEDOR"] !== ""
+              ? answer.arrayCIF.find(
+                  (item) => item == results[id]["CIF PROVEEDOR"]
+                )
+              : true;*/
           record.CIFPROVEEDOR =
+            /*hasCIF
+            ? results[id]["CIF PROVEEDOR"]
+            : `Se esperaba ("${results[id]["CIF PROVEEDOR"]}") pero se obtuvo ("${answer.CIF}")`;*/
             answer.CIF !== results[id]["CIF PROVEEDOR"]
               ? `Se esperaba ("${results[id]["CIF PROVEEDOR"]}") pero se obtuvo ("${answer.CIF}")`
               : answer.CIF;
           records.push(record);
         }
       });
-      csvWriter
-        .writeRecords(records) // returns a promise
-        .then(() => {
-          console.log("...Done");
-        });
+      csvWriter.writeRecords(records).then(() => {
+        console.log("...Done");
+      });
     });
 });
